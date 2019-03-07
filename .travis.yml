@@ -1,7 +1,7 @@
 before_script:
   - wget https://github.com/jgm/pandoc/releases/download/2.7/pandoc-2.7-linux.tar.gz -O /tmp/pandoc.tar.gz
-  - tar -xvf /tmp/pandoc.tar.gz
-  - export PATH=$PATH:$PWD/pandoc-2.7/bin/
+  - tar -xvf /tmp/pandoc.tar.gz -C /tmp
+  - export PATH=$PATH:/tmp/pandoc-2.7/bin/
 script:
   - ./pandoc.sh
 deploy:
