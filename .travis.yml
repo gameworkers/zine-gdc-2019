@@ -1,0 +1,14 @@
+before_script:
+  - wget https://github.com/jgm/pandoc/releases/download/2.7/pandoc-2.7-linux.tar.gz -O /tmp/pandoc.tar.gz
+  - tar -xvf /tmp/pandoc.tar.gz
+  - export PATH=$PATH:$PWD/pandoc/bin/
+script:
+  - ./pandoc.sh
+deploy:
+  local-dir: copy-dest
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
