@@ -5,7 +5,7 @@ before_script:
 script:
   - ./pandoc.sh
 deploy:
-  local-dir: copy-dest
+  target-branch: master
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
