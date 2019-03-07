@@ -932,29 +932,20 @@ help put you in touch with local unions and even help you start a new chapter!
 ## And remember: you're not in this fight alone! Together, we can win better working conditions for **everyone**.
 
 
-## Notes
+[^1]: _Tweet by @TheFiremonkeys_, Sep 2018 https://twitter.com/thefiremonkeys/status/1043333183268257792
 
-[^1]: _Tweet by @TheFiremonkeys_, Sep 2018
-    [https://twitter.com/thefiremonkeys/status/1043333183268257792](https://twitter.com/thefiremonkeys/status/1043333183268257792)
+[^2]: https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288
 
-[^2]:
-     [https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288)
-
-[^3]: _How Telltale Went Broke_, Super Bunnyhop, Oct 2018:
-    [https://www.youtube.com/watch?v=2VR7Hl6SuXE](https://www.youtube.com/watch?v=2VR7Hl6SuXE)
+[^3]: _How Telltale Went Broke_, Super Bunnyhop, Oct 2018: https://www.youtube.com/watch?v=2VR7Hl6SuXE
 
 [^4]: Google Walkout twitter account: https://twitter.com/GoogleWalkout
 
-[^5]: _Microsoft workers call for canceling military contract for technology
-    that could turn warfare into a 'video game'_, The Washington Post, Feb 2019:
-    [https://www.washingtonpost.com/technology/2019/02/22/microsoft-workers-call-cancelling-military-contract-technology-that-could-turn-warfare-into-video-game](https://www.washingtonpost.com/technology/2019/02/22/microsoft-workers-call-cancelling-military-contract-technology-that-could-turn-warfare-into-video-game)
+[^5]: _Microsoft workers call for canceling military contract for technology that could turn warfare into a 'video game'_:
+    https://www.washingtonpost.com/technology/2019/02/22/microsoft-workers-call-cancelling-military-contract-technology-that-could-turn-warfare-into-video-game
 
-[^6]: "Union Employees: Are You Protected From Layoffs?," Lawyers.com,
-     [https://bit.ly/2IWnBBE](https://bit.ly/2IWnBBE)
+[^6]: "Union Employees: Are You Protected From Layoffs?" https://bit.ly/2IWnBBE
 
-[^7]:
-<p>
-    At Nintendo, Working All Night Is 'Mario Time'  <a href="https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341">https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341</a></p>
+[^7]: At Nintendo, Working All Night Is 'Mario Time'  https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341
 
 
 [^8]: Clint Hocking's blog - Ten Years Down
@@ -964,9 +955,7 @@ help put you in touch with local unions and even help you start a new chapter!
      government says
      [https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
 
-[^10]:
-<p>
-     CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077 <a href="https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/">https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/</a></p>
+[^10]: _CD Projekt Red developers speak up..._ https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/
 
 
 [^11]:
