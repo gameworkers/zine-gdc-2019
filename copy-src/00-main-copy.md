@@ -11,9 +11,9 @@ to reflect on the tidings of the past year, both good and ill.
 **Let's start with the ill**. Telltale, Capcom Vancouver, Visceral, Big Fish,
 Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet
 Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft,
-GOG, Techland, NetEase, Torus, EON, and Activision Blizzard — and forgive us if
-we've forgotten anyone, it's been a little hard to keep count — all suffered
-mass layoffs or were shuttered outright.
+GOG, Techland, NetEase, Valve, and Activision Blizzard — and forgive us if we've
+forgotten anyone, it's been a little hard to keep count — all suffered mass
+layoffs or were shuttered outright.
 
 You might not recognize all these names, but if you've been in the industry for
 a while there's a good chance you know someone who's been affected. Between
@@ -43,20 +43,23 @@ back**.
 In that same year of tumult, **over 25 local chapters of Game Workers Unite**
 were founded around the world. Earlier this year, **GWU UK formed an official
 trade union** in partnership with the Independent Workers Union of Great Britain
-(IWGB), joining the Syndicat des Travailleu.rs.ses du Jeu Vidéo (STJV) in France
-and the Game Makers of Finland as one of the first official unions representing
-game workers. GWU members have made zines, pamphlets, and other literature, and
-we've organized or taken part in dozens of panels, presentations, workshops, and
-public events. We've spoken to press, podcasters, and YouTubers, and helped
-shine a light on working conditions in the industry and the urgent need for
-unionization.
+(IWGB), joining the Syndicat des Travailleuse·eur·s du Jeu Vidéo (STJV) in
+France and the Game Makers of Finland as one of the first official unions
+representing game workers. GWU members have made zines, pamphlets, and other
+literature, and we've organized or taken part in dozens of panels,
+presentations, workshops, and public events. We've spoken to press, podcasters,
+and YouTubers, and helped shine a light on working conditions in the industry
+and the urgent need for unionization.
 
 But more than all that, **we've been engaging in on-the-ground organizing**.
 We've been forming workplace committees and building collective power to win
-concrete demands. This is arguably the most critical work we've been doing, but
-it's also the riskiest to talk about publicly. Organizing is a long haul, and
-doing it in the open only puts workers' jobs and well-being on the line. But **a
-sea change is happening**, even if you can't feel the waves from the shore.
+concrete demands. There's a lot of underground work happening that you won't
+hear about because of the risks for the workers involved, but we've already
+helped win gratifying **legal victories against some of the industry's most
+powerful bosses **and **reclaim stolen wages.** This is arguably the most
+critical work we've been doing. Organizing is a long haul, and doing it in the
+open would only put workers' jobs and well-being on the line. But **a sea change
+is happening**, even if you can't feel the waves from the shore.
 
 Crucially, **we're not alone**. The international labour movement is picking up
 steam: in India, **between 150 and 200 million workers** joined a general strike
@@ -65,16 +68,22 @@ comparable size in Europe would include the **entire combined labour force of
 the UK, Germany, France, Italy, Spain, and Portugal**.) The 2018 US prison
 strike, where inmates demanded an end to prison slavery, dehumanizing
 conditions, and racial discrimination, saw participation in at least 17 states
-and solidarity actions across North America and around the globe. Even in the
-tech sector (which historically has not been fertile ground for labor
-organizing) significant movements and actions are taking place. At Google,
-employees banded together to protest military AI contracts and organized a
-walkout against sexual harassment and a culture hostile to marginalized
-people[^4]. At Microsoft, workers are also in the process of organizing against
-the militarization of consumer technology like the Hololens[^5]. Meanwhile, an
-international wave of strikes in education, healthcare, hospitality,
-transportation, and many other industries showcased the scale and scope of
-workers' dissatisfaction with the status quo.
+and solidarity actions across North America and around the globe.
+
+Even in the tech sector (which historically has not been fertile ground for
+labour organizing) significant movements and actions are taking place. At
+Google, employees banded together to protest military AI contracts and organized
+a walkout against sexual harassment and a culture hostile to marginalized
+people[^4]. At Microsoft, workers are organizing against the use of their
+products for border policing and the surveillance of journalists and
+activists[^5] and against the militarization of consumer technology like the
+Hololens[^6] (which also concerns us, as many of these technologies are also
+developed for or used in games). Groups like Tech Workers Coalition are gaining
+traction as they support these struggles, and others, across their industry.
+
+Meanwhile, an international wave of strikes in education, healthcare,
+hospitality, transportation, and many other industries showcased the scale and
+scope of workers' dissatisfaction with the status quo.
 
 Together, we have the capacity to build a better, fairer, and more sustainable
 future for workers all around the globe. If you're a worker in games, abuses
@@ -95,7 +104,7 @@ unions have fought for and won in the past:
 Abolishing child labour • Safety regulations • Health care insurance •
 Unemployment insurance • Ending unpaid overtime • Protection from mass layoffs
 and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick
-leave • Paid parental leave • Annual Leave • Pensions • Week-ends • Meal breaks
+leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks
 
 In the sections that follow we'll break down some of the specific ways that
 unions can help workers in the game industry.
@@ -117,42 +126,40 @@ varies by country). A collective agreement is far from the only way of
 organizing or making demands — but it's a common and battle-tested one, and most
 collective agreements include some form of protection from layoffs by employers:
 
-
 > Some CBAs don't allow layoffs **even when the employer claims that it doesn't
 > have enough money to pay everyone on payroll**… **Similarly, many CBAs bar
 > employers from laying off union workers and subcontracting out their jobs**.
-
+>
 > **Many CBAs require employers to "recall" or rehire laid-off workers once the
-> need for the layoff subsides (for example, when work picks up again).**[^6]
+> need for the layoff subsides (for example, when work picks up again).**[^7]
 
 In an industry that often experiences cycles of hirings and layoffs as projects
 ramp up to full production, go gold, get cancelled, or change in scope, it's
 pretty obvious that even a weaker "right to recall" could still help buy workers
 extra stability and peace of mind.
 
-> "Sponge metaphor" of the talent pool?
-
-> ANIMATION INDUSTRY HAD A SCANDAL ON THIS, POSSIBLE REFERENCE? [found the
-> piece](https://www.cartoonbrew.com/ideas-commentary/op-ed-why-i-filed-the-wage-theft-lawsuit-against-major-animation-studios-169774.html)!
+Employers often treat the skilled labour force of game workers in a given region
+as a "talent pool" that they can sponge people from when they need them, and
+wring people back into when they're no longer needed. But we know that
+**precarity doesn't have to be a condition of working in the industry**.
 
 
 ### Crunch
+
 
 > In those days, Miyamoto would come to us at 11 PM, after he finished all of
 > his board-member work, and say, "**It's Mario time.**" At that point, we'd
 > start a planning meeting that would run until 2 AM.
 
-#### — Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS[^7]
+#### — Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS[^8]
 
 Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games
 co-founder and boss Dan Houser proudly declared to New York Magazine that
-workers **were**
-
-**regularly putting in 100-hour work weeks getting the game ready to ship**.
-Hang on — if you sleep around 8 hours a night there's only 112 hours in a week!
-Factor in transit (presuming people weren't sleeping under their desks, which is
-not a given), time to eat, etc., and that works out to Rockstar labourers
-spending almost every waking moment at their job.
+workers **were regularly putting in 100-hour work weeks getting the game ready
+to ship**. Hang on — if you sleep around 8 hours a night there's only 112 hours
+in a week! Factor in transit (presuming people weren't sleeping under their
+desks, which is not a given), time to eat, etc., and that works out to Rockstar
+labourers spending almost every waking moment at their job.
 
 Houser later retracted the statement, saying only the writing team was working
 those hours, and only during a period of a few weeks. But that only prompted
@@ -174,21 +181,16 @@ during development of that game a decade prior:
 > eaten great meals, gone to great bars, seen movies, played games, and talked
 > about our careers and the industry and our pasts and our futures, and all of
 > it was simply fucking gone. I could not remember any of it.
-
+>
 > To be clear — I do not mean I didn't remember what we did or what we talked
 > about. I mean that I literally had no memory of the events. To me it was like
 > it never happened. It was like he never visited. There was just an empty space
 > in my brain that had been overwritten by the stress and anxiety of Splinter
-> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**[^8]
+> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**[^9]
 
-Maybe Hocking got off easy. In 2016, a South Korean game developer was
-acknowledged to have "died from a work-related cause" after putting in months of
-intense overtime[^9].
-
-> A bill passed by the Abe government that comes into effect this April will
-> impose an "overtime cap" on corporations — though it limits that amount to 100
-> hours per month per person (equivalent to five hours of overtime every working
-> day) making it an almost implicit condonement of conditions.
+Maybe Hocking got off easy. In 2016, a game developer at South Korean company
+Netmarble was acknowledged to have "died from a work-related cause" after
+putting in months of intense overtime[^10].
 
 Many in the game industry try to paint crunch as unavoidable, but we believe it
 is ultimately a story of poor planning and unreachable deadlines — and more
@@ -203,7 +205,7 @@ workers out of a job by forcing too much work on existing employees.
 > When in Bioware they said they had a three-month crunch, we laughed. During
 > the Witcher 3, a lot of people crunched for over a year — some of them for
 > three years.
-
+>
 > Witcher 3 development kept getting worse by the month. The morale got very low
 > and everyone ended up complaining during crunch supper. Some of us were still
 > looking forward to being moved to Cyberpunk and having a fresh start with a
@@ -211,8 +213,7 @@ workers out of a job by forcing too much work on existing employees.
 > wilder, even more chaotic. At that time, almost everybody in my team wanted to
 > leave.
 
-#### — CD Projekt Red developer on conditions at the studio[^10]
-
+#### — CD Projekt Red developer on conditions at the studio[^11]
 
 ### Harassment
 
@@ -240,7 +241,7 @@ have unilateral power to make or break an employee's career, and therefore
 reduce harassment**. Since harassment is often tied to discrimination and a lack
 of diversity in the workplace, measures that increase diversity such as fairer
 hiring practices, wage equity, or more comprehensive health benefits, can also
-be a way to curb harassment.[^11]
+be a way to curb harassment.[^12]
 
 Marginalized workers, who are more likely to be the targets of harassment, are
 **already organizing** in many workplaces through whisper networks and informal
@@ -256,9 +257,9 @@ to divide and disempower us.
 
 ### Creative Control
 
-You might believe your bosses' motivation is to create great games, and in some
-cases that may be true, but at the end of the day they also have to sell those
-games, and that has a direct influence on creative decisions. Executives don't
+You might believe your employers' motivation is to create great games, and in
+some cases that may be true. But at the end of the day they're here to make
+money, and that has a direct influence on creative decisions. Executives don't
 necessarily care that the development team is aiming to make, say, a great
 single-player game, but they _do_ care about how Battle Royale games are
 outselling everything else right now and how microtransactions are a major
@@ -280,21 +281,16 @@ for your input, instead of having to work silently in a direction only to have
 to start again from scratch a month later because higher-ups decided a new trend
 needed to be worked into the project somehow?
 
-**Workers in the game industry are passionate about what they do — that's why
+Workers in the game industry are passionate about what they do — that's why
 companies get away with exploiting them! — so it is particularly hurtful when
-they're forced to create things that they don't believe in. **Whether workers
+they're forced to create things that they don't believe in. Whether workers
 ultimately agree with management's decisions or not, at least **in a unionized
-workplace, their opinion gets to be voiced and heard.**
+workplace, their opinion gets to be voiced and heard**.
 
-Workers who operate in worker co-ops agree that the structure of their studio is
-itself an integral part of their ability to create better games. (More on worker
-co-ops later!) A studio with a strong unionized workforce or a worker co-op not
-only helps improve conditions in the workplace, but it would also allow the
-people who actually make the games to exercise more creative control, to put
-their efforts towards something they believe in.
-
-> daryl gates & sierra
-> [https://waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s](https://waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s)
+A strong unionized workforce or a worker co-op doesn't just help improve
+conditions in the workplace! It also allows the people who _actually make the
+games_ to exercise more creative control and put their efforts towards something
+they believe in.
 
 
 ### Crediting Issues
@@ -304,7 +300,7 @@ get noticed. If you're new to the games industry, you might believe that getting
 credited for your work on a game is a straightforward process. But that's not
 always the case. Rockstar, for example, is known for holding credits over
 workers' heads as a reward for finishing work on a game. As journalist Richard
-Moss wrote last year[^12]:
+Moss wrote last year[^13]:
 
 > For studios, crediting can be a tool for leverage … [Rockstar] has long
 > maintained a policy of not crediting people who worked on a game unless they
@@ -315,35 +311,26 @@ This form of "encouragement" is not just manipulative, it hurts workers' ability
 to find future employment.
 
 Workers in other industries (such as film) have fought for and won the right to
-proper crediting through unions.[^13] Unions can do the same for the games
+proper crediting through unions.[^14] Unions can do the same for the games
 industry.
 
 
 ### Better Pay
 
-**> mention collective agreements as mechanism**
+Here's an easy one: **unionized workers have higher wages on average than
+workers who are not unionized** — often between **15 to 25%** more. With the
+leverage of an organized workforce, collective bargaining is a very effective
+way to make sure you're paid what you're worth. But **unions also benefit
+workers who are not unionized** by raising the bar for everyone. For example, a
+high school graduate whose workplace is _not_ unionized but who works in an
+industry that's 25% unionized overall **can still expect to be paid more** than
+similar workers in less unionized industries.[^15]
 
-**Unionized workers have higher wages on average than workers who are not
-unionized**, often between 15 to 25% more. **Unions also benefit workers who are
-not unionized** by raising the bar for everyone. For example, a high school
-graduate whose workplace is **not** unionized but who works in an industry
-that's 25% unionized overall can still expect to be paid more than similar
-workers in less unionized industries.  \
-([http://www.epi.org/publication/briefingpapers_bp143/](http://www.epi.org/publication/briefingpapers_bp143/))
-
- \
-**Unions can also help reduce inequality.** While** all **workers benefit from
+**Unions can also help reduce inequality**. While all workers benefit from
 having unions, those who benefit the most are typically the people who are the
-**most disempowered or in the most precarious positions.**
-
-> [Unions](https://www.vox.com/policy-and-politics/2017/4/17/15290674/union-labor-movement-europe-bargaining-fight-15-ghent)
-> get higher pay for their members by demanding money that would otherwise go to
-> shareholders and executives, and so shareholders and executives have every
-> reason to fight union drives,
-
-> "passion tax"
-
-> montreal salary collusion
+**most disempowered or in the most precarious positions**. On top of improving
+general working conditions for these folks, it also turns out solidarity is a
+great way to cut down the gendered pay gap.[^16]
 
 
 ## Versus Mode: Owners vs. Workers
@@ -360,12 +347,12 @@ need to look past the PR and into how the ownership of these companies is
 structured, where the profits go, and where decision-making power actually lies.
 
 **Any business is above all made up of its workers**: they are the ones who are
-actually producing what the business sells, and whose labor is the source of its
-profits. But who do these profits go to? Not to them, but rather to those who
-happen to own the company: the shareholders. Large publicly-traded corporations
-can have millions of shareholders, and while some companies can be owned by a
-single business owner, even tiny startups typically have outside investors as
-shareholders beyond the original founders.
+actually producing what the business sells, and whose labour is the source of
+its profits. But who do these profits go to? Not to them, but rather to those
+who happen to own the company: the shareholders. Large publicly-traded
+corporations can have millions of shareholders, and while some companies can be
+owned by a single business owner, even tiny startups typically have outside
+investors as shareholders beyond the original founders.
 
 To shareholders, all that the business represents is a source of profit, either
 through the business itself increasing in value, or through money dividends.
@@ -379,7 +366,7 @@ but that work is done by workers like you and me, not by them.)
 > decision..**. "You've got to cut the bridge when you realize you can't really
 > make a lot of money on something, so that's the decision we made."
 
-#### — Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure[^14]
+#### — Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure[^17]
 
 The main way shareholders exercise control over corporations is through
 elections of the board of directors. Shareholders leverage the amount of voting
@@ -444,21 +431,22 @@ shots, without any accountability to the people _actually making the game_.
 But it doesn't have to be this way! Workers have the potential power to change
 this dynamic and to force the businesses they work for to take their best
 interests into consideration too. This is because in every industry, every
-business, it's always their labor that is the source of all the owners' profits.
-**When it comes down to it, it's owners who need the workers, not the other way
-around.** Isolated from each other, workers are completely vulnerable to the
-whims of management, as they are devalued and reduced to having to beg for
-better conditions — but united and organized, workers can build the leverage to
-actually negotiate with management from a position of power. **Unionizing is the
-only way to tip the balance in the other direction** and create a better game
-industry for all workers!
+business, it's always their labour that is the source of all the owners'
+profits. **When it comes down to it, it's owners who need the workers, not the
+other way around.** Isolated from each other, workers are completely vulnerable
+to the whims of management, as they are devalued and reduced to having to beg
+for better conditions — but united and organized, workers can build the leverage
+to actually negotiate with management from a position of power. **Unionizing is
+the only way to tip the balance in the other direction** and create a better
+game industry for all workers!
 
-Beyond this, **we can also imagine a different way to structure the industry**,
-one that would not fundamentally rely on the exploitation of workers for the
-benefit of shareholders. This is where worker cooperatives come in: businesses
-with no external shareholders that are entirely and collectively owned by all
-the workers who work there themselves, allowing them to earn the full benefit of
-their labour. Check page X for more info on worker cooperatives.
+Beyond this, **we can also imagine an entirely different way of structuring the
+industry** — one that would not fundamentally rely on the exploitation of
+workers for the benefit of shareholders. This is where worker cooperatives come
+in: these are businesses with no external shareholders that are entirely and
+collectively owned by all the workers who work there themselves, allowing them
+to earn the full benefit of their labour. (Check the section on worker co-ops
+later in the zine!)
 
 
 ## How gamer rage is harnessed to discipline workers
@@ -468,11 +456,11 @@ their labour. Check page X for more info on worker cooperatives.
 > turn on the screen and it's just this world that exists on TV. **I think you
 > gain something by not knowing how they're made.**
 
-#### — Rockstar Games' co-founder Dan Houser on the development of Red Dead Redemption 2 [^15]
+#### — Rockstar Games' co-founder Dan Houser on the development of Red Dead Redemption 2 [^18]
 
 There is no real reason why workers and consumers should have different
-interests or be at odds with one another. When you think about it, it sounds
-absurd! Many workers take a great deal of pride and personal satisfaction from
+interests or be at odds with one another. It sounds absurd when you think about
+it: many workers take a great deal of pride and personal satisfaction from
 making games that players love to play, and without workers there would be no
 games for players to enjoy in the first place. Unfortunately, **many players
 don't know the conditions under which games are made** (in large part because
@@ -498,8 +486,8 @@ who scapegoat them for everything they believe is wrong with games.
 
 Sadly, they often succeed in goading bosses into punishing or even firing these
 workers: two well-known examples are last year's firing of Jessica Price and
-Peter Fries from ArenaNet[^16] and the dismissal of Alison Rapp from Nintendo in
-2016[^17]. Look a little closer and you'll discover these aren't isolated cases:
+Peter Fries from ArenaNet[^19] and the dismissal of Alison Rapp from Nintendo in
+2016[^20]. Look a little closer and you'll discover these aren't isolated cases:
 in private conversation, in whisper networks, **incidents like these are all too
 common**.
 
@@ -527,18 +515,8 @@ effectively make workers responsible for being a 24/7 brand ambassador on top of
 their regular job — and for no additional compensation, to boot. (What a
 bargain!)
 
-In a statement to Polygon a month after the ArenaNet incident, Riot Games
-(themselves still grappling with an _internal_ culture of sexism and
-harassment[^18]) clarified their apparently long-standing position on employees'
-use of social media:
-
-> "**Direct engagement with players online and IRL is something we encourage all
-> Rioters to do** if they feel comfortable doing so. [...] **For many years
-> we've provided training to every Rioter about how to have _authentic and
-> appropriate_ player conversations**."[^19]
-
 In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
-Anti-Union Violence_"[^20], Lana Polansky writes:
+Anti-Union Violence_"[^21], Lana Polansky writes:
 
 > "**As long as gamers direct their grievances at individual workers**,
 > videogame companies understand that they can use that dynamic **to shield
@@ -549,15 +527,15 @@ Anti-Union Violence_"[^20], Lana Polansky writes:
 > the industry's internal workings. That shroud, however, seems to be starting
 > to clear."
 
-We saw such tactics being deployed most clearly against voice actors of the game
-industry in 2016, when studio owners at Activision, EA, Disney, Warner Bros,
-Take-Two, and others launched a website[^21] and video explicitly targeted at a
-gamer audience and demonizing the SAG-AFTRA voice actors' union for demanding,
-among other things, better safety standards for voice strain and risks
-associated with stunt coordination (for motion capture), an improved structure
-for bonus payments, transparency and employment mobility. The rhetoric being
-that those things would somehow lead to worse games for consumers, in a
-transparent effort to direct fan rage at the workers.
+This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
+Warner Bros, Take-Two, and others launched a website[^22] and video that
+explicitly targeted a gamer audience and demonized the SAG-AFTRA voice actors'
+union. At the time, union members were demanding, among other things, better
+safety standards for voice strain and risks associated with stunt coordination
+(for motion capture), an improved structure for bonus payments, better
+transparency, and employment mobility. **In a blatant effort to direct fan rage
+at the workers**, bosses argued that these demands would somehow lead to worse
+games for consumers.
 
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
@@ -581,9 +559,9 @@ industry.
 
 As union talk continues to spread throughout the game industry, bosses who feel
 threatened are turning to an arsenal of tactics to break up organizing and
-discourage and demoralize workers. **Thankfully for us, their toolbox is rather
-limited**, and throughout every industry and every era, we keep seeing the exact
-same dirty tricks being re-used by bosses over and over again. This means that
+discourage and demoralize workers. **Luckily for us, their toolbox is rather
+limited**: throughout every industry and every era, we keep seeing the exact
+same dirty tricks being reused by bosses over and over again. This means that
 **by learning to recognize them and warning our fellow workers about them, we
 can be ready and prepared when they inevitably get pulled out** and render them
 ineffective. Here's a few classics:
@@ -612,15 +590,15 @@ industry conferences or industry-oriented websites…
 Bosses often encourage workers to talk to them directly about workplace issues,
 insisting their "door is always open" and that no one will be reprimanded for
 sharing concerns. A well-worn tactic everywhere from the game industry to
-companies like Wal-Mart or Amazon[^22], this "open door policy" sounds harmless
+companies like Wal-Mart or Amazon[^23], this "open door policy" sounds harmless
 on the surface.
 
 In fact, **this is the number one way management maintains full control over
 information flow in the workplace **and ensure they are able to nip any seed of
 organizing in the bud. They'll say they are here to help and are genuinely
-concerned about your well-being. But the catch is that** it's a way to ensure
-workers only ever interact with management alone, as isolated and disempowered
-individuals, instead of turning to their coworkers for support and solidarity**.
+concerned about your well-being. But the catch is that **it's a way to ensure
+workers only ever interact with management alone** as isolated and disempowered
+individuals, instead of turning to their coworkers for support and solidarity.
 Bosses will make vague promises and excuses, reassuring you that your issues are
 taken seriously and will be addressed eventually, while also instructing you to
 keep things quiet and only ever discuss the issue in question directly with
@@ -632,13 +610,13 @@ the eyes and ears of management**.
 
 ### "Unions might be great for other companies/industries, but it's different here!"
 
-Whether it's because games are "too creative a medium," "too recent an
-industry," "too dependent on flexibility" (boss-speak for worker precarity) or
-because the company is "too indie," or "too large," not making enough money or
-"making too much" — you'll hear all sorts of reasons why your job is very
-special, unique, and different when it comes to unionizing. The funny thing, of
-course, is that every boss in every industry says the exact same thing to their
-workers! (Protip: It's never true.)
+ Whether it's because games are "too creative a medium," "too recent an
+ industry," "too dependent on flexibility" (boss-speak for worker precarity) or
+ because the company is "too indie," or "too large," not making enough money or
+ "making too much" — you'll hear all sorts of reasons why your job is very
+ special, unique, and different when it comes to unionizing. The funny thing, of
+ course, is that every boss in every industry says the exact same thing to their
+ workers! (WORKERTIP: It's never true.)
 
 
 ### Framing the union as a "third party"
@@ -671,9 +649,9 @@ number of unions that specialize in helping such workers fight for better
 conditions or gain full employee status. Recently, artists and lecturers
 (primarily women) at Britain's National Gallery won a case which confirmed that,
 because they were required to attend training sessions and were paid from the
-same source as non-contractual employees, they were not in fact self-employed.
+same source as noncontractual employees, they were not in fact self-employed.
 This meant they were entitled to the same benefits as so-called "permanent"
-employees.[^23] **Remember that if you're hired to work for someone who makes a
+employees.[^27] **Remember that if you're hired to work for someone who makes a
 profit from selling what you produce, you can unionize**.
 
 
@@ -682,15 +660,15 @@ profit from selling what you produce, you can unionize**.
 A common line — and one frequently internalized by workers — is that if workers
 unionize, bosses will make cuts to jobs or outsource them to where labour is
 cheaper and less organized. Whether management is assuring you that they're
-really sorry but they have no choice and it's "just the way it is," or they're
+really sorry but they have no choice and it's "just the way it is" or they're
 openly threatening direct retaliation for unionizing, **the important thing to
 keep in mind is that the goal of these threats is to create fear and compliance
 through intimidation. They usually have no basis in anything concrete**.
 
 Bosses lay off workers all the time for no good reason, and unionizing is the
 only way you have to protect yourself from that. Remember that it's always our
-labor that creates value for the business owners, and that they can't get rid of
-all of us or they'd be getting rid of the very source of all their profits.
+labour that creates value for the business owners, and that they can't get rid
+of all of us or they'd be getting rid of the very source of all their profits.
 Besides, **relocating is an extremely expensive endeavour for any business to
 make, and not something that can be decided on a whim simply to punish workers
 for unionizing**. This is especially true if the union movement is one that
@@ -729,17 +707,17 @@ reproduces the same power dynamics that were always present in your workplace,
 and that it was implemented in a top-down fashion to ensure its loyalty to the
 owners over the workers. This sort of cooptation can really succeed at
 appropriating and neutralizing pro-union sentiment, dramatically setting back
-any genuine organizing efforts —** don't let it happen to you!**
+any genuine organizing efforts — **don't let it happen to you!**
 
-A similar role is played in our broader industry by **some currently-existing
-industry organizations, who publicly claim to represent game developers but in
-practice are led and funded exclusively by business owners and management**, and
+A similar role is played in our broader industry by some currently-existing
+industry organizations, who publicly claim to represent game developers but **in
+practice are led and funded exclusively by business owners and management** and
 have consistently sided with their interests over those of workers whenever they
-conflict. The IGDA is of course one of these organizations (see our review of
-the IGDA in the previous issue!) but there are other examples too. A similar
+conflict. The IGDA is one of these organizations, of course (see our review of
+the IGDA in the previous issue!), but there are other examples too. A similar
 role is played in Québec by "La Guilde", and in France by the "Syndicat National
-du Jeu Vidéo" (the SNJV, not to be confused with the STJV, the _actual_ French
-game workers' union).
+du Jeu Vidéo" (SNJV, not to be confused with the STJV, which is the actual
+French game workers' union).
 
 
 ### Scab Labour
@@ -751,14 +729,13 @@ workers**. Scabs are often brought in temporarily from the outside in an
 emergency as a way to replace workers who are trying to unionize. Bosses will
 sometimes even make a point of offering scabs all the demands that the
 organizing workers originally put forward, while continuing to refuse them to
-the latter - just as a way of demoralizing you by making the point that your
+the latter — just as a way of demoralizing you by making the point that your
 demands can in fact easily be met, but that it's really about punishing you "on
 principle" for standing up for your rights.
 
-> Scab voice actor labor!
-> *   life is strange (during the sag-aftra strike, so even worse!)
-> *   re2 remake
-> *   nintendo by policy doesn't work with union labour (such as voice actors) at all… and it shows
+During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
+notably used — and roundly criticized — in the _Life Is Strange_ prequel _Before
+the Storm_.[^25]
 
 In order to work towards the long-term goal of a unionized game industry, it
 will be important to create a culture where taking a scab contract is treated as
@@ -766,7 +743,6 @@ the despicable, selfish act that it is — and one that harms the scabs themselv
 in the longer term.
 
 ## Workers' Cooperatives: A New Way of Creating Commercial Games
-
 
 ### No Bosses Required!
 
@@ -776,15 +752,15 @@ their own boss." And it makes sense! Who wants to be exploited for someone
 else's profits when you could start your own studio and earn the full benefit of
 your labour?
 
-**Game workers are also particularly lucky that they work in an industry where
+Game workers are also particularly lucky that they work in an industry where
 starting your own game studio, although far from being accessible to everyone,
-is much easier than, say, starting your own car factory as an auto worker.**
-Game studios need much less starting capital — no expensive machinery or raw
+is much easier than, say, starting your own car factory as an auto worker. Game
+studios need much less starting capital — no expensive machinery or raw
 materials are required.
 
-**The problem with the traditional "startup" model, however, is that it
+The problem with the traditional "startup" model, however, is that **it
 inevitably tends to replicate the worst problems of the existing game
-industry.** The few founders who are lucky enough to launch a successful
+industry**. The few founders who are lucky enough to launch a successful
 business might never need to get a job working for someone else ever again, but
 it will be at the expense of the workers they hire as employees as their
 business expands. Their employees will be the ones now working for their
@@ -792,8 +768,8 @@ profits, thus reproducing the relationship of exploitation that is found
 everywhere else in the industry.
 
 But it doesn't have to be that way! **This is where workers' cooperatives come
-in: workers' co-ops are businesses that are fully and democratically owned by
-the people who work there.** Nobody in a workers' co-op is working to create
+in**: workers' co-ops are businesses that are **fully and democratically owned
+by the people who work there**. Nobody in a workers' co-op is working to create
 profits for some shareholder, and everyone can earn the full value of their
 labour. When the co-op expands, new workers become worker-owners, as opposed to
 merely being employees hired by separate business owners. Many people who start
@@ -814,7 +790,7 @@ exploitative to their employees as any other business. There are even some
 business owners' associations that style themselves as "cooperatives" — in the
 Québec game industry, for instance, a group called _La Guilde_ has gotten
 significant media attention and funding and now proudly claims to be the
-"largest cooperative in this industry in the world"[^24] — but in actuality
+"largest cooperative in this industry in the world"[^26] — but in actuality
 they're nothing more than cartels. So this can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
@@ -853,7 +829,7 @@ employers, even if you think they're sympathetic to your cause.**
    great resources for learning how to organize your own workplace, and
    establishing relationships now can strengthen both parties' actions in the
    future. **If possible, talk to experienced organizers or attend a training
-   session on workplace organizing. **
+   session on workplace organizing.**
 2. **Talk to your coworkers** one-on-one about their problems in the workplace,
    away from the supervision of management. Ask questions, and let them tell you
    the things that they want to fix; listen carefully, and don't assume you know
@@ -931,76 +907,87 @@ help put you in touch with local unions and even help you start a new chapter!
 
 ## And remember: you're not in this fight alone! Together, we can win better working conditions for **everyone**.
 
+[^1]:
+    _Tweet by @TheFiremonkeys_, Sep 2018  [https://twitter.com/thefiremonkeys/status/1043333183268257792](https://twitter.com/thefiremonkeys/status/1043333183268257792)
 
-[^1]: _Tweet by @TheFiremonkeys_, Sep 2018 https://twitter.com/thefiremonkeys/status/1043333183268257792
+[^2]:
+     [https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288)
 
-[^2]: https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288
+[^3]:
+    _How Telltale Went Broke_, Super Bunnyhop, Oct 2018: [https://www.youtube.com/watch?v=2VR7Hl6SuXE](https://www.youtube.com/watch?v=2VR7Hl6SuXE)
 
-[^3]: _How Telltale Went Broke_, Super Bunnyhop, Oct 2018: https://www.youtube.com/watch?v=2VR7Hl6SuXE
+[^4]:
+     [https://twitter.com/GoogleWalkout](https://twitter.com/GoogleWalkout)
 
-[^4]: Google Walkout twitter account: https://twitter.com/GoogleWalkout
+[^5]:
+     [https://twitter.com/techworkersco/status/1103502027726995459](https://twitter.com/techworkersco/status/1103502027726995459)
 
-[^5]: _Microsoft workers call for canceling military contract for technology that could turn warfare into a 'video game'_:
-    https://www.washingtonpost.com/technology/2019/02/22/microsoft-workers-call-cancelling-military-contract-technology-that-could-turn-warfare-into-video-game
+[^6]:
+     [https://twitter.com/MsWorkers4](https://twitter.com/MsWorkers4)
 
-[^6]: "Union Employees: Are You Protected From Layoffs?" https://bit.ly/2IWnBBE
+[^7]:
+     Union Employees: Are You Protected From Layoffs? [https://bit.ly/2IWnBBE](https://bit.ly/2IWnBBE)
 
-[^7]: At Nintendo, Working All Night Is 'Mario Time'  https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341
+[^8]:
+    At Nintendo, Working All Night Is 'Mario Time'  https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341
 
 
-[^8]: Clint Hocking's blog - Ten Years Down
-     [https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html)
+[^9]:
+     Clint Hocking's blog - Ten Years Down [https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html)
 
-[^9]: Crunch mode caused a young Netmarble game developer's death, Korean
-     government says
-     [https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
-
-[^10]: _CD Projekt Red developers speak up..._ https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/
-
+[^10]:
+     Crunch mode caused a young Netmarble game developer's death, Korean government says [https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
 
 [^11]:
-     [https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/](https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/)
+     CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077 https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/
+
 
 [^12]:
-     [https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)
+     [https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/](https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/)
 
 [^13]:
-     [http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
+     [https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/](https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/)
 
 [^14]:
-<p>
-    Gamasutra - EA: Visceral's canned Star Wars project too linear for modern tastes <a href="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php">https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php</a></p>
-
+     [https://twitter.com/SimplyRagny/status/1058198479707820032](https://twitter.com/SimplyRagny/status/1058198479707820032)
 
 [^15]:
-<p>
-     "Red Dead Redemption 2's labor controversy, explained", Polygon, 2018 <a href="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor">https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</a></p>
-
+     [https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)
 
 [^16]:
-     [https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired)
+     [http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
 
 [^17]:
-     [https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368)
+     http://www.epi.org/publication/briefingpapers_bp143/
+
 
 [^18]:
-     [https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483](https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483)
+     https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&
+
 
 [^19]:
-     [https://www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet](https://www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet)
+    Gamasutra - EA: Visceral's canned Star Wars project too linear for modern tastes [https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
 
 [^20]:
-     [https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
+     "Red Dead Redemption 2's labor controversy, explained", Polygon, 2018 [https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
 
 [^21]:
-     [https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
+     [https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired)
 
 [^22]:
-     [https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)
+     [https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368)
 
 [^23]:
-     https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html
+     [https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
 
-[^24]: La Guilde Receives a $750,000 Grant:
+[^24]:
+     [https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
+
+[^25]:
+     [https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)
+
+[^26]: La Guilde Receives a $750,000 Grant:
     [https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins](https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins)
 
+[^27]:
+     https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html

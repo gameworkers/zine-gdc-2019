@@ -9,7 +9,7 @@ involved.
 But in a way, it's the hypothetical possibility of calling a strike that forms
 the basis of our power when we unionize. It's because our labour is the source
 of all profits that the idea of workers withdrawing that labour is so
-threatening to bosses. It's our biggest bargaining chip.
+threatening to bosses. **It's our biggest bargaining chip**.
 
 Ideally, strikes would never happen, and reason would always prevail in
 negotiations with bosses. When strikes do happen, it's because those
@@ -18,3 +18,4 @@ between management and the union. Everybody wants to avoid that and find a
 better solution, but the important thing to remember is that without the
 potential to call a strike as a last-resort measure, workers would have no real
 leverage with bosses, and bosses would have no reason to take them seriously.
+

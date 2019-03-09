@@ -7,17 +7,15 @@ not just "game dev"? Isn't that simpler?
 When we talk about game workers, we're referring to **anyone involved with the
 production of a game**. Programmers, artists, designers, musicians? Yep. Voice
 and mocap actors, audio engineers? Definitely. Community managers? Of course.
-But we're also talking about workers that people who play games might not
-instantly associate with production. What about factory workers who manufacture
-the consoles that games are played on? And workers mining the coltan used in
-those consoles? How about the people working to prepare food at the cafeteria on
-the company campus? Even if it may be less obvious, **these workers are all
-essential to the production of games**. **They're game workers too**.
+But we're also talking about workers whom players may not instantly associate
+with production. What about factory workers who manufacture the consoles that
+games are played on? And workers mining the coltan used in those consoles? How
+about the people working to prepare food at the cafeteria on the company campus?
+Even if it may be less obvious, these workers are all **essential to the
+production of games**. They're game workers too.
 
-> students, interns, unemployed game workers
+If you're in the industry but currently unemployed, **you're also a game
+worker**. The same goes for students and interns. In an industry where so much
+labour is erased or goes unrecognized, it's important that we stick together and
+resist bosses' efforts to divide and conquer.
 
-> conclude -- why are we making this point?
-
-> streamers, journalists, esports players can be allies
-
-> explicitly mention bosses aren't workers?
