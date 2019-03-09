@@ -49,11 +49,6 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote" Name="Footnote" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -139,7 +134,7 @@
     <Content>Let’s start with the ill</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Telltale, Capcom Vancouver, Visceral, Big Fish, Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft, GOG, Techland, NetEase, Torus, EON, and Activision Blizzard — and forgive us if we’ve forgotten anyone, it’s been a little hard to keep count — all suffered mass layoffs or were shuttered outright.</Content>
+    <Content>. Telltale, Capcom Vancouver, Visceral, Big Fish, Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft, GOG, Techland, NetEase, Valve, and Activision Blizzard — and forgive us if we’ve forgotten anyone, it’s been a little hard to keep count — all suffered mass layoffs or were shuttered outright.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -174,8 +169,13 @@
           <Content>@TheFiremonkeys_</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Sep 2018 https://twitter.com/thefiremonkeys/status/1043333183268257792</Content>
+          <Content>, Sep 2018 </Content>
         </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/thefiremonkeys/status/1043333183268257792</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -212,8 +212,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -241,8 +246,13 @@
           <Content>How Telltale Went Broke</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Super Bunnyhop, Oct 2018: https://www.youtube.com/watch?v=2VR7Hl6SuXE</Content>
+          <Content>, Super Bunnyhop, Oct 2018: </Content>
         </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.youtube.com/watch?v=2VR7Hl6SuXE</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -277,7 +287,7 @@
     <Content>GWU UK formed an official trade union</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> in partnership with the Independent Workers Union of Great Britain (IWGB), joining the Syndicat des Travailleu.rs.ses du Jeu Vidéo (STJV) in France and the Game Makers of Finland as one of the first official unions representing game workers. GWU members have made zines, pamphlets, and other literature, and we’ve organized or taken part in dozens of panels, presentations, workshops, and public events. We’ve spoken to press, podcasters, and YouTubers, and helped shine a light on working conditions in the industry and the urgent need for unionization.</Content>
+    <Content> in partnership with the Independent Workers Union of Great Britain (IWGB), joining the Syndicat des Travailleuse·eur·s du Jeu Vidéo (STJV) in France and the Game Makers of Finland as one of the first official unions representing game workers. GWU members have made zines, pamphlets, and other literature, and we’ve organized or taken part in dozens of panels, presentations, workshops, and public events. We’ve spoken to press, podcasters, and YouTubers, and helped shine a light on working conditions in the industry and the urgent need for unionization.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -289,7 +299,19 @@
     <Content>we’ve been engaging in on-the-ground organizing</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. We’ve been forming workplace committees and building collective power to win concrete demands. This is arguably the most critical work we’ve been doing, but it’s also the riskiest to talk about publicly. Organizing is a long haul, and doing it in the open only puts workers’ jobs and well-being on the line. But </Content>
+    <Content>. We’ve been forming workplace committees and building collective power to win concrete demands. There’s a lot of underground work happening that you won’t hear about because of the risks for the workers involved, but we’ve already helped win gratifying </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>legal victories against some of the industry’s most powerful bosses </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>reclaim stolen wages.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This is arguably the most critical work we’ve been doing. Organizing is a long haul, and doing it in the open would only put workers’ jobs and well-being on the line. But </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>a sea change is happening</Content>
@@ -319,24 +341,13 @@
     <Content>entire combined labour force of the UK, Germany, France, Italy, Spain, and Portugal</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.) The 2018 US prison strike, where inmates demanded an end to prison slavery, dehumanizing conditions, and racial discrimination, saw participation in at least 17 states and solidarity actions across North America and around the globe. Even in the tech sector (which historically has not been fertile ground for labor organizing) significant movements and actions are taking place. At Google, employees banded together to protest military AI contracts and organized a walkout against sexual harassment and a culture hostile to marginalized people</Content>
+    <Content>.) The 2018 US prison strike, where inmates demanded an end to prison slavery, dehumanizing conditions, and racial discrimination, saw participation in at least 17 states and solidarity actions across North America and around the globe.</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	Google Walkout twitter account: https://twitter.com/GoogleWalkout</Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. At Microsoft, workers are also in the process of organizing against the militarization of consumer technology like the Hololens</Content>
+    <Content>Even in the tech sector (which historically has not been fertile ground for labour organizing) significant movements and actions are taking place. At Google, employees banded together to protest military AI contracts and organized a walkout against sexual harassment and a culture hostile to marginalized people</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -349,20 +360,66 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Microsoft workers call for canceling military contract for technology that could turn warfare into a </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>‘video game’</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>: https://www.washingtonpost.com/technology/2019/02/22/microsoft-workers-call-cancelling-military-contract-technology-that-could-turn-warfare-into-video-game</Content>
-        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/GoogleWalkout</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Meanwhile, an international wave of strikes in education, healthcare, hospitality, transportation, and many other industries showcased the scale and scope of workers’ dissatisfaction with the status quo.</Content>
+    <Content>. At Microsoft, workers are organizing against the use of their products for border policing and the surveillance of journalists and activists</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/techworkersco/status/1103502027726995459</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and against the militarization of consumer technology like the Hololens</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/MsWorkers4</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (which also concerns us, as many of these technologies are also developed for or used in games). Groups like Tech Workers Coalition are gaining traction as they support these struggles, and others, across their industry.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Meanwhile, an international wave of strikes in education, healthcare, hospitality, transportation, and many other industries showcased the scale and scope of workers’ dissatisfaction with the status quo.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -428,7 +485,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Abolishing child labour • Safety regulations • Health care insurance • Unemployment insurance • Ending unpaid overtime • Protection from mass layoffs and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick leave • Paid parental leave • Annual Leave • Pensions • Week-ends • Meal breaks</Content>
+    <Content>Abolishing child labour • Safety regulations • Health care insurance • Unemployment insurance • Ending unpaid overtime • Protection from mass layoffs and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -505,14 +562,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Union Employees: Are You Protected From Layoffs? </Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Union Employees: Are You Protected From Layoffs?”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> https://bit.ly/2IWnBBE</Content>
-        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://bit.ly/2IWnBBE</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -530,26 +586,21 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“Sponge metaphor”</Content>
+    <Content>Employers often treat the skilled labour force of game workers in a given region as a </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> of the talent pool?</Content>
+    <Content>“talent pool”</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ANIMATION INDUSTRY HAD A SCANDAL ON THIS, POSSIBLE REFERENCE? </Content>
+    <Content> that they can sponge people from when they need them, and wring people back into when they’re no longer needed. But we know that </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>found the piece</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>precarity doesn’t have to be a condition of working in the industry</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>!</Content>
+    <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -608,13 +659,7 @@
     <Content>Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games co-founder and boss Dan Houser proudly declared to New York Magazine that workers </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>were</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>regularly putting in 100-hour work weeks getting the game ready to ship</Content>
+    <Content>were regularly putting in 100-hour work weeks getting the game ready to ship</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. Hang on — if you sleep around 8 hours a night there’s only 112 hours in a week! Factor in transit (presuming people weren’t sleeping under their desks, which is not a given), time to eat, etc., and that works out to Rockstar labourers spending almost every waking moment at their job.</Content>
@@ -681,7 +726,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	Clint Hocking’s blog - Ten Years Down </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html</Content>
           </CharacterStyleRange>
@@ -693,7 +738,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Maybe Hocking got off easy. In 2016, a South Korean game developer was acknowledged to have </Content>
+    <Content>Maybe Hocking got off easy. In 2016, a game developer at South Korean company Netmarble was acknowledged to have </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“died from a work-related cause”</Content>
@@ -712,7 +757,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	Crunch mode caused a young Netmarble game developer’s death, Korean government says </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/</Content>
           </CharacterStyleRange>
@@ -722,18 +767,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A bill passed by the Abe government that comes into effect this April will impose an </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“overtime cap”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> on corporations — though it limits that amount to 100 hours per month per person (equivalent to five hours of overtime every working day) making it an almost implicit condonement of conditions.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -798,13 +831,7 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>CD Projekt Red developers speak up…</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/</Content>
+          <Content>	CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077 https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -862,7 +889,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/</Content>
           </CharacterStyleRange>
@@ -898,7 +925,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>You might believe your bosses’ motivation is to create great games, and in some cases that may be true, but at the end of the day they also have to sell those games, and that has a direct influence on creative decisions. Executives don’t necessarily care that the development team is aiming to make, say, a great single-player game, but they </Content>
+    <Content>You might believe your employers’ motivation is to create great games, and in some cases that may be true. But at the end of the day they’re here to make money, and that has a direct influence on creative decisions. Executives don’t necessarily care that the development team is aiming to make, say, a great single-player game, but they </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>do</Content>
@@ -939,32 +966,27 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Workers in the game industry are passionate about what they do — that’s why companies get away with exploiting them! — so it is particularly hurtful when they’re forced to create things that they don’t believe in. Whether workers ultimately agree with management’s decisions or not, at least </Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Workers in the game industry are passionate about what they do — that’s why companies get away with exploiting them! — so it is particularly hurtful when they’re forced to create things that they don’t believe in. </Content>
+    <Content>in a unionized workplace, their opinion gets to be voiced and heard</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whether workers ultimately agree with management’s decisions or not, at least </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>in a unionized workplace, their opinion gets to be voiced and heard.</Content>
+    <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Workers who operate in worker co-ops agree that the structure of their studio is itself an integral part of their ability to create better games. (More on worker co-ops later!) A studio with a strong unionized workforce or a worker co-op not only helps improve conditions in the workplace, but it would also allow the people who actually make the games to exercise more creative control, to put their efforts towards something they believe in.</Content>
+    <Content>A strong unionized workforce or a worker co-op doesn’t just help improve conditions in the workplace! It also allows the people who </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>actually make the games</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>daryl gates &amp; sierra </Content>
+    <Content> to exercise more creative control and put their efforts towards something they believe in.</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>https://waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
@@ -988,9 +1010,9 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php</Content>
+            <Content>https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1037,9 +1059,9 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf</Content>
+            <Content>https://twitter.com/SimplyRagny/status/1058198479707820032</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1057,84 +1079,91 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>&gt; mention collective agreements as mechanism</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Here’s an easy one: </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Unionized workers have higher wages on average than workers who are not unionized</Content>
+    <Content>unionized workers have higher wages on average than workers who are not unionized</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, often between 15 to 25% more. </Content>
+    <Content> — often between </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Unions also benefit workers who are not unionized</Content>
+    <Content>15 to 25%</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> more. With the leverage of an organized workforce, collective bargaining is a very effective way to make sure you’re paid what you’re worth. But </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>unions also benefit workers who are not unionized</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> by raising the bar for everyone. For example, a high school graduate whose workplace is </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>not</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> unionized but who works in an industry that’s 25% unionized overall can still expect to be paid more than similar workers in less unionized industries.</Content>
+    <Content> unionized but who works in an industry that’s 25% unionized overall </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>can still expect to be paid more</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
+    <Content> than similar workers in less unionized industries.</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>(</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.epi.org/publication/briefingpapers_bp143/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>)</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Unions can also help reduce inequality</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
+    <Content>. While all workers benefit from having unions, those who benefit the most are typically the people who are the </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Unions can also help reduce inequality.</Content>
+    <Content>most disempowered or in the most precarious positions</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> While** all </Content>
+    <Content>. On top of improving general working conditions for these folks, it also turns out solidarity is a great way to cut down the gendered pay gap.</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>workers benefit from having unions, those who benefit the most are typically the people who are the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>most disempowered or in the most precarious positions.**</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Unions</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> get higher pay for their members by demanding money that would otherwise go to shareholders and executives, and so shareholders and executives have every reason to fight union drives,</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“passion tax”</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>montreal salary collusion</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1161,7 +1190,7 @@
     <Content>Any business is above all made up of its workers</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>: they are the ones who are actually producing what the business sells, and whose labor is the source of its profits. But who do these profits go to? Not to them, but rather to those who happen to own the company: the shareholders. Large publicly-traded corporations can have millions of shareholders, and while some companies can be owned by a single business owner, even tiny startups typically have outside investors as shareholders beyond the original founders.</Content>
+    <Content>: they are the ones who are actually producing what the business sells, and whose labour is the source of its profits. But who do these profits go to? Not to them, but rather to those who happen to own the company: the shareholders. Large publicly-traded corporations can have millions of shareholders, and while some companies can be owned by a single business owner, even tiny startups typically have outside investors as shareholders beyond the original founders.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1203,12 +1232,9 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gamasutra - EA: Visceral’s canned Star Wars project too linear for modern tastes </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php</Content>
+          <Content>	http://www.epi.org/publication/briefingpapers_bp143/</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1352,7 +1378,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>But it doesn’t have to be this way! Workers have the potential power to change this dynamic and to force the businesses they work for to take their best interests into consideration too. This is because in every industry, every business, it’s always their labor that is the source of all the owners’ profits. </Content>
+    <Content>But it doesn’t have to be this way! Workers have the potential power to change this dynamic and to force the businesses they work for to take their best interests into consideration too. This is because in every industry, every business, it’s always their labour that is the source of all the owners’ profits. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>When it comes down to it, it’s owners who need the workers, not the other way around.</Content>
@@ -1373,10 +1399,10 @@
     <Content>Beyond this, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>we can also imagine a different way to structure the industry</Content>
+    <Content>we can also imagine an entirely different way of structuring the industry</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, one that would not fundamentally rely on the exploitation of workers for the benefit of shareholders. This is where worker cooperatives come in: businesses with no external shareholders that are entirely and collectively owned by all the workers who work there themselves, allowing them to earn the full benefit of their labour. Check page X for more info on worker cooperatives.</Content>
+    <Content> — one that would not fundamentally rely on the exploitation of workers for the benefit of shareholders. This is where worker cooperatives come in: these are businesses with no external shareholders that are entirely and collectively owned by all the workers who work there themselves, allowing them to earn the full benefit of their labour. (Check the section on worker co-ops later in the zine!)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1412,15 +1438,9 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Red Dead Redemption 2’s labor controversy, explained”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Polygon, 2018 </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Content>
+          <Content>	https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1429,7 +1449,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>There is no real reason why workers and consumers should have different interests or be at odds with one another. When you think about it, it sounds absurd! Many workers take a great deal of pride and personal satisfaction from making games that players love to play, and without workers there would be no games for players to enjoy in the first place. Unfortunately, </Content>
+    <Content>There is no real reason why workers and consumers should have different interests or be at odds with one another. It sounds absurd when you think about it: many workers take a great deal of pride and personal satisfaction from making games that players love to play, and without workers there would be no games for players to enjoy in the first place. Unfortunately, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>many players don’t know the conditions under which games are made</Content>
@@ -1464,11 +1484,11 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Gamasutra - EA: Visceral’s canned Star Wars project too linear for modern tastes </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Content>
+            <Content>https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1488,9 +1508,15 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Red Dead Redemption 2’s labor controversy, explained”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Polygon, 2018 </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Content>
+            <Content>https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1545,83 +1571,6 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In a statement to Polygon a month after the ArenaNet incident, Riot Games (themselves still grappling with an </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>internal</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> culture of sexism and harassment</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) clarified their apparently long-standing position on employees’ use of social media:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Direct engagement with players online and IRL is something we encourage all Rioters to do</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> if they feel comfortable doing so. […] </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>For many years we’ve provided training to every Rioter about how to have </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>authentic and appropriate</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content> player conversations</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In her article from October on the topic, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1644,9 +1593,9 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Content>
+            <Content>https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1677,7 +1626,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>We saw such tactics being deployed most clearly against voice actors of the game industry in 2016, when studio owners at Activision, EA, Disney, Warner Bros, Take-Two, and others launched a website</Content>
+    <Content>This tactic was deployed in 2016 when studio owners at Activision, EA, Disney, Warner Bros, Take-Two, and others launched a website</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1690,16 +1639,22 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Content>
+            <Content>https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and video explicitly targeted at a gamer audience and demonizing the SAG-AFTRA voice actors’ union for demanding, among other things, better safety standards for voice strain and risks associated with stunt coordination (for motion capture), an improved structure for bonus payments, transparency and employment mobility. The rhetoric being that those things would somehow lead to worse games for consumers, in a transparent effort to direct fan rage at the workers.</Content>
+    <Content> and video that explicitly targeted a gamer audience and demonized the SAG-AFTRA voice actors’ union. At the time, union members were demanding, among other things, better safety standards for voice strain and risks associated with stunt coordination (for motion capture), an improved structure for bonus payments, better transparency, and employment mobility. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>In a blatant effort to direct fan rage at the workers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, bosses argued that these demands would somehow lead to worse games for consumers.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1759,10 +1714,10 @@
     <Content>As union talk continues to spread throughout the game industry, bosses who feel threatened are turning to an arsenal of tactics to break up organizing and discourage and demoralize workers. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Thankfully for us, their toolbox is rather limited</Content>
+    <Content>Luckily for us, their toolbox is rather limited</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, and throughout every industry and every era, we keep seeing the exact same dirty tricks being re-used by bosses over and over again. This means that </Content>
+    <Content>: throughout every industry and every era, we keep seeing the exact same dirty tricks being reused by bosses over and over again. This means that </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>by learning to recognize them and warning our fellow workers about them, we can be ready and prepared when they inevitably get pulled out</Content>
@@ -1841,9 +1796,9 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201</Content>
+            <Content>https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -1868,13 +1823,19 @@
     <Content>this is the number one way management maintains full control over information flow in the workplace </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>and ensure they are able to nip any seed of organizing in the bud. They’ll say they are here to help and are genuinely concerned about your well-being. But the catch is that** it’s a way to ensure workers only ever interact with management alone, as isolated and disempowered individuals, instead of turning to their coworkers for support and solidarity</Content>
+    <Content>and ensure they are able to nip any seed of organizing in the bud. They’ll say they are here to help and are genuinely concerned about your well-being. But the catch is that </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>. Bosses will make vague promises and excuses, reassuring you that your issues are taken seriously and will be addressed eventually, while also instructing you to keep things quiet and only ever discuss the issue in question directly with management. If they do catch you sharing concerns with other workers, it probably won’t take long for that supportive demeanor to disappear, which is why </Content>
+    <Content>it’s a way to ensure workers only ever interact with management alone</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>it’s important to make sure any initial organizing you do happens away from the eyes and ears of management**.</Content>
+    <Content> as isolated and disempowered individuals, instead of turning to their coworkers for support and solidarity. Bosses will make vague promises and excuses, reassuring you that your issues are taken seriously and will be addressed eventually, while also instructing you to keep things quiet and only ever discuss the issue in question directly with management. If they do catch you sharing concerns with other workers, it probably won’t take long for that supportive demeanor to disappear, which is why </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>it’s important to make sure any initial organizing you do happens away from the eyes and ears of management</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1922,7 +1883,7 @@
     <Content>“making too much”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> — you’ll hear all sorts of reasons why your job is very special, unique, and different when it comes to unionizing. The funny thing, of course, is that every boss in every industry says the exact same thing to their workers! (Protip: It’s never true.)</Content>
+    <Content> — you’ll hear all sorts of reasons why your job is very special, unique, and different when it comes to unionizing. The funny thing, of course, is that every boss in every industry says the exact same thing to their workers! (WORKERTIP: It’s never true.)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2003,7 +1964,7 @@
     <Content>many workers in the game industry who should be recognized as full employees are instead hired as freelance contractors as a way for owners to get around the legal obligations they owe to employees</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. This is an especially common problem in sectors like QA. However, there is a growing number of unions that specialize in helping such workers fight for better conditions or gain full employee status. Recently, artists and lecturers (primarily women) at Britain’s National Gallery won a case which confirmed that, because they were required to attend training sessions and were paid from the same source as non-contractual employees, they were not in fact self-employed. This meant they were entitled to the same benefits as so-called </Content>
+    <Content>. This is an especially common problem in sectors like QA. However, there is a growing number of unions that specialize in helping such workers fight for better conditions or gain full employee status. Recently, artists and lecturers (primarily women) at Britain’s National Gallery won a case which confirmed that, because they were required to attend training sessions and were paid from the same source as noncontractual employees, they were not in fact self-employed. This meant they were entitled to the same benefits as so-called </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“permanent”</Content>
@@ -2047,7 +2008,7 @@
     <Content>A common line — and one frequently internalized by workers — is that if workers unionize, bosses will make cuts to jobs or outsource them to where labour is cheaper and less organized. Whether management is assuring you that they’re really sorry but they have no choice and it’s </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“just the way it is,”</Content>
+    <Content>“just the way it is”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> or they’re openly threatening direct retaliation for unionizing, </Content>
@@ -2062,7 +2023,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bosses lay off workers all the time for no good reason, and unionizing is the only way you have to protect yourself from that. Remember that it’s always our labor that creates value for the business owners, and that they can’t get rid of all of us or they’d be getting rid of the very source of all their profits. Besides, </Content>
+    <Content>Bosses lay off workers all the time for no good reason, and unionizing is the only way you have to protect yourself from that. Remember that it’s always our labour that creates value for the business owners, and that they can’t get rid of all of us or they’d be getting rid of the very source of all their profits. Besides, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>relocating is an extremely expensive endeavour for any business to make, and not something that can be decided on a whim simply to punish workers for unionizing</Content>
@@ -2134,19 +2095,22 @@
     <Content>“union”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> was created without any organizing among the workers themselves, that it includes company management in its decision-making, that it reproduces the same power dynamics that were always present in your workplace, and that it was implemented in a top-down fashion to ensure its loyalty to the owners over the workers. This sort of cooptation can really succeed at appropriating and neutralizing pro-union sentiment, dramatically setting back any genuine organizing efforts —** don’t let it happen to you!**</Content>
+    <Content> was created without any organizing among the workers themselves, that it includes company management in its decision-making, that it reproduces the same power dynamics that were always present in your workplace, and that it was implemented in a top-down fashion to ensure its loyalty to the owners over the workers. This sort of cooptation can really succeed at appropriating and neutralizing pro-union sentiment, dramatically setting back any genuine organizing efforts — </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>don’t let it happen to you!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A similar role is played in our broader industry by </Content>
+    <Content>A similar role is played in our broader industry by some currently-existing industry organizations, who publicly claim to represent game developers but </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>some currently-existing industry organizations, who publicly claim to represent game developers but in practice are led and funded exclusively by business owners and management</Content>
+    <Content>in practice are led and funded exclusively by business owners and management</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, and have consistently sided with their interests over those of workers whenever they conflict. The IGDA is of course one of these organizations (see our review of the IGDA in the previous issue!) but there are other examples too. A similar role is played in Québec by </Content>
+    <Content> and have consistently sided with their interests over those of workers whenever they conflict. The IGDA is one of these organizations, of course (see our review of the IGDA in the previous issue!), but there are other examples too. A similar role is played in Québec by </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“La Guilde”</Content>
@@ -2158,13 +2122,7 @@
     <Content>“Syndicat National du Jeu Vidéo”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (the SNJV, not to be confused with the STJV, the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>actual</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> French game workers’ union).</Content>
+    <Content> (SNJV, not to be confused with the STJV, which is the actual French game workers’ union).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2185,7 +2143,7 @@
     <Content> are people who, as workers themselves and thus potential members of a union, receive special preferential treatment over others in exchange for turning against their fellow workers</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Scabs are often brought in temporarily from the outside in an emergency as a way to replace workers who are trying to unionize. Bosses will sometimes even make a point of offering scabs all the demands that the organizing workers originally put forward, while continuing to refuse them to the latter - just as a way of demoralizing you by making the point that your demands can in fact easily be met, but that it’s really about punishing you </Content>
+    <Content>. Scabs are often brought in temporarily from the outside in an emergency as a way to replace workers who are trying to unionize. Bosses will sometimes even make a point of offering scabs all the demands that the organizing workers originally put forward, while continuing to refuse them to the latter — just as a way of demoralizing you by making the point that your demands can in fact easily be met, but that it’s really about punishing you </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“on principle”</Content>
@@ -2195,9 +2153,40 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Scab voice actor labor! * life is strange (during the sag-aftra strike, so even worse!) * re2 remake * nintendo by policy doesn’t work with union labour (such as voice actors) at all… and it shows</Content>
+    <Content>During the SAG-AFTRA voice actors’ strike in 2017, scab voice actor labour was notably used — and roundly criticized — in the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Life Is Strange</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> prequel </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Before the Storm</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2232,26 +2221,26 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Game workers are also particularly lucky that they work in an industry where starting your own game studio, although far from being accessible to everyone, is much easier than, say, starting your own car factory as an auto worker.</Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Game studios need much less starting capital — no expensive machinery or raw materials are required.</Content>
+    <Content>Game workers are also particularly lucky that they work in an industry where starting your own game studio, although far from being accessible to everyone, is much easier than, say, starting your own car factory as an auto worker. Game studios need much less starting capital — no expensive machinery or raw materials are required.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The problem with the traditional </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“startup”</Content>
   </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> model, however, is that </Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content> model, however, is that it inevitably tends to replicate the worst problems of the existing game industry.</Content>
+    <Content>it inevitably tends to replicate the worst problems of the existing game industry</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The few founders who are lucky enough to launch a successful business might never need to get a job working for someone else ever again, but it will be at the expense of the workers they hire as employees as their business expands. Their employees will be the ones now working for their profits, thus reproducing the relationship of exploitation that is found everywhere else in the industry.</Content>
+    <Content>. The few founders who are lucky enough to launch a successful business might never need to get a job working for someone else ever again, but it will be at the expense of the workers they hire as employees as their business expands. Their employees will be the ones now working for their profits, thus reproducing the relationship of exploitation that is found everywhere else in the industry.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2260,10 +2249,16 @@
     <Content>But it doesn’t have to be that way! </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>This is where workers’ cooperatives come in: workers’ co-ops are businesses that are fully and democratically owned by the people who work there.</Content>
+    <Content>This is where workers’ cooperatives come in</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Nobody in a workers’ co-op is working to create profits for some shareholder, and everyone can earn the full value of their labour. When the co-op expands, new workers become worker-owners, as opposed to merely being employees hired by separate business owners. Many people who start a business don’t even know that this is an option!</Content>
+    <Content>: workers’ co-ops are businesses that are </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>fully and democratically owned by the people who work there</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Nobody in a workers’ co-op is working to create profits for some shareholder, and everyone can earn the full value of their labour. When the co-op expands, new workers become worker-owners, as opposed to merely being employees hired by separate business owners. Many people who start a business don’t even know that this is an option!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2351,7 +2346,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	La Guilde Receives a $750,000 Grant: </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins</Content>
           </CharacterStyleRange>
@@ -2402,7 +2397,7 @@
     <Content> and organizations in your area for help, advice, and solidarity. Game Workers Unite chapters, related trade and industrial unions, and existing game worker unions internationally are all great resources for learning how to organize your own workplace, and establishing relationships now can strengthen both parties’ actions in the future. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>If possible, talk to experienced organizers or attend a training session on workplace organizing. </Content>
+    <Content>If possible, talk to experienced organizers or attend a training session on workplace organizing.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2533,7 +2528,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Reach out to us for more details. The GWU membership application as well as links to local chapters are available here: </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.gameworkersunite.org/get-involved</Content>
     </CharacterStyleRange>
@@ -2560,129 +2555,157 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.gameworkersunite.org/get-involved" Name="link" DestinationURL="http://www.gameworkersunite.org/get-involved" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="http://www.gameworkersunite.org/get-involved" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-22" Name="http://www.gameworkersunite.org/get-involved" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.gameworkersunite.org/get-involved</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Name="link" DestinationURL="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-21" Name="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Name="link" DestinationURL="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-15" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet" Name="link" DestinationURL="https://www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="https://www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet" Source="htss-13" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/8/29/17792676/gaming-toxic-employee-harassment-survey-ccp-eve-online-arenanet</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483" Name="link" DestinationURL="https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483" Source="htss-12" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.vox.com/policy-and-politics/2017/4/17/15290674/union-labor-movement-europe-bargaining-fight-15-ghent" Name="link" DestinationURL="https://www.vox.com/policy-and-politics/2017/4/17/15290674/union-labor-movement-europe-bargaining-fight-15-ghent" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="https://www.vox.com/policy-and-politics/2017/4/17/15290674/union-labor-movement-europe-bargaining-fight-15-ghent" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Name="link" DestinationURL="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.vox.com/policy-and-politics/2017/4/17/15290674/union-labor-movement-europe-bargaining-fight-15-ghent</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.epi.org/publication/briefingpapers_bp143/" Name="link" DestinationURL="http://www.epi.org/publication/briefingpapers_bp143/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.epi.org/publication/briefingpapers_bp143/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" Name="link" DestinationURL="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-15" Name="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.epi.org/publication/briefingpapers_bp143/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf" Name="link" DestinationURL="http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php" Name="link" DestinationURL="https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s" Name="link" DestinationURL="https://waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="https://waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032" Name="link" DestinationURL="https://twitter.com/SimplyRagny/status/1058198479707820032" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="https://twitter.com/SimplyRagny/status/1058198479707820032" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/a3n8ea/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/" Name="link" DestinationURL="https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/" Name="link" DestinationURL="https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/" Name="link" DestinationURL="https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html" Name="link" DestinationURL="https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.cartoonbrew.com/ideas-commentary/op-ed-why-i-filed-the-wage-theft-lawsuit-against-major-animation-studios-169774.html" Name="link" DestinationURL="https://www.cartoonbrew.com/ideas-commentary/op-ed-why-i-filed-the-wage-theft-lawsuit-against-major-animation-studios-169774.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://www.cartoonbrew.com/ideas-commentary/op-ed-why-i-filed-the-wage-theft-lawsuit-against-major-animation-studios-169774.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2IWnBBE" Name="link" DestinationURL="https://bit.ly/2IWnBBE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="https://bit.ly/2IWnBBE" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.cartoonbrew.com/ideas-commentary/op-ed-why-i-filed-the-wage-theft-lawsuit-against-major-animation-studios-169774.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2IWnBBE</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4" Name="link" DestinationURL="https://twitter.com/MsWorkers4" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://twitter.com/MsWorkers4" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459" Name="link" DestinationURL="https://twitter.com/techworkersco/status/1103502027726995459" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://twitter.com/techworkersco/status/1103502027726995459" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout" Name="link" DestinationURL="https://twitter.com/GoogleWalkout" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://twitter.com/GoogleWalkout" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE" Name="link" DestinationURL="https://www.youtube.com/watch?v=2VR7Hl6SuXE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.youtube.com/watch?v=2VR7Hl6SuXE" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Name="link" DestinationURL="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792" Name="link" DestinationURL="https://twitter.com/thefiremonkeys/status/1043333183268257792" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://twitter.com/thefiremonkeys/status/1043333183268257792" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792</Destination>
     </Properties>
   </Hyperlink>
 </Document>

@@ -24,11 +24,6 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -104,43 +99,25 @@
     <Content>anyone involved with the production of a game</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Programmers, artists, designers, musicians? Yep. Voice and mocap actors, audio engineers? Definitely. Community managers? Of course. But we’re also talking about workers that people who play games might not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the coltan used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, </Content>
+    <Content>. Programmers, artists, designers, musicians? Yep. Voice and mocap actors, audio engineers? Definitely. Community managers? Of course. But we’re also talking about workers whom players may not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the coltan used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, these workers are all </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>these workers are all essential to the production of games</Content>
+    <Content>essential to the production of games</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. </Content>
+    <Content>. They’re game workers too.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If you’re in the industry but currently unemployed, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>They’re game workers too</Content>
+    <Content>you’re also a game worker</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>students, interns, unemployed game workers</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>conclude – why are we making this point?</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>streamers, journalists, esports players can be allies</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>explicitly mention bosses aren’t workers?</Content>
+    <Content>. The same goes for students and interns. In an industry where so much labour is erased or goes unrecognized, it’s important that we stick together and resist bosses’ efforts to divide and conquer.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

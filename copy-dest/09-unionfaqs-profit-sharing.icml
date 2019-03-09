@@ -51,22 +51,22 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>UnionFAQs: What are strikes?</Content>
+    <Content>UnionFAQs: Is profit-sharing what we want?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The topic of striking will necessarily come up whenever unions are being discussed. The thing is, nobody really wants a strike to happen. Workers generally just want to be able to do their job in good conditions, while being paid fairly and in dignity. Strikes can be harrowing affairs for everyone involved.</Content>
+    <Content>Many studios offer contracts to their employees that include some sort of </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>But in a way, it’s the hypothetical possibility of calling a strike that forms the basis of our power when we unionize. It’s because our labour is the source of all profits that the idea of workers withdrawing that labour is so threatening to bosses. </Content>
+    <Content>“profit-sharing”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> scheme. This sounds nice at first glance: why wouldn’t you want a share of the profits if the game you’re working on does extremely well? The issue is that </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>It’s our biggest bargaining chip</Content>
+    <Content>these profit-sharing deals are fundamentally a way of offloading company financial risk from the owners to the workers</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
@@ -75,7 +75,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ideally, strikes would never happen, and reason would always prevail in negotiations with bosses. When strikes do happen, it’s because those negotiations already failed, and an acceptable agreement couldn’t be reached between management and the union. Everybody wants to avoid that and find a better solution, but the important thing to remember is that without the potential to call a strike as a last-resort measure, workers would have no real leverage with bosses, and bosses would have no reason to take them seriously.</Content>
+    <Content>Unlike shareholders, workers who sign into profit-sharing agreements are </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>not actually given any ownership over the company</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, nor are they granted any power or influence in its decisionmaking process. They’re promised a variable amount of money based on how much profit the company makes, but without any real control over it. There are countless stories in our industry of workers who agree to a lower salary than they would demand otherwise in exchange for a percentage of the sales because they truly believe in a project, and work hard on it for years — only for it to get cancelled without warning by an upper-management decision, leaving them with nothing to show for their labour.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By giving workers a promise of future profits instead of a better salary, owners are effectively transferring some of their own financial risk onto the workers themselves, while maintaining absolute and total control over the decisions of the company. Employees can be paid less while a game is in development, and if for whatever reason it doesn’t sell well (or management cancels it), then it’s their problem. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>If workers are going to invest hours of unremunerated labour into a project because they believe in it, they should be given actual ownership and real decision-making power over it</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, as in a workers’ cooperative. In any other situation, a higher guaranteed salary will always be a better deal for workers than a promised fraction of future profits.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

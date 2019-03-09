@@ -20,7 +20,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -73,70 +73,56 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>When the Easter egg was discovered by Atari, Robinett had already left the company, but that didn’t stop them from devoting development resources to uncovering the offending code. However:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The employee who found it said that if he were to fix it, he would change the message in the game to say </Content>
+    <Content>When the Easter egg was discovered by Atari, Robinett had already left the company, but that didn’t stop them from devoting development resources to uncovering the offending code. However, Brad Stewart, the Atari employee who tracked down the code in question, said that if he were to fix it, he’d just change the message in the game to say </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Fixed by Brad Stewart”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Furthermore, the cost [of modifying the code for further re-releases of the game] was around US$10,000 at the time of the game’s release, making this change a costly endeavor. Steve Wright, the director of software development of the Atari Consumer Division, argued for retaining the message, believing it gave players additional incentive to find it and play their games more… Atari eventually decided to leave the Dot in-game, and dubbed such hidden features </Content>
+    <Content> instead. Eventually, Atari management decided that Easter eggs should be permitted, and even encouraged developers to add them as a way to increase playtime and give players more value — but they generally limited them to developers’ initials rather than full names.</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“Easter eggs”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, saying they would be adding more such secrets to later games. Wright made it an official policy at Atari that all future games should include Easter eggs, often limited to being the initials of the game developer.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>(to paraphrase, rather than using direct quote)</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Incidentally, the earliest known Easter egg, rediscovered just a few years ago in Atari’s 1977 arcade game Starship One, also displays the creator’s name. And developers have never really stopped hiding messages in games as protest or in hidden resistance:</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	https://books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>When the </Content>
+    <Content>Developers have never really stopped hiding messages in games as protest or in hidden resistance. In the Italian translation of Final Fantasy VIII, When the </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Scan”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> spell is cast on a placeholder debug enemy in the Italian translation of Final Fantasy VIII, a message is shown written by the translator themself: </Content>
+    <Content> spell is cast on a placeholder debug enemy, a message is shown written by the translator themself: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“This translation is killing me. It’s almost 2 in the morning. I’m tired!!!! I’m tired!!!!”</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>images needed!</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Sierra 80s/90s unionization efforts → https://twitter.com/Sierra_OffLine/status/978018315447791616</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>add footnotes: https://twitter.com/SimplyRagny/status/1058198479707820032 https://arstechnica.com/gaming/2017/03/the-arcade-worlds-first-easter-egg-discovered-after-fraught-journey/</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	https://twitter.com/SimplyRagny/status/1058198479707820032</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
