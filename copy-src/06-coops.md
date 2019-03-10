@@ -47,13 +47,14 @@ business owners' associations that style themselves as "cooperatives" — in the
 Québec game industry, for instance, a group called _La Guilde_ has gotten
 significant media attention and funding and now proudly claims to be the
 "largest cooperative in this industry in the world"[^26] — but in actuality
-they're nothing more than cartels. So this can get pretty confusing and might be
+they're nothing more than cartels of bosses and employees have no say in how
+they are run. So this can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
 business model.
 
-**So how do you go about starting a workers' cooperative?** Your local Game
-Workers Unite chapter is here to help, and can put you in touch with the legal
+**So how do you go about starting a workers' cooperative?** Game
+Workers Unite is here to help, and can put you in touch with the legal
 assistance you need to found such a business with your fellow workers!
 Unfortunately, most business lawyers who help people form startups have no
 experience with co-ops. They're often used to just signing people up for the
@@ -68,7 +69,8 @@ perfectly eligible for business loans, and credit unions often have especially
 favorable deals for them!
 
 So if you're considering starting a business or know game workers who are,
-contact your local GWU chapter and ask them about workers' co-ops!
+contact your local GWU chapter (or the international if you don't have one yet)
+and ask them about workers' co-ops!
 
 [^26]: La Guilde Receives a $750,000 Grant:
     https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins
