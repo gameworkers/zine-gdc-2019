@@ -106,7 +106,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Abolishing child labour • Safety regulations • Health care insurance • Unemployment insurance • Ending unpaid overtime • Protection from mass layoffs and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks</Content>
+    <Content>Safety regulations • Health care insurance • Ending unpaid overtime • Unemployment insurance • Protection from mass layoffs and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks • Abolishing child labour</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -142,7 +142,7 @@
     <Content>collective agreement</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (sometimes called a collective bargaining agreement, CBA, or collective labour agreement; the term varies by country). A collective agreement is far from the only way of organizing or making demands — but it’s a common and battle-tested one, and most collective agreements include some form of protection from layoffs by employers:</Content>
+    <Content> (sometimes called a collective bargaining agreement, CBA, or collective labour agreement; the term varies by country). A collective agreement is not the only way of organizing or making demands — but it’s a common and battle-tested one, and most collective agreements include some form of protection from layoffs by employers:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
