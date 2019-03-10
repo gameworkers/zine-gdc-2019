@@ -107,8 +107,8 @@ game industry for all workers!
 
 Beyond this, **we can also imagine an entirely different way of structuring the
 industry** — one that would not fundamentally rely on the exploitation of
-workers for the benefit of shareholders. This is where worker cooperatives come
-in: these are businesses with no external shareholders that are entirely and
+workers for the benefit of shareholders. This is what workers' cooperatives aim 
+to do: they are businesses with no external shareholders that are entirely and
 collectively owned by all the workers who work there themselves, allowing them
 to earn the full benefit of their labour. (Check the section on worker co-ops
 later in the zine!)
