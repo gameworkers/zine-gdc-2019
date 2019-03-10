@@ -218,7 +218,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> — but in actuality they’re nothing more than cartels. So this can get pretty confusing and might be worth highlighting, especially when discussing the possibility of starting a workers’ co-op with fellow game workers who might never have heard of that business model.</Content>
+    <Content> — but in actuality they’re nothing more than cartels of bosses and employees have no say in how they are run. So this can get pretty confusing and might be worth highlighting, especially when discussing the possibility of starting a workers’ co-op with fellow game workers who might never have heard of that business model.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -227,13 +227,13 @@
     <Content>So how do you go about starting a workers’ cooperative?</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Your local Game Workers Unite chapter is here to help, and can put you in touch with the legal assistance you need to found such a business with your fellow workers! Unfortunately, most business lawyers who help people form startups have no experience with co-ops. They’re often used to just signing people up for the standard corporate model instead, so having access to specialized advice can be a big help in forming a co-op. The details also vary from place to place, but starting a co-op is an option everywhere. Another thing to keep in mind is that venture capitalists will not want to invest in a workers’ cooperative, since they can’t become external shareholders and reap in the profits from your work - so they will always focus on pressuring aspiring entrepreneurs to start traditional corporate startups instead. That said, workers’ co-ops are still perfectly eligible for business loans, and credit unions often have especially favorable deals for them!</Content>
+    <Content> Game Workers Unite is here to help, and can put you in touch with the legal assistance you need to found such a business with your fellow workers! Unfortunately, most business lawyers who help people form startups have no experience with co-ops. They’re often used to just signing people up for the standard corporate model instead, so having access to specialized advice can be a big help in forming a co-op. The details also vary from place to place, but starting a co-op is an option everywhere. Another thing to keep in mind is that venture capitalists will not want to invest in a workers’ cooperative, since they can’t become external shareholders and reap in the profits from your work - so they will always focus on pressuring aspiring entrepreneurs to start traditional corporate startups instead. That said, workers’ co-ops are still perfectly eligible for business loans, and credit unions often have especially favorable deals for them!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>So if you’re considering starting a business or know game workers who are, contact your local GWU chapter and ask them about workers’ co-ops!</Content>
+    <Content>So if you’re considering starting a business or know game workers who are, contact your local GWU chapter (or the international if you don’t have one yet) and ask them about workers’ co-ops!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
