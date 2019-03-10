@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>FROM THE DESK OF THE EDITORS</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Dear Reader…</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Welcome back to another thrilling issue of the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Game Workers Unite magazine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. By the time this mag, hot off the presses, reaches your shaking, excited hands, GWU will be celebrating its </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>first anniversary</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. We thought we’d take a moment to reflect on the tidings of the past year, both good and ill.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Let’s start with the ill</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Telltale, Capcom Vancouver, Visceral, Big Fish, Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft, GOG, Techland, NetEase, Valve, and Activision Blizzard — and forgive us if we’ve forgotten anyone, it’s been a little hard to keep count — all suffered mass layoffs or were shuttered outright.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>You might not recognize all these names, but if you’ve been in the industry for a while there’s a good chance you know someone who’s been affected. Between September and October 2018 alone, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>at least 800 game workers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> lost their jobs. February 2019’s toll stands at </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>at least 1000 lost jobs</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. With the swift drop of an axe, the Firemonkeys layoffs singlehandedly shrank the Australian games industry workforce by 5% — just months after they extended an invitation to former Capcom and Telltale employees on Twitter noting they were hiring</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	_Tweet by </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+          <Content>@TheFiremonkeys_</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Sep 2018 </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/thefiremonkeys/status/1043333183268257792</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. All in all, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>thousands of industry jobs have been lost over the past year</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Why are all these layoffs happening, you ask? Why, record-breaking revenues, of course! In a press release to investors the day layoffs started at Activision, CEO Bobby Kotick wrote: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“While our financial results for 2018 were the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>best in our history</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, we didn’t realize our full potential.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Full potential</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>? Seriously? He sounds like a parent disowning their child for getting perfect grades and an inbox full of scholarship offers. We’d also be remiss to fail to note that Kotick himself is one of the highest-paid CEOs — not just in the games industry, not just in tech, not just in America, but everywhere, of all time.) Elsewhere, Telltale’s fall from massive critical and commercial success, widely attributed to routine mismanagement and nearsighted pursuit of profit on the part of its shareholders, is by now well-documented</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>How Telltale Went Broke</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Super Bunnyhop, Oct 2018: </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.youtube.com/watch?v=2VR7Hl6SuXE</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It’s been a rough, scary year for those of us working in the industry, and signs don’t point to things getting better anytime soon. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>But we’re starting to fight back</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In that same year of tumult, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>over 25 local chapters of Game Workers Unite</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> were founded around the world. Earlier this year, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GWU UK formed an official trade union</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in partnership with the Independent Workers Union of Great Britain (IWGB), joining the Syndicat des Travailleuse·eur·s du Jeu Vidéo (STJV) in France and the Game Makers of Finland as one of the first official unions representing game workers. GWU members have made zines, pamphlets, and other literature, and we’ve organized or taken part in dozens of panels, presentations, workshops, and public events. We’ve spoken to press, podcasters, and YouTubers, and helped shine a light on working conditions in the industry and the urgent need for unionization.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But more than all that, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>we’ve been engaging in on-the-ground organizing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. We’ve been forming workplace committees and building collective power to win concrete demands. There’s a lot of underground work happening that you won’t hear about because of the risks for the workers involved, but we’ve already helped win gratifying </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>legal victories against some of the industry’s most powerful bosses </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>reclaim stolen wages.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This is arguably the most critical work we’ve been doing. Organizing is a long haul, and doing it in the open would only put workers’ jobs and well-being on the line. But </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>a sea change is happening</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, even if you can’t feel the waves from the shore.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Crucially, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>we’re not alone</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The international labour movement is picking up steam: in India, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>between 150 and 200 million workers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> joined a general strike against the Modi government’s anti-labour policies. (For context, a strike of comparable size in Europe would include the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>entire combined labour force of the UK, Germany, France, Italy, Spain, and Portugal</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.) The 2018 US prison strike, where inmates demanded an end to prison slavery, dehumanizing conditions, and racial discrimination, saw participation in at least 17 states and solidarity actions across North America and around the globe.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Even in the tech sector (which historically has not been fertile ground for labour organizing) significant movements and actions are taking place. At Google, employees banded together to protest military AI contracts and organized a walkout against sexual harassment and a culture hostile to marginalized people</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/GoogleWalkout</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. At Microsoft, workers are organizing against the use of their products for border policing and the surveillance of journalists and activists</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/techworkersco/status/1103502027726995459</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and against the militarization of consumer technology like the Hololens</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://twitter.com/MsWorkers4</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (which also concerns us, as many of these technologies are also developed for or used in games). Groups like Tech Workers Coalition are gaining traction as they support these struggles, and others, across their industry.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Meanwhile, an international wave of strikes in education, healthcare, hospitality, transportation, and many other industries showcased the scale and scope of workers’ dissatisfaction with the status quo.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Together, we have the capacity to build a better, fairer, and more sustainable future for workers all around the globe. If you’re a worker in games, abuses like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>mass layoffs</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>crunch</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>harassment</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> might seem like unavoidable realities of the industry. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>But they don’t have to be</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Join us.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4" Name="link" DestinationURL="https://twitter.com/MsWorkers4" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://twitter.com/MsWorkers4" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459" Name="link" DestinationURL="https://twitter.com/techworkersco/status/1103502027726995459" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://twitter.com/techworkersco/status/1103502027726995459" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout" Name="link" DestinationURL="https://twitter.com/GoogleWalkout" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://twitter.com/GoogleWalkout" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE" Name="link" DestinationURL="https://www.youtube.com/watch?v=2VR7Hl6SuXE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.youtube.com/watch?v=2VR7Hl6SuXE" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Name="link" DestinationURL="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792" Name="link" DestinationURL="https://twitter.com/thefiremonkeys/status/1043333183268257792" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://twitter.com/thefiremonkeys/status/1043333183268257792" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>
