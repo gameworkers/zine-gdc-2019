@@ -16,7 +16,7 @@ don't know the conditions under which games are made** (in large part because
 bosses prevent workers from talking about it publicly!). They are also
 encouraged to see themselves as having a special relationship with a brand, a
 company, or a product, rather than with the real people making the games they
-play. This dynamic encourages consumers to blame workers when things go wrong
+play. This dynamic encourages consumers to blame workers when things go wrong,
 and benefits owners. Throwing workers under the bus directs negative attention
 away from the bosses, even when they're the ones responsible for making
 decisions that hurt consumers. It can also serve as an intimidation tactic that
