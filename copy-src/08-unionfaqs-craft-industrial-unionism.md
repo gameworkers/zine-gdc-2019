@@ -1,6 +1,6 @@
 # UnionFAQs: Craft Unionism, Industrial Unionism… What's the Difference?
 
-There is more than a single strategy for approaching unionization. Lots of
+There is more than a single strategy for unionization. Lots of
 existing unions take the approach of representing workers who are all part of a
 specific craft or trade, across multiple industries. This is the case of
 SAG-AFTRA, the US union representing voice actors and other media professionals
@@ -33,12 +33,12 @@ things are important to remember:
    trying to unionize, but that opposition is artificial, and a consequence of
    the deeper division between workers and owners.
 
-In the long term, workers can only lose by letting themselves be divided in such
-a way. On the other hand, all of us benefit by working together and supporting
-each other in our various struggles. **QA testers, localization workers, console
-manufacturing workers, and all other game workers must be part of the effort to
-create a better game industry for it to succeed**. More privileged and
-better-positioned workers have a responsibility to use their position to support
-organizing efforts among the workers who are struggling the most. **"Having it
-good already" is not an excuse to not unionize**.
+   In the long term, workers can only lose by letting themselves be divided in such
+   a way. On the other hand, all of us benefit by working together and supporting
+   each other in our various struggles. **QA testers, localization workers, console
+   manufacturing workers, and all other game workers must be part of the effort to
+   create a better game industry for it to succeed**. More privileged and
+   better-positioned workers have a responsibility to use their position to support
+   organizing efforts among the workers who are struggling the most. **"Having it
+   good already" is not an excuse to not unionize**.
 
