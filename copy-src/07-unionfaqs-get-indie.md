@@ -25,8 +25,8 @@ whatever the reason for it. **It's the owners who decide when to sell the
 studio**, and they're the ones who get to cash in on all the work that was put
 into it when it gets bought out. When that happens, usually all you get as a
 worker is a change of bosses. Notoriously, Notch sold Mojang to Microsoft for
-$2.5 billion and became enormously wealthy for it, while his employees merely
-got to keep their jobs. (Microsoft would later offer a comparatively tiny
+$2.5 billion and became enormously wealthy for it, while his employees received
+nothing. (Microsoft would later offer a comparatively tiny
 $300,000 — that's a whole $0.0003 billion, folks — incentive to workers, but
 only if they agreed to remain Microsoft employees for another six months.)
 
