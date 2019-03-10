@@ -64,4 +64,3 @@ studio yourself, forming a worker cooperative is a great way to bake in those
 values right from the start.
 
 [^1]: https://www.wired.com/2015/06/minecraft-book-excerpt/
-

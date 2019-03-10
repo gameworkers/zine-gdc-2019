@@ -41,4 +41,3 @@ things are important to remember:
    better-positioned workers have a responsibility to use their position to support
    organizing efforts among the workers who are struggling the most. **"Having it
    good already" is not an excuse to not unionize**.
-

@@ -18,4 +18,3 @@ If you're in the industry but currently unemployed, **you're also a game
 worker**. The same goes for students and interns. In an industry where so much
 labour is erased or goes unrecognized, it's important that we stick together and
 resist bosses' efforts to divide and conquer.
-

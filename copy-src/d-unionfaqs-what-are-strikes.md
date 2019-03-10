@@ -18,4 +18,3 @@ between management and the union. Everybody wants to avoid that and find a
 better solution, but the important thing to remember is that without the
 potential to call a strike as a last-resort measure, workers would have no real
 leverage with bosses, and bosses would have no reason to take them seriously.
-
