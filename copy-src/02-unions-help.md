@@ -8,10 +8,11 @@ the power held by bosses and shareholders.
 As workers, all of us benefit from past unionizing efforts. Here are some things
 unions have fought for and won in the past:
 
-Abolishing child labour • Safety regulations • Health care insurance •
-Unemployment insurance • Ending unpaid overtime • Protection from mass layoffs
+Safety regulations • Health care insurance • Ending unpaid overtime •
+Unemployment insurance • Protection from mass layoffs
 and unfair firings • Anti-harassment policies • Closing the wage gap • Paid sick
-leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks
+leave • Paid parental leave • Annual leave • Pensions • Week-ends • Meal breaks •
+Abolishing child labour
 
 In the sections that follow we'll break down some of the specific ways that
 unions can help workers in the game industry.
@@ -29,7 +30,7 @@ wondering how it can help with something like mass layoffs; cuts are cuts,
 right? Well — not quite. One of the most important things a union can achieve
 for a workplace or industry is a **collective agreement** (sometimes called a
 collective bargaining agreement, CBA, or collective labour agreement; the term
-varies by country). A collective agreement is far from the only way of
+varies by country). A collective agreement is not the only way of
 organizing or making demands — but it's a common and battle-tested one, and most
 collective agreements include some form of protection from layoffs by employers:
 
