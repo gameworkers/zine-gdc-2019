@@ -44,6 +44,11 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; subParagraph &gt; Paragraph" Name="NumList &gt; subParagraph &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -72,7 +77,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>There is more than a single strategy for approaching unionization. Lots of existing unions take the approach of representing workers who are all part of a specific craft or trade, across multiple industries. This is the case of SAG-AFTRA, the US union representing voice actors and other media professionals across all sectors including the game industry. These unions are generally referred to as </Content>
+    <Content>There is more than a single strategy for unionization. Lots of existing unions take the approach of representing workers who are all part of a specific craft or trade, across multiple industries. This is the case of SAG-AFTRA, the US union representing voice actors and other media professionals across all sectors including the game industry. These unions are generally referred to as </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“</Content>
@@ -136,9 +141,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; subParagraph &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In the long term, workers can only lose by letting themselves be divided in such a way. On the other hand, all of us benefit by working together and supporting each other in our various struggles. </Content>
+    <Content>	In the long term, workers can only lose by letting themselves be divided in such a way. On the other hand, all of us benefit by working together and supporting each other in our various struggles. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>QA testers, localization workers, console manufacturing workers, and all other game workers must be part of the effort to create a better game industry for it to succeed</Content>
