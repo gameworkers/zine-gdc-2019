@@ -35,11 +35,11 @@ organizing or making demands — but it's a common and battle-tested one, and mo
 collective agreements include some form of protection from layoffs by employers:
 
 > Some CBAs don't allow layoffs **even when the employer claims that it doesn't
-> have enough money to pay everyone on payroll**… **Similarly, many CBAs bar
-> employers from laying off union workers and subcontracting out their jobs**.
+> have enough money to pay everyone on payroll**… Similarly, many CBAs bar
+> employers from laying off union workers and subcontracting out their jobs.
 >
-> **Many CBAs require employers to "recall" or rehire laid-off workers once the
-> need for the layoff subsides (for example, when work picks up again).**[^7]
+> Many CBAs require employers to "recall" or rehire laid-off workers once the
+> need for the layoff subsides (for example, when work picks up again).[^7]
 
 In an industry that often experiences cycles of hirings and layoffs as projects
 ramp up to full production, go gold, get cancelled, or change in scope, it's
@@ -54,12 +54,14 @@ wring people back into when they're no longer needed. But we know that
 
 ### Crunch
 
-
+::: {custom-style="Bigquote"}
 > In those days, Miyamoto would come to us at 11 PM, after he finished all of
-> his board-member work, and say, "**It's Mario time.**" At that point, we'd
-> start a planning meeting that would run until 2 AM.
+> his board-member work, and say, ["It's Mario
+> time."]{custom-style="Bigquote-Bold"} At that point, we'd start a planning
+> meeting that would run until 2 AM.
 
-#### — Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS[^8]
+— Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS[^8]
+:::
 
 Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games
 co-founder and boss Dan Houser proudly declared to New York Magazine that
@@ -74,7 +76,7 @@ those hours, and only during a period of a few weeks. But that only prompted
 backlash from current and former workers: some called out the obvious falsehood
 of the retraction and told stories of the immense pressure placed on them (one
 former worker noted "during the _GTA IV_ era, it was like working with a gun to
-your head, 7 days a week") while others were just unhappy to have their
+your head, 7 days a week"[^6]) while others were just unhappy to have their
 backbreaking labour downplayed and denied by a studio head.
 
 Houser and others seem to think that crunch is a sign of dedication and passion
@@ -110,6 +112,7 @@ week**. This helps those already in the industry, but it also makes it more
 likely that employers will hire more people instead of cheating prospective
 workers out of a job by forcing too much work on existing employees.
 
+::: {custom-style="Bigquote"}
 > When in Bioware they said they had a three-month crunch, we laughed. During
 > the Witcher 3, a lot of people crunched for over a year — some of them for
 > three years.
@@ -121,8 +124,8 @@ workers out of a job by forcing too much work on existing employees.
 > wilder, even more chaotic. At that time, almost everybody in my team wanted to
 > leave.
 
-#### — CD Projekt Red developer on conditions at the studio[^11]
-
+— CD Projekt Red developer on conditions at the studio[^11]
+:::
 
 ### Harassment
 
@@ -240,6 +243,8 @@ having unions, those who benefit the most are typically the people who are the
 **most disempowered or in the most precarious positions**. On top of improving
 general working conditions for these folks, it also turns out solidarity is a
 great way to cut down the gendered pay gap.[^16]
+
+[^6]: https://archive.fo/2M7CG
 
 [^7]:
      Union Employees: Are You Protected From Layoffs? https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html

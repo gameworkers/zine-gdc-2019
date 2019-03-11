@@ -1,5 +1,3 @@
-## FROM THE DESK OF THE EDITORS
-
 ### **_Dear Reader…_**
 
 Welcome back to another thrilling issue of the **Game Workers Unite magazine**.
