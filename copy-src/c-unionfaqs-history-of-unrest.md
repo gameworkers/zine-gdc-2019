@@ -28,7 +28,7 @@ hidden resistance. In the Italian translation of Final Fantasy VIII, When the
 "Scan" spell is cast on a placeholder debug enemy, a message is shown written by
 the translator themself: "This translation is killing me. It's almost 2 in the
 morning. I'm tired!!!! I'm tired!!!!"[^1]
-
-[^1]: _Tweet by @SimplyRagny_ [https://bit.ly/2Uy1kuY](https://twitter.com/SimplyRagny/status/1058198479707820032)
 :::
+
+[^1]: _Tweet by @Simply Ragny_ [https://bit.ly/2Uy1kuY](https://twitter.com/SimplyRagny/status/1058198479707820032)
 
