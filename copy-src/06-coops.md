@@ -47,8 +47,8 @@ business owners' associations that style themselves as "cooperatives" — in the
 Québec game industry, for instance, a group called _La Guilde_ has gotten
 significant media attention and funding and now proudly claims to be the
 "largest cooperative in this industry in the world"[^26] — but in actuality
-they're nothing more than cartels of bosses and employees have no say in how
-they are run. So this can get pretty confusing and might be
+they're nothing more than cartels of bosses, and employees have no say in how
+they are run. This can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
 business model.
