@@ -1,11 +1,14 @@
 ## How gamer rage is harnessed to discipline workers
 
+::: {custom-style="Bigquote"}
 > Sam [Dan's brother and Rockstar president] and I talk about this a lot, and
-> it's that games are still magical. **It's like they're made by elves…** You
-> turn on the screen and it's just this world that exists on TV. **I think you
-> gain something by not knowing how they're made.**
+> it's that games are still magical. [It's like they're made by
+> elves…]{custom-style="Bigquote-bold"} You turn on the screen and it's just
+> this world that exists on TV. [I think you gain something by not knowing how
+> they're made.]{custom-style="Bigquote-bold"}
 
-#### — Rockstar Games' co-founder Dan Houser on the development of Red Dead Redemption 2 [^18]
+— Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2 [^18]
+:::
 
 There is no real reason why workers and consumers should have different
 interests or be at odds with one another. It sounds absurd when you think about

@@ -86,6 +86,3 @@ links to local chapters are available here:
 
 If there's no GWU chapter in your area, contact the international and we can
 help put you in touch with local unions and even help you start a new chapter!
-
-
-## And remember: you're not in this fight alone! Together, we can win better working conditions for **everyone**.

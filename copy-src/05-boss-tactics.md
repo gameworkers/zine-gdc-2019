@@ -12,7 +12,7 @@ can be ready and prepared when they inevitably get pulled out** and render them
 ineffective. Here's a few classics:
 
 
-### The "Captive Audience" Meeting
+#### The "Captive Audience" Meeting
 
 If management ever catches wind that there's organizing (or even just vague
 union talk) happening at the workplace, their first response will usually be to
@@ -30,7 +30,7 @@ repeat these talking points on any platform they have access to, such as game
 industry conferences or industry-oriented websites…
 
 
-### The "Open Door" Policy
+#### The "Open Door" Policy
 
 Bosses often encourage workers to talk to them directly about workplace issues,
 insisting their "door is always open" and that no one will be reprimanded for
@@ -53,7 +53,7 @@ probably won't take long for that supportive demeanor to disappear, which is why
 the eyes and ears of management**.
 
 
-### "Unions might be great for other companies/industries, but it's different here!"
+#### "Unions might be great for other companies/industries, but it's different here!"
 
  Whether it's because games are "too creative a medium," "too recent an
  industry," "too dependent on flexibility" (boss-speak for worker precarity) or
@@ -64,7 +64,7 @@ the eyes and ears of management**.
  workers! (WORKERTIP: It's never true.)
 
 
-### Framing the union as a "third party"
+#### Framing the union as a "third party"
 
 Many bosses try and frame unions as some kind of external third party that will
 come in between you and your employer, ruining your happy family relationship,
@@ -76,7 +76,7 @@ some outside strangers — and what your bosses fundamentally fear is **the
 empowerment that you will gain through organizing**.
 
 
-### "You can't have a union, because you're not really employees!"
+#### "You can't have a union, because you're not really employees!"
 
 More and more employers try to paper over the true nature of the relationship
 they have with their workers by referring to them as "partners" or "associates"
@@ -100,7 +100,7 @@ employees.[^24] **Remember that if you're hired to work for someone who makes a
 profit from selling what you produce, you can unionize**.
 
 
-### Threats of outsourcing and cuts
+#### Threats of outsourcing and cuts
 
 A common line — and one frequently internalized by workers — is that if workers
 unionize, bosses will make cuts to jobs or outsource them to where labour is
@@ -122,7 +122,7 @@ emphasizing why it's so important for our organizing efforts to be international
 in nature and in solidarity with fellow workers all around the world!
 
 
-### The "Guilt Trip"
+#### The "Guilt Trip"
 
 Some owners, especially those who think of themselves as "good bosses" and
 maintain a lot of contact with their employees, might react to unionizing
@@ -140,7 +140,7 @@ with tears! These sentiments may even be genuine, but in any case, dealing with
 them should be the responsibility of your boss's therapist, not their employees.
 
 
-### The "Company Union"
+#### The "Company Union"
 
 Some bosses claim to support unions, and will even offer to help you set one up.
 If your boss tries to pull this move, you might think at first you're very lucky
@@ -165,7 +165,7 @@ du Jeu Vidéo" (SNJV, not to be confused with the STJV, which is the actual
 French game workers' union).
 
 
-### Scab Labour
+#### Scab Labour
 
 One of the dirtiest tricks a boss can employ, **"scabs" are people who, as
 workers themselves and thus potential members of a union, receive special

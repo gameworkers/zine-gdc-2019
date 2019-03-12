@@ -29,7 +29,12 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+      <ParagraphStyle Self="ParagraphStyle/Bigquote &gt; Blockquote &gt; Paragraph" Name="Bigquote &gt; Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Bigquote &gt; Paragraph" Name="Bigquote &gt; Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -40,11 +45,6 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header4" Name="Header4" LeftIndent="0" PointSize="18">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -108,7 +108,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bigquote &gt; Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Jorgensen says the shuttering [of Visceral] was </Content>
   </CharacterStyleRange>
@@ -123,7 +123,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bigquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios’ closure</Content>
   </CharacterStyleRange>
@@ -190,19 +190,19 @@
     <Content>highest possible profit</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> in the short-term, over anything else. And one of the main ways of increasing profits is to minimize expenses such as salaries to workers, which is why the mass layoffs keep recurring. Studios can hire a bunch of game developers as work ramps up on a large project, make them crunch unreasonable hours to get it released as fast as possible, then lay off most of them after sales start coming in to ensure that salary expenses are minimized and profits kept as high as possible.** </Content>
+    <Content> in the short-term, over anything else. And one of the main ways of increasing profits is to minimize expenses such as salaries to workers, which is why the mass layoffs keep recurring. Studios can hire a bunch of game developers as work ramps up on a large project, make them crunch unreasonable hours to get it released as fast as possible, then lay off most of them after sales start coming in to ensure that salary expenses are minimized and profits kept as high as possible. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>This isn’t </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>“bad management”</Content>
+    <Content>“bad management.”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>, </Content>
+    <Content> It’s the system working as designed.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>it’s the system working as designed**: executives making decisions for the benefit of the owners, at the expense of the rest of us.</Content>
+    <Content> Executives make decisions for the benefit of the owners at the expense of the rest of us.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

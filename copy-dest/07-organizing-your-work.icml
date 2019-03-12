@@ -230,18 +230,6 @@
     <Content>If there’s no GWU chapter in your area, contact the international and we can help put you in touch with local unions and even help you start a new chapter!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>And remember: you’re not in this fight alone! Together, we can win better working conditions for </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>everyone</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.gameworkersunite.org/get-involved" Name="link" DestinationURL="http://www.gameworkersunite.org/get-involved" DestinationUniqueKey="1" />

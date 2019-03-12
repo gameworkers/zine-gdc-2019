@@ -4,12 +4,7 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+      <CharacterStyle Self="CharacterStyle/FAQ-Bold" Name="FAQ-Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -29,27 +24,22 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; NumList &gt; Paragraph" Name="UnionFAQs &gt; NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/NumList &gt; Paragraph" Name="NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; NumList &gt; first &gt; Paragraph" Name="UnionFAQs &gt; NumList &gt; first &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; Paragraph" Name="NumList &gt; first &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; NumList &gt; subParagraph &gt; Paragraph" Name="UnionFAQs &gt; NumList &gt; subParagraph &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/NumList &gt; subParagraph &gt; Paragraph" Name="NumList &gt; subParagraph &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -69,53 +59,29 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>UnionFAQs: Craft Unionism, Industrial Unionism… What’s the Difference?</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>There is more than a single strategy for unionization. Lots of existing unions take the approach of representing workers who are all part of a specific craft or trade, across multiple industries. This is the case of SAG-AFTRA, the US union representing voice actors and other media professionals across all sectors including the game industry. These unions are generally referred to as </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>craft unions</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>”</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
+    <Content>“craft unions”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>There are also unions called </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>industrial unions</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
+    <Content>“industrial unions”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>”</Content>
+    <Content> that aim to organize all workers within an industry </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> that aim to organize </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>all</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> workers within an industry </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
     <Content>regardless of their specific craft</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -123,8 +89,8 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
     <Content>Unionization always starts by organizing at the workplace</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -132,8 +98,8 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
     <Content>Workers are always stronger when they unite</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -141,24 +107,21 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; subParagraph &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; NumList &gt; subParagraph &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>	In the long term, workers can only lose by letting themselves be divided in such a way. On the other hand, all of us benefit by working together and supporting each other in our various struggles. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
     <Content>QA testers, localization workers, console manufacturing workers, and all other game workers must be part of the effort to create a better game industry for it to succeed</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. More privileged and better-positioned workers have a responsibility to use their position to support organizing efforts among the workers who are struggling the most. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
     <Content>“Having it good already”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content> is not an excuse to not unionize</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
+    <Content> is not an excuse to not unionize.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

@@ -1,5 +1,4 @@
-# UnionFAQs: A History of Unrest
-
+::: {custom-style="UnionFAQs"}
 It's easy to forget that labour issues have been central to the business of
 making games from the very beginning. Easter eggs, now a widely-known phenomenon
 in games, initially emerged from issues around crediting and disputes between
@@ -29,6 +28,7 @@ hidden resistance. In the Italian translation of Final Fantasy VIII, When the
 "Scan" spell is cast on a placeholder debug enemy, a message is shown written by
 the translator themself: "This translation is killing me. It's almost 2 in the
 morning. I'm tired!!!! I'm tired!!!!"[^2]
+:::
 
 [^1]: https://books.google.ca/books?id=aZv6AQAAQBAJ&pg=PA713&lpg=PA713#v=onepage&q&f=false
 [^2]: https://twitter.com/SimplyRagny/status/1058198479707820032

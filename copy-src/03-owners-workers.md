@@ -27,11 +27,13 @@ money, and they buy shares because they want this money to grow into more money,
 without doing any work for it. (Creating this additional value does take work,
 but that work is done by workers like you and me, not by them.)
 
+::: {custom-style="Bigquote"}
 > Jorgensen says the shuttering [of Visceral] was **purely a business
 > decision..**. "You've got to cut the bridge when you realize you can't really
 > make a lot of money on something, so that's the decision we made."
 
-#### — Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure[^17]
+— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure[^17]
+:::
 
 The main way shareholders exercise control over corporations is through
 elections of the board of directors. Shareholders leverage the amount of voting
@@ -59,9 +61,9 @@ workers, which is why the mass layoffs keep recurring. Studios can hire a bunch
 of game developers as work ramps up on a large project, make them crunch
 unreasonable hours to get it released as fast as possible, then lay off most of
 them after sales start coming in to ensure that salary expenses are minimized
-and profits kept as high as possible.** **This isn't "bad management", **it's
-the system working as designed**: executives making decisions for the benefit of
-the owners, at the expense of the rest of us.
+and profits kept as high as possible. **This isn't "bad management." It's the
+system working as designed.** Executives make decisions for the benefit of the
+owners at the expense of the rest of us.
 
 This is why we also typically see share value increase after every round of
 layoffs, as happened recently with Activision Blizzard: when mass layoffs get
@@ -107,7 +109,7 @@ game industry for all workers!
 
 Beyond this, **we can also imagine an entirely different way of structuring the
 industry** — one that would not fundamentally rely on the exploitation of
-workers for the benefit of shareholders. This is what workers' cooperatives aim 
+workers for the benefit of shareholders. This is what workers' cooperatives aim
 to do: they are businesses with no external shareholders that are entirely and
 collectively owned by all the workers who work there themselves, allowing them
 to earn the full benefit of their labour. (Check the section on worker co-ops
