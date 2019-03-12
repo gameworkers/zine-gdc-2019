@@ -14,7 +14,17 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -187,8 +197,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	Union Employees: Are You Protected From Layoffs? https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Union Employees: Are You Protected From Layoffs?”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Lisa Guerin, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Lawyers.com</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -255,14 +282,31 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	At Nintendo, Working All Night Is </Content>
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“At Nintendo, Working All Night Is </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>‘Mario Time’</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341</Content>
+          <Content>”</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Jason Schreier, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Kotaku</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -302,8 +346,19 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	https://archive.fo/2M7CG</Content>
+          <Content>	_Archived Tweet by </Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+          <Content>@jobjaystauffer_</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://archive.fo/2M7CG</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -352,8 +407,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	Clint Hocking’s blog - Ten Years Down https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Ten Years Down”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Clint Hocking, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Click Nothing</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -378,8 +450,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	Crunch mode caused a young Netmarble game developer’s death, Korean government says https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Crunch mode caused a young Netmarble game developer’s death, Korean government says”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Bree Royce, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Massively Overpowered</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -449,8 +538,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077 https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Tatiana Morris, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gamezone</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -511,8 +617,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“The 3 Things That Make Organizations More Prone to Sexual Harassment”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Marianne Cooper, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Atlantic</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -627,8 +750,22 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“How bad crediting hurts the game industry and muddles history”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Richard Moss, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gamasutra</Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -671,8 +808,19 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>BCCFU Master Agreement</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -730,8 +878,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	http://www.epi.org/publication/briefingpapers_bp143/</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“How Unions Help All Workers”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Matthew Walters &amp; Lawrence Mishel, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Economic Policy Institute</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.epi.org/publication/briefingpapers_bp143/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -759,13 +924,106 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;</Content>
+          <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“How does Collective Bargaining Affect the Gender Pay Gap?”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Marta M. Elvira, Ishak Saporta, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Work and Occupations</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2XRQFxs" Name="link" DestinationURL="https://bit.ly/2XRQFxs" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="https://bit.ly/2XRQFxs" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2XRQFxs</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/1r0Wq9U" Name="link" DestinationURL="https://bit.ly/1r0Wq9U" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="https://bit.ly/1r0Wq9U" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/1r0Wq9U</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2T5dFWg" Name="link" DestinationURL="https://bit.ly/2T5dFWg" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="https://bit.ly/2T5dFWg" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2T5dFWg</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//ubm.io/2J6N0bz" Name="link" DestinationURL="https://ubm.io/2J6N0bz" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="https://ubm.io/2J6N0bz" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//ubm.io/2J6N0bz</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2AbzFZY" Name="link" DestinationURL="https://bit.ly/2AbzFZY" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="https://bit.ly/2AbzFZY" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2AbzFZY</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2Hg3498" Name="link" DestinationURL="https://bit.ly/2Hg3498" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://bit.ly/2Hg3498" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2Hg3498</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2Hj3jjY" Name="link" DestinationURL="https://bit.ly/2Hj3jjY" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://bit.ly/2Hj3jjY" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2Hj3jjY</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2u3vvyQ" Name="link" DestinationURL="https://bit.ly/2u3vvyQ" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://bit.ly/2u3vvyQ" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2u3vvyQ</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//archive.fo/2M7CG" Name="link" DestinationURL="https://archive.fo/2M7CG" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://archive.fo/2M7CG" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//archive.fo/2M7CG</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2VVnsjq" Name="link" DestinationURL="https://bit.ly/2VVnsjq" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://bit.ly/2VVnsjq" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2VVnsjq</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2IWnBBE" Name="link" DestinationURL="https://bit.ly/2IWnBBE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://bit.ly/2IWnBBE" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2IWnBBE</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>
