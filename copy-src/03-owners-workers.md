@@ -32,7 +32,8 @@ but that work is done by workers like you and me, not by them.)
 > decision..**. "You've got to cut the bridge when you realize you can't really
 > make a lot of money on something, so that's the decision we made."
 
-— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure[^17]
+— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral
+Studios' closure[20]{custom-style="Super"}
 :::
 
 The main way shareholders exercise control over corporations is through
@@ -114,6 +115,3 @@ to do: they are businesses with no external shareholders that are entirely and
 collectively owned by all the workers who work there themselves, allowing them
 to earn the full benefit of their labour. (Check the section on worker co-ops
 later in the zine!)
-
-[^17]:
-    "EA: Visceral's canned Star Wars project "too linear" for modern tastes", Chris Kerr, _Gamasutra_ [https://ubm.io/2u3Ujq8](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)

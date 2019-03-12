@@ -19,7 +19,7 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -50,11 +50,6 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -109,36 +104,8 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>— Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2 </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Red Dead Redemption 2’s labor controversy, explained”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Owen S. Good, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Polygon</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2F6pyYc</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>21</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -170,76 +137,14 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Sadly, they often succeed in goading bosses into punishing or even firing these workers: two well-known examples are last year’s firing of Jessica Price and Peter Fries from ArenaNet</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“ArenaNet </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘folded like a cheap card table,’</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> says fired Guild Wars 2 writer”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Colin Campbell, Polygon </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2ufOuqr</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>22</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> and the dismissal of Alison Rapp from Nintendo in 2016</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Nintendo Employee </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘Terminated’</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> After Smear Campaign Over Censorship, Company Denies Harassment Was Factor”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Patrick Klepek, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Kotaku</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2TDJmes</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>23</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. Look a little closer and you’ll discover these aren’t isolated cases: in private conversation, in whisper networks, </Content>
@@ -301,36 +206,8 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Worse than Scabs: Gamer Rage as Anti-Union Violence”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Lana Polansky, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Rhizome</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2F6mkCT</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>24</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Lana Polansky writes:</Content>
@@ -359,36 +236,8 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This tactic was deployed in 2016 when studio owners at Activision, EA, Disney, Warner Bros, Take-Two, and others launched a website</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Activision, EA and others launch site attacking voice actors union over strike”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Julia Alexander, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Polygon</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2THL3GN</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>25</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> and video that explicitly targeted a gamer audience and demonized the SAG-AFTRA voice actors’ union. At the time, union members were demanding, among other things, better safety standards for voice strain and risks associated with stunt coordination (for motion capture), an improved structure for bonus payments, better transparency, and employment mobility. </Content>
@@ -441,39 +290,5 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-5" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-3" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-2" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Name="link" DestinationURL="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Destination>
-    </Properties>
-  </Hyperlink>
+  
 </Document>

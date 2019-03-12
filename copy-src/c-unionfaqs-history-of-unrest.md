@@ -21,14 +21,14 @@ change the message in the game to say "Fixed by Brad Stewart" instead.
 Eventually, Atari management decided that Easter eggs should be permitted, and
 even encouraged developers to add them as a way to increase playtime and give
 players more value — but they generally limited them to developers' initials
-rather than full names.
+rather than full names.[18]{custom-style="Super"}
 
 Developers have never really stopped hiding messages in games as protest or in
 hidden resistance. In the Italian translation of Final Fantasy VIII, When the
 "Scan" spell is cast on a placeholder debug enemy, a message is shown written by
 the translator themself: "This translation is killing me. It's almost 2 in the
-morning. I'm tired!!!! I'm tired!!!!"[^1]
+morning. I'm tired!!!! I'm tired!!!!"[19]{custom-style="Super"}
 :::
 
-[^1]: _Tweet by @Simply Ragny_ [https://bit.ly/2Uy1kuY](https://twitter.com/SimplyRagny/status/1058198479707820032)
+
 

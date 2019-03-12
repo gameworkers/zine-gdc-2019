@@ -56,10 +56,10 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>1 _Tweet by </Content>
+    <Content>1 </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
-    <Content>@TheFiremonkeys_</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Tweet by @TheFiremonkeys</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -354,6 +354,9 @@
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Gamasutra</Content>
   </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://ubm.io/2J6N0bz</Content>
@@ -423,8 +426,236 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>18 </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2NXraGi</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>19 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Tweet by @Simply Ragny</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2Uy1kuY</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>20 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“EA: Visceral’s canned Star Wars project”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>too linear&quot; for modern tastes&quot;, Chris Kerr, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Gamasutra</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://ubm.io/2u3Ujq8</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>21 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Red Dead Redemption 2’s labor controversy, explained”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Owen S. Good, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Polygon</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2F6pyYc</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>22 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“ArenaNet </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘folded like a cheap card table,’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> says fired Guild Wars 2 writer”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Colin Campbell, Polygon </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2ufOuqr</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>23 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Nintendo Employee </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Terminated’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> After Smear Campaign Over Censorship, Company Denies Harassment Was Factor”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Patrick Klepek, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Kotaku</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2TDJmes</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>24 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Worse than Scabs: Gamer Rage as Anti-Union Violence”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Lana Polansky, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Rhizome</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2F6mkCT</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>25 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Activision, EA and others launch site attacking voice actors union over strike”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Julia Alexander, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Polygon</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2THL3GN</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-25" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-25" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-24" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-24" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-23" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-22" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Name="link" DestinationURL="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-21" Name="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" Name="link" DestinationURL="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-20" Name="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032" Name="link" DestinationURL="https://twitter.com/SimplyRagny/status/1058198479707820032" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="https://twitter.com/SimplyRagny/status/1058198479707820032" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" Name="link" DestinationURL="https://books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="https://books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;" Name="link" DestinationURL="https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&amp;" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>

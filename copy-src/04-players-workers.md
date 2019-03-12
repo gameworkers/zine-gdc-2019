@@ -7,7 +7,8 @@
 > this world that exists on TV. [I think you gain something by not knowing how
 > they're made.]{custom-style="Bigquote-bold"}
 
-— Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2 [^18]
+— Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption
+2 [21]{custom-style="Super"}
 :::
 
 There is no real reason why workers and consumers should have different
@@ -38,10 +39,10 @@ who scapegoat them for everything they believe is wrong with games.
 
 Sadly, they often succeed in goading bosses into punishing or even firing these
 workers: two well-known examples are last year's firing of Jessica Price and
-Peter Fries from ArenaNet[^19] and the dismissal of Alison Rapp from Nintendo in
-2016[^20]. Look a little closer and you'll discover these aren't isolated cases:
-in private conversation, in whisper networks, **incidents like these are all too
-common**.
+Peter Fries from ArenaNet[22]{custom-style="Super"} and the dismissal of Alison
+Rapp from Nintendo in 2016[23]{custom-style="Super"}. Look a little closer and
+you'll discover these aren't isolated cases: in private conversation, in whisper
+networks, **incidents like these are all too common**.
 
 Giving in to demands from angry, reactionary gamers is a convenient excuse for
 bosses to get rid of "troublesome" workers — like, say, someone speaking out
@@ -68,7 +69,7 @@ their regular job — and for no additional compensation, to boot. (What a
 bargain!)
 
 In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
-Anti-Union Violence_"[^21], Lana Polansky writes:
+Anti-Union Violence_"[24]{custom-style="Super"}, Lana Polansky writes:
 
 > "**As long as gamers direct their grievances at individual workers**,
 > videogame companies understand that they can use that dynamic **to shield
@@ -80,14 +81,14 @@ Anti-Union Violence_"[^21], Lana Polansky writes:
 > to clear."
 
 This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
-Warner Bros, Take-Two, and others launched a website[^22] and video that
-explicitly targeted a gamer audience and demonized the SAG-AFTRA voice actors'
-union. At the time, union members were demanding, among other things, better
-safety standards for voice strain and risks associated with stunt coordination
-(for motion capture), an improved structure for bonus payments, better
-transparency, and employment mobility. **In a blatant effort to direct fan rage
-at the workers**, bosses argued that these demands would somehow lead to worse
-games for consumers.
+Warner Bros, Take-Two, and others launched a website[25]{custom-style="Super"}
+and video that explicitly targeted a gamer audience and demonized the SAG-AFTRA
+voice actors' union. At the time, union members were demanding, among other
+things, better safety standards for voice strain and risks associated with stunt
+coordination (for motion capture), an improved structure for bonus payments,
+better transparency, and employment mobility. **In a blatant effort to direct
+fan rage at the workers**, bosses argued that these demands would somehow lead
+to worse games for consumers.
 
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
@@ -102,18 +103,3 @@ vulnerable employees that are easily scapegoated. But for this to mean anything,
 dollars"** and to buy more from the "good companies" and less from the bad ones.
 Player support for unionization will go much farther towards crafting a better
 industry.
-
-[^18]:
-     "Red Dead Redemption 2's labor controversy, explained", Owen S. Good, _Polygon_ [https://bit.ly/2F6pyYc](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
-
-[^19]:
-     "ArenaNet ‘folded like a cheap card table,’ says fired Guild Wars 2 writer", Colin Campbell, Polygon [https://bit.ly/2ufOuqr](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired)
-
-[^20]:
-     "Nintendo Employee 'Terminated' After Smear Campaign Over Censorship, Company Denies Harassment Was Factor", Patrick Klepek, _Kotaku_ [https://bit.ly/2TDJmes](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368)
-
-[^21]:
-     "Worse than Scabs: Gamer Rage as Anti-Union Violence", Lana Polansky, _Rhizome_ [https://bit.ly/2F6mkCT](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
-
-[^22]:
-     "Activision, EA and others launch site attacking voice actors union over strike", Julia Alexander, _Polygon_ [https://bit.ly/2THL3GN](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
