@@ -142,7 +142,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/thefiremonkeys/status/1043333183268257792</Content>
+            <Content>https://bit.ly/2XTw7EM</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -197,7 +197,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Content>
+            <Content>https://bit.ly/2DxaUHt</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -237,7 +237,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.youtube.com/watch?v=2VR7Hl6SuXE</Content>
+            <Content>https://bit.ly/2J8wAjb</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -361,7 +361,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/GoogleWalkout</Content>
+            <Content>https://bit.ly/2XSkdef</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -389,7 +389,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/techworkersco/status/1103502027726995459</Content>
+            <Content>https://bit.ly/2CiYanM</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -423,7 +423,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/MsWorkers4</Content>
+            <Content>https://bit.ly/2J5O3IZ</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -471,46 +471,46 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2J5O3IZ" Name="link" DestinationURL="https://bit.ly/2J5O3IZ" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="https://bit.ly/2J5O3IZ" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4" Name="link" DestinationURL="https://twitter.com/MsWorkers4" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://twitter.com/MsWorkers4" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2J5O3IZ</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/MsWorkers4</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2CiYanM" Name="link" DestinationURL="https://bit.ly/2CiYanM" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="https://bit.ly/2CiYanM" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459" Name="link" DestinationURL="https://twitter.com/techworkersco/status/1103502027726995459" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://twitter.com/techworkersco/status/1103502027726995459" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2CiYanM</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/techworkersco/status/1103502027726995459</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2XSkdef" Name="link" DestinationURL="https://bit.ly/2XSkdef" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="https://bit.ly/2XSkdef" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout" Name="link" DestinationURL="https://twitter.com/GoogleWalkout" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://twitter.com/GoogleWalkout" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2XSkdef</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/GoogleWalkout</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2J8wAjb" Name="link" DestinationURL="https://bit.ly/2J8wAjb" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="https://bit.ly/2J8wAjb" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE" Name="link" DestinationURL="https://www.youtube.com/watch?v=2VR7Hl6SuXE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.youtube.com/watch?v=2VR7Hl6SuXE" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2J8wAjb</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=2VR7Hl6SuXE</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2DxaUHt" Name="link" DestinationURL="https://bit.ly/2DxaUHt" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="https://bit.ly/2DxaUHt" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Name="link" DestinationURL="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2DxaUHt</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2XTw7EM" Name="link" DestinationURL="https://bit.ly/2XTw7EM" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://bit.ly/2XTw7EM" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792" Name="link" DestinationURL="https://twitter.com/thefiremonkeys/status/1043333183268257792" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://twitter.com/thefiremonkeys/status/1043333183268257792" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2XTw7EM</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/thefiremonkeys/status/1043333183268257792</Destination>
     </Properties>
   </Hyperlink>
 </Document>

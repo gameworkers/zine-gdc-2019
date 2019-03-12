@@ -134,7 +134,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Content>
+            <Content>https://bit.ly/2F6pyYc</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -195,7 +195,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Content>
+            <Content>https://bit.ly/2ufOuqr</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -235,7 +235,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Content>
+            <Content>https://bit.ly/2TDJmes</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -326,7 +326,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Content>
+            <Content>https://bit.ly/2F6mkCT</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -384,7 +384,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Content>
+            <Content>https://bit.ly/2THL3GN</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -441,39 +441,39 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2THL3GN" Name="link" DestinationURL="https://bit.ly/2THL3GN" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="https://bit.ly/2THL3GN" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2THL3GN</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2F6mkCT" Name="link" DestinationURL="https://bit.ly/2F6mkCT" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="https://bit.ly/2F6mkCT" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2F6mkCT</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2TDJmes" Name="link" DestinationURL="https://bit.ly/2TDJmes" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="https://bit.ly/2TDJmes" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2TDJmes</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2ufOuqr" Name="link" DestinationURL="https://bit.ly/2ufOuqr" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="https://bit.ly/2ufOuqr" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2ufOuqr</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bit.ly/2F6pyYc" Name="link" DestinationURL="https://bit.ly/2F6pyYc" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://bit.ly/2F6pyYc" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Name="link" DestinationURL="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//bit.ly/2F6pyYc</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor</Destination>
     </Properties>
   </Hyperlink>
 </Document>
