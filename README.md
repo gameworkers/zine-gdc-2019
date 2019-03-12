@@ -26,3 +26,12 @@ p. 44 move "And remember" up?
 add pull quotes
 more space between footnotes and page number
 do the covers
+
+Joachim is doing this right now:
+- A reference file for visual layout
+- Moving the references to an endnote section
+- Working on a webpage for the references (& maybe additional reading)
+
+Ben (in contact with joachim):
+- Working on a high-res map raster image
+- Fixing the location of some of the chapter pins on the map
