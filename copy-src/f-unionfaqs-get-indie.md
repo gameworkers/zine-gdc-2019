@@ -67,4 +67,4 @@ thinking of starting a new studio yourself, forming a worker cooperative is a
 great way to bake in those values right from the start.
 :::
 
-[^1]: https://www.wired.com/2015/06/minecraft-book-excerpt/
+[^1]: "The Unlikely Story of Microsoft's Surprise Minecraft Buyout", Daniel Goldberg & Linus Larsson, _Wired_ [https://bit.ly/2NYKvac](https://www.wired.com/2015/06/minecraft-book-excerpt/)

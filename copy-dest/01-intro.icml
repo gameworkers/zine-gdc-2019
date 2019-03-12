@@ -138,11 +138,11 @@
           <Content>@TheFiremonkeys_</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Sep 2018 </Content>
+          <Content> </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/thefiremonkeys/status/1043333183268257792</Content>
+            <Content>https://bit.ly/2XTw7EM</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -183,9 +183,21 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Activision Blizzard Lays Off Hundreds Of Employees”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Jason Schreier, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Kotaku</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288</Content>
+            <Content>https://bit.ly/2DxaUHt</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -211,15 +223,21 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>How Telltale Went Broke</Content>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“How Telltale Went Broke”</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Super Bunnyhop, Oct 2018: </Content>
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Super Bunnyhop</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.youtube.com/watch?v=2VR7Hl6SuXE</Content>
+            <Content>https://bit.ly/2J8wAjb</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -329,9 +347,21 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Google Walkout For Real Change”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Twitter account</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/GoogleWalkout</Content>
+            <Content>https://bit.ly/2XSkdef</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -349,11 +379,17 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	_Tweet by </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+          <Content>@techworkersco_</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/techworkersco/status/1103502027726995459</Content>
+            <Content>https://bit.ly/2CiYanM</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>
@@ -373,9 +409,21 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“Microsoft Workers 4 Good”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Twitter account</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://twitter.com/MsWorkers4</Content>
+            <Content>https://bit.ly/2J5O3IZ</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
       </ParagraphStyleRange>

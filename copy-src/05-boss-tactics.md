@@ -188,10 +188,10 @@ the despicable, selfish act that it is — and one that harms the scabs themselv
 in the longer term.
 
 [^23]:
-     https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201
+     "Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video", Bryan Menegus, _Gizmodo_ (https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)[https://bit.ly/2R6XvMe]
 
 [^24]:
-     https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html
+     "National Gallery art educators win workers’ rights in ‘first public sector gig economy victory’", Emma Snaith, _Independent_(https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)[https://ind.pn/2ELiv6U]
 
 [^25]:
-     https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel
+     "Crappy Voice Acting Undercuts an Otherwise Strong 'Life Is Strange' Prequel", Patrick Klepek, _Waypoint_ (https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)[https://bit.ly/2UweYid]

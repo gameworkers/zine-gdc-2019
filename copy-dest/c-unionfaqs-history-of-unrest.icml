@@ -4,7 +4,21 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-       
+      <CharacterStyle Self="CharacterStyle/Cite Italic" Name="Cite Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
       <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
@@ -18,6 +32,11 @@
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
@@ -80,14 +99,45 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“This translation is killing me. It’s almost 2 in the morning. I’m tired!!!! I’m tired!!!!”</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>https://twitter.com/SimplyRagny/status/1058198479707820032</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Tweet by </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite Italic">
+          <Content>@Simply</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content> Ragny</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://bit.ly/2Uy1kuY</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032" Name="link" DestinationURL="https://twitter.com/SimplyRagny/status/1058198479707820032" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://twitter.com/SimplyRagny/status/1058198479707820032" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

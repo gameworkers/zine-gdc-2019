@@ -89,19 +89,19 @@ unavoidable realities of the industry. **But they don't have to be**. Join us.
 
 
 [^1]:
-    _Tweet by @TheFiremonkeys_, Sep 2018  [https://twitter.com/thefiremonkeys/status/1043333183268257792](https://twitter.com/thefiremonkeys/status/1043333183268257792)
+    _Tweet by @TheFiremonkeys_ [https://bit.ly/2XTw7EM](https://twitter.com/thefiremonkeys/status/1043333183268257792)
 
 [^2]:
-     [https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288)
+    "Activision Blizzard Lays Off Hundreds Of Employees", Jason Schreier, _Kotaku_ [https://bit.ly/2DxaUHt](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288)
 
 [^3]:
-    _How Telltale Went Broke_, Super Bunnyhop, Oct 2018: [https://www.youtube.com/watch?v=2VR7Hl6SuXE](https://www.youtube.com/watch?v=2VR7Hl6SuXE)
+    "How Telltale Went Broke", _Super Bunnyhop_ [https://bit.ly/2J8wAjb](https://www.youtube.com/watch?v=2VR7Hl6SuXE)
 
 [^4]:
-     [https://twitter.com/GoogleWalkout](https://twitter.com/GoogleWalkout)
+     "Google Walkout For Real Change", _Twitter account_ [https://bit.ly/2XSkdef](https://twitter.com/GoogleWalkout)
 
 [^5]:
-     [https://twitter.com/techworkersco/status/1103502027726995459](https://twitter.com/techworkersco/status/1103502027726995459)
+    _Tweet by @techworkersco_ [https://bit.ly/2CiYanM](https://twitter.com/techworkersco/status/1103502027726995459)
 
 [^6]:
-     [https://twitter.com/MsWorkers4](https://twitter.com/MsWorkers4)
+    "Microsoft Workers 4 Good", _Twitter account_ [https://bit.ly/2J5O3IZ](https://twitter.com/MsWorkers4)

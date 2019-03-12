@@ -104,16 +104,16 @@ Player support for unionization will go much farther towards crafting a better
 industry.
 
 [^18]:
-     "Red Dead Redemption 2's labor controversy, explained", Polygon, 2018 https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor
+     "Red Dead Redemption 2's labor controversy, explained", Owen S. Good, _Polygon_ [https://bit.ly/2F6pyYc](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
 
 [^19]:
-     https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired
+     "ArenaNet ‘folded like a cheap card table,’ says fired Guild Wars 2 writer", Colin Campbell, Polygon [https://bit.ly/2ufOuqr](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired)
 
 [^20]:
-     https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368
+     "Nintendo Employee 'Terminated' After Smear Campaign Over Censorship, Company Denies Harassment Was Factor", Patrick Klepek, _Kotaku_ [https://bit.ly/2TDJmes](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368)
 
 [^21]:
-     https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/
+     "Worse than Scabs: Gamer Rage as Anti-Union Violence", Lana Polansky, _Rhizome_ [https://bit.ly/2F6mkCT](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
 
 [^22]:
-     https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks
+     "Activision, EA and others launch site attacking voice actors union over strike", Julia Alexander, _Polygon_ [https://bit.ly/2THL3GN](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
