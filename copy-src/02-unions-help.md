@@ -142,7 +142,7 @@ concerns are heard, and unlike HR, they are directly answerable to the workers
 they represent. While an individual worker could be ignored or even fired for
 talking about their experiences with harassment (especially if the harasser is
 in a position of power within the company), they are much more likely to be
-taken seriously when they have the** backing of other employees**. Unions can
+taken seriously when they have the **backing of other employees**. Unions can
 also push for systemic changes, such as the introduction of anti-harassment
 policies or training programs, that help prevent harassment from happening in
 the first place.
