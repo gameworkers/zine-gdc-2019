@@ -72,5 +72,4 @@ So if you're considering starting a business or know game workers who are,
 contact your local GWU chapter (or the international if you don't have one yet)
 and ask them about workers' co-ops!
 
-[^26]: La Guilde Receives a $750,000 Grant:
-    https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins
+[^26]: "La Guilde Receives a $750,000 Grant", _Radio Canada_ [https://bit.ly/2TE8dhi](https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins)
