@@ -248,33 +248,33 @@ great way to cut down the gendered pay gap.[^16]
 	_Archived Tweet by @jobjaystauffer_ [https://archive.fo/2M7CG](https://archive.fo/2M7CG)
 
 [^7]:
-     "Union Employees: Are You Protected From Layoffs?", Lisa Guerin, _Lawyers.com_ [https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html](https://bit.ly/2IWnBBE)
+     "Union Employees: Are You Protected From Layoffs?", Lisa Guerin, _Lawyers.com_ [https://bit.ly/2IWnBBE](https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html)
 
 [^8]:
-    "At Nintendo, Working All Night Is 'Mario Time'", Jason Schreier, _Kotaku_  [https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341](https://bit.ly/2VVnsjq)
+    "At Nintendo, Working All Night Is 'Mario Time'", Jason Schreier, _Kotaku_  [https://bit.ly/2VVnsjq](https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341)
 
 
 [^9]:
-    "Ten Years Down", Clint Hocking, _Click Nothing_ [https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html](https://bit.ly/2u3vvyQ)
+    "Ten Years Down", Clint Hocking, _Click Nothing_ [https://bit.ly/2u3vvyQ](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html)
 
 [^10]:
-     "Crunch mode caused a young Netmarble game developer's death, Korean government says", Bree Royce, _Massively Overpowered_ [https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/](https://bit.ly/2Hj3jjY)
+     "Crunch mode caused a young Netmarble game developer's death, Korean government says", Bree Royce, _Massively Overpowered_ [https://bit.ly/2Hj3jjY](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
 
 [^11]:
-     "CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077", Tatiana Morris, _Gamezone_ [https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/](https://bit.ly/2Hg3498)
+     "CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077", Tatiana Morris, _Gamezone_ [https://bit.ly/2Hg3498](https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/)
 
 [^12]:
-    "The 3 Things That Make Organizations More Prone to Sexual Harassment", Marianne Cooper, _The Atlantic_ [https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/](https://bit.ly/2AbzFZY)
+    "The 3 Things That Make Organizations More Prone to Sexual Harassment", Marianne Cooper, _The Atlantic_ [https://bit.ly/2AbzFZY](https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/)
 
 
 [^13]:
-    "How bad crediting hurts the game industry and muddles history", Richard Moss, _Gamasutra_[https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php](https://ubm.io/2J6N0bz)
+    "How bad crediting hurts the game industry and muddles history", Richard Moss, _Gamasutra_[https://ubm.io/2J6N0bz](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)
 
 [^14]:
-     _BCCFU Master Agreement_ [http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf](https://bit.ly/2T5dFWg)
+     _BCCFU Master Agreement_ [https://bit.ly/2T5dFWg](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
 
 [^15]:
-     "How Unions Help All Workers", Matthew Walters & Lawrence Mishel, _Economic Policy Institute_ [http://www.epi.org/publication/briefingpapers_bp143/](https://bit.ly/1r0Wq9U)
+     "How Unions Help All Workers", Matthew Walters & Lawrence Mishel, _Economic Policy Institute_ [https://bit.ly/1r0Wq9U](http://www.epi.org/publication/briefingpapers_bp143/)
 
 [^16]:
-     "How does Collective Bargaining Affect the Gender Pay Gap?", Marta M. Elvira, Ishak Saporta, _Work and Occupations_ [https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&](https://bit.ly/2XRQFxs)
+     "How does Collective Bargaining Affect the Gender Pay Gap?", Marta M. Elvira, Ishak Saporta, _Work and Occupations_ [https://bit.ly/2XRQFxs](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&)

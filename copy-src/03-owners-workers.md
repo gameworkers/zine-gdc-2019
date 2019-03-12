@@ -116,4 +116,4 @@ to earn the full benefit of their labour. (Check the section on worker co-ops
 later in the zine!)
 
 [^17]:
-    "EA: Visceral's canned Star Wars project "too linear" for modern tastes", Chris Kerr, _Gamasutra_ [https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php](https://ubm.io/2u3Ujq8)
+    "EA: Visceral's canned Star Wars project "too linear" for modern tastes", Chris Kerr, _Gamasutra_ [https://ubm.io/2u3Ujq8](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
