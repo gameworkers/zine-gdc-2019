@@ -30,7 +30,7 @@ minority of consumers take entitlement to the next level in their relationship
 to developers. As more game workers speak up about working conditions in the
 industry, **we've also seen hate-driven harassment campaigns appearing in
 response**. Often this harassment specifically targets marginalized workers who
-are** **simply trying to participate in the creative direction of the games they
+are simply trying to participate in the creative direction of the games they
 build and speak to their own struggles, backgrounds, and experiences. Individual
 workers become singled out and targeted by an online mob of entitled consumers
 who don't want to see the game industry become more welcoming to new voices and

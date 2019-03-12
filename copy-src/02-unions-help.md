@@ -39,7 +39,8 @@ collective agreements include some form of protection from layoffs by employers:
 > employers from laying off union workers and subcontracting out their jobs.
 >
 > Many CBAs require employers to "recall" or rehire laid-off workers once the
-> need for the layoff subsides (for example, when work picks up again).[^7]
+> need for the layoff subsides (for example, when work picks up
+> again).[7]{custom-style="Super"}
 
 In an industry that often experiences cycles of hirings and layoffs as projects
 ramp up to full production, go gold, get cancelled, or change in scope, it's
@@ -60,7 +61,8 @@ wring people back into when they're no longer needed. But we know that
 > time."]{custom-style="Bigquote-Bold"} At that point, we'd start a planning
 > meeting that would run until 2 AM.
 
-— Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS[^8]
+— Former Nintendo planner Motoi Okamoto on the development of Mario 64
+DS[8]{custom-style="Super"}
 :::
 
 Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games
@@ -76,8 +78,9 @@ those hours, and only during a period of a few weeks. But that only prompted
 backlash from current and former workers: some called out the obvious falsehood
 of the retraction and told stories of the immense pressure placed on them (one
 former worker noted "during the _GTA IV_ era, it was like working with a gun to
-your head, 7 days a week"[^6]) while others were just unhappy to have their
-backbreaking labour downplayed and denied by a studio head.
+your head, 7 days a week"[9]{custom-style="Super"}) while others were just
+unhappy to have their backbreaking labour downplayed and denied by a studio
+head.
 
 Houser and others seem to think that crunch is a sign of dedication and passion
 and speaks to the quality of their game. **But crunch is abusive**. It can go on
@@ -96,11 +99,11 @@ during development of that game a decade prior:
 > about. I mean that I literally had no memory of the events. To me it was like
 > it never happened. It was like he never visited. There was just an empty space
 > in my brain that had been overwritten by the stress and anxiety of Splinter
-> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**[^9]
+> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**[10]{custom-style="Super"}
 
 Maybe Hocking got off easy. In 2016, a game developer at South Korean company
 Netmarble was acknowledged to have "died from a work-related cause" after
-putting in months of intense overtime[^10].
+putting in months of intense overtime[11]{custom-style="Super"}.
 
 Many in the game industry try to paint crunch as unavoidable, but we believe it
 is ultimately a story of poor planning and unreachable deadlines — and more
@@ -124,7 +127,7 @@ workers out of a job by forcing too much work on existing employees.
 > wilder, even more chaotic. At that time, almost everybody in my team wanted to
 > leave.
 
-— CD Projekt Red developer on conditions at the studio[^11]
+— CD Projekt Red developer on conditions at the studio[12]{custom-style="Super"}
 :::
 
 ### Harassment
@@ -153,7 +156,7 @@ have unilateral power to make or break an employee's career, and therefore
 reduce harassment**. Since harassment is often tied to discrimination and a lack
 of diversity in the workplace, measures that increase diversity such as fairer
 hiring practices, wage equity, or more comprehensive health benefits, can also
-be a way to curb harassment.[^12]
+be a way to curb harassment.[13]{custom-style="Super"}
 
 Marginalized workers, who are more likely to be the targets of harassment, are
 **already organizing** in many workplaces through whisper networks and informal
@@ -212,7 +215,7 @@ get noticed. If you're new to the games industry, you might believe that getting
 credited for your work on a game is a straightforward process. But that's not
 always the case. Rockstar, for example, is known for holding credits over
 workers' heads as a reward for finishing work on a game. As journalist Richard
-Moss wrote last year[^13]:
+Moss wrote last year[14]{custom-style="Super"}:
 
 > For studios, crediting can be a tool for leverage … [Rockstar] has long
 > maintained a policy of not crediting people who worked on a game unless they
@@ -223,7 +226,7 @@ This form of "encouragement" is not just manipulative, it hurts workers' ability
 to find future employment.
 
 Workers in other industries (such as film) have fought for and won the right to
-proper crediting through unions.[^14] Unions can do the same for the games
+proper crediting through unions.[15]{custom-style="Super"} Unions can do the same for the games
 industry.
 
 
@@ -236,45 +239,10 @@ way to make sure you're paid what you're worth. But **unions also benefit
 workers who are not unionized** by raising the bar for everyone. For example, a
 high school graduate whose workplace is _not_ unionized but who works in an
 industry that's 25% unionized overall **can still expect to be paid more** than
-similar workers in less unionized industries.[^15]
+similar workers in less unionized industries.[16]{custom-style="Super"}
 
 **Unions can also help reduce inequality**. While all workers benefit from
 having unions, those who benefit the most are typically the people who are the
 **most disempowered or in the most precarious positions**. On top of improving
 general working conditions for these folks, it also turns out solidarity is a
-great way to cut down the gendered pay gap.[^16]
-
-[^6]: 
-	_Archived Tweet by @jobjaystauffer_ [https://archive.fo/2M7CG](https://archive.fo/2M7CG)
-
-[^7]:
-     "Union Employees: Are You Protected From Layoffs?", Lisa Guerin, _Lawyers.com_ [https://bit.ly/2IWnBBE](https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html)
-
-[^8]:
-    "At Nintendo, Working All Night Is 'Mario Time'", Jason Schreier, _Kotaku_  [https://bit.ly/2VVnsjq](https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341)
-
-
-[^9]:
-    "Ten Years Down", Clint Hocking, _Click Nothing_ [https://bit.ly/2u3vvyQ](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html)
-
-[^10]:
-     "Crunch mode caused a young Netmarble game developer's death, Korean government says", Bree Royce, _Massively Overpowered_ [https://bit.ly/2Hj3jjY](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
-
-[^11]:
-     "CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077", Tatiana Morris, _Gamezone_ [https://bit.ly/2Hg3498](https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/)
-
-[^12]:
-    "The 3 Things That Make Organizations More Prone to Sexual Harassment", Marianne Cooper, _The Atlantic_ [https://bit.ly/2AbzFZY](https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/)
-
-
-[^13]:
-    "How bad crediting hurts the game industry and muddles history", Richard Moss, _Gamasutra_[https://ubm.io/2J6N0bz](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)
-
-[^14]:
-     _BCCFU Master Agreement_ [https://bit.ly/2T5dFWg](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
-
-[^15]:
-     "How Unions Help All Workers", Matthew Walters & Lawrence Mishel, _Economic Policy Institute_ [https://bit.ly/1r0Wq9U](http://www.epi.org/publication/briefingpapers_bp143/)
-
-[^16]:
-     "How does Collective Bargaining Affect the Gender Pay Gap?", Marta M. Elvira, Ishak Saporta, _Work and Occupations_ [https://bit.ly/2XRQFxs](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&)
+great way to cut down the gendered pay gap.[17]{custom-style="Super"}
