@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -34,7 +29,17 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph" Name="Endnotes &gt; NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Endnotes &gt; NumList &gt; first &gt; Paragraph" Name="Endnotes &gt; NumList &gt; first &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -54,10 +59,13 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>1 </Content>
+    <Content>Notes</Content>
   </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; first &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Tweet by @TheFiremonkeys</Content>
   </CharacterStyleRange>
@@ -71,10 +79,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>2 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Activision Blizzard Lays Off Hundreds Of Employees”</Content>
   </CharacterStyleRange>
@@ -94,10 +99,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>3 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“How Telltale Went Broke”</Content>
   </CharacterStyleRange>
@@ -117,10 +119,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>4 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Google Walkout For Real Change”</Content>
   </CharacterStyleRange>
@@ -140,12 +139,9 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>5 _Tweet by </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
-    <Content>@techworkersco_</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Tweet by @techworkersco</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -157,10 +153,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>6 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Microsoft Workers 4 Good”</Content>
   </CharacterStyleRange>
@@ -180,10 +173,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>7 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Union Employees: Are You Protected From Layoffs?”</Content>
   </CharacterStyleRange>
@@ -203,10 +193,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>8 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“At Nintendo, Working All Night Is </Content>
   </CharacterStyleRange>
@@ -232,12 +219,9 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>9 _Archived Tweet by </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
-    <Content>@jobjaystauffer_</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archived Tweet by @jobjaystauffer</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -249,10 +233,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>10 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Ten Years Down”</Content>
   </CharacterStyleRange>
@@ -272,10 +253,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>11 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Crunch mode caused a young Netmarble game developer’s death, Korean government says”</Content>
   </CharacterStyleRange>
@@ -295,10 +273,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>12 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“CD Projekt Red developers speak up on the realities of working on Witcher 3 and Cyberpunk 2077”</Content>
   </CharacterStyleRange>
@@ -318,10 +293,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>13 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“The 3 Things That Make Organizations More Prone to Sexual Harassment”</Content>
   </CharacterStyleRange>
@@ -341,10 +313,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>14 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“How bad crediting hurts the game industry and muddles history”</Content>
   </CharacterStyleRange>
@@ -364,10 +333,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>15 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>BCCFU Master Agreement</Content>
   </CharacterStyleRange>
@@ -381,10 +347,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>16 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“How Unions Help All Workers”</Content>
   </CharacterStyleRange>
@@ -404,10 +367,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>17 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“How does Collective Bargaining Affect the Gender Pay Gap?”</Content>
   </CharacterStyleRange>
@@ -427,9 +387,12 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>18 </Content>
+    <Content>“The Game Design Reader: A Rules of Play Anthology”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Katie Salen Tekinbas, pp. 713 </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
@@ -438,12 +401,9 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>19 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Tweet by @Simply Ragny</Content>
+    <Content>Tweet by @SimplyRagny</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -455,10 +415,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>20 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“EA: Visceral’s canned Star Wars project”</Content>
   </CharacterStyleRange>
@@ -478,10 +435,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>21 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Red Dead Redemption 2’s labor controversy, explained”</Content>
   </CharacterStyleRange>
@@ -501,10 +455,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>22 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“ArenaNet </Content>
   </CharacterStyleRange>
@@ -524,10 +475,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>23 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Nintendo Employee </Content>
   </CharacterStyleRange>
@@ -553,10 +501,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>24 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Worse than Scabs: Gamer Rage as Anti-Union Violence”</Content>
   </CharacterStyleRange>
@@ -576,10 +521,7 @@
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>25 </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Activision, EA and others launch site attacking voice actors union over strike”</Content>
   </CharacterStyleRange>
@@ -598,8 +540,119 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Amazon’s Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Bryan Menegus, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Gizmodo</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)[https://bit.ly/2R6XvMe]</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“National Gallery art educators win workers’ rights in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘first public sector gig economy victory’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Emma Snaith, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Independent</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>(https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)[https://ind.pn/2ELiv6U]</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Crappy Voice Acting Undercuts an Otherwise Strong </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Life Is Strange’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Prequel”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Patrick Klepek, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Waypoint</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)[https://bit.ly/2UweYid]</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“The Unlikely Story of Microsoft’s Surprise Minecraft Buyout”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Daniel Goldberg &amp; Linus Larsson, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Wired</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2NYKvac</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Endnotes &gt; NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“La Guilde Receives a $750,000 Grant”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Radio Canada</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bit.ly/2TE8dhi</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Name="link" DestinationURL="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-27" Name="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Source="htss-27" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/" Name="link" DestinationURL="https://www.wired.com/2015/06/minecraft-book-excerpt/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-26" Name="https://www.wired.com/2015/06/minecraft-book-excerpt/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-25" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>

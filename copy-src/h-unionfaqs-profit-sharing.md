@@ -25,6 +25,7 @@ their problem. [If workers are going to invest hours of unremunerated labour
 into a project because they believe in it, they should be given actual ownership
 and real decision-making power over it]{custom-style="FAQ-Bold"}, as in a
 workers' cooperative. In any other situation, a higher guaranteed salary will
-always be a better deal for workers than a promised fraction of future profits.
+almost always be a better deal for workers than a promised fraction of future
+profits.
 :::
 

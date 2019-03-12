@@ -14,7 +14,7 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -32,11 +32,6 @@
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
@@ -197,7 +192,7 @@
     <Content>“cooperatives”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> — in the Québec game industry, for instance, a group called </Content>
+    <Content> — but in actuality they’re nothing more than cartels of bosses; employees have no say in how they are run. (In the Québec game industry, for instance, a group called </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>La Guilde</Content>
@@ -206,41 +201,13 @@
     <Content> has gotten significant media attention and funding and now proudly claims to be the </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“largest cooperative in this industry in the world”</Content>
+    <Content>“largest cooperative in this industry in the world.”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“La Guilde Receives a $750,000 Grant”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Radio Canada</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2TE8dhi</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>30</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> — but in actuality they’re nothing more than cartels of bosses, and employees have no say in how they are run. This can get pretty confusing and might be worth highlighting, especially when discussing the possibility of starting a workers’ co-op with fellow game workers who might never have heard of that business model.</Content>
+    <Content>) This can get pretty confusing and might be worth highlighting, especially when discussing the possibility of starting a workers’ co-op with fellow game workers who might never have heard of that business model.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -260,11 +227,5 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Name="link" DestinationURL="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins</Destination>
-    </Properties>
-  </Hyperlink>
+  
 </Document>

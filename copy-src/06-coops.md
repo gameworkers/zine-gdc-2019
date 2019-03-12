@@ -43,12 +43,12 @@ is why we emphasize that we're talking about **workers' co-ops** here. You may
 also have heard of "consumer co-ops," which are owned by the consumers (such as
 REI in the United States or MEC in Canada), but those can be just as
 exploitative to their employees as any other business. There are even some
-business owners' associations that style themselves as "cooperatives" — in the
-Québec game industry, for instance, a group called _La Guilde_ has gotten
-significant media attention and funding and now proudly claims to be the
-"largest cooperative in this industry in the world"[^26] — but in actuality
-they're nothing more than cartels of bosses, and employees have no say in how
-they are run. This can get pretty confusing and might be
+business owners' associations that style themselves as "cooperatives" — but in
+actuality they're nothing more than cartels of bosses; employees have no say in
+how they are run. (In the Québec game industry, for instance, a group called _La
+Guilde_ has gotten significant media attention and funding and now proudly
+claims to be the "largest cooperative in this industry in the
+world."[30]{custom-style="Super"}) This can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
 business model.
@@ -71,5 +71,3 @@ favorable deals for them!
 So if you're considering starting a business or know game workers who are,
 contact your local GWU chapter (or the international if you don't have one yet)
 and ask them about workers' co-ops!
-
-[^26]: "La Guilde Receives a $750,000 Grant", _Radio Canada_ [https://bit.ly/2TE8dhi](https://ici.radio-canada.ca/nouvelle/1147343/guilde-jeux-independants-quebec-cooperative-desjardins)

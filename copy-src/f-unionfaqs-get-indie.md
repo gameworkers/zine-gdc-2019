@@ -32,7 +32,8 @@ tiny $300,000 — that's a whole $0.0003 billion, folks — incentive to workers
 but only if they agreed to remain Microsoft employees for another six months.)
 
 > News of the sale changed things at Mojang. Some felt betrayed by Markus's
-> decision. Morale plummeted. "People felt like the world was coming to an end."[^1]
+> decision. Morale plummeted. "People felt like the world was coming to an
+> end."[29]{custom-style="Super"}
 
 There are many more untold stories in the indie scene of folks who join a small
 startup and accept to be paid less than they're worth because they really
@@ -66,5 +67,3 @@ everyone at a company benefits from their successes and hard work. And if you're
 thinking of starting a new studio yourself, forming a worker cooperative is a
 great way to bake in those values right from the start.
 :::
-
-[^1]: "The Unlikely Story of Microsoft's Surprise Minecraft Buyout", Daniel Goldberg & Linus Larsson, _Wired_ [https://bit.ly/2NYKvac](https://www.wired.com/2015/06/minecraft-book-excerpt/)

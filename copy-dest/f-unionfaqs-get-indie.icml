@@ -14,12 +14,7 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -37,11 +32,6 @@
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Bigquote &gt; Blockquote &gt; Paragraph" Name="UnionFAQs &gt; Bigquote &gt; Blockquote &gt; Paragraph" LeftIndent="10">
@@ -150,36 +140,8 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“People felt like the world was coming to an end.”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“The Unlikely Story of Microsoft’s Surprise Minecraft Buyout”</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Daniel Goldberg &amp; Linus Larsson, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Wired</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://bit.ly/2NYKvac</Content>
-          </CharacterStyleRange>
-        </HyperlinkTextSource>
-      </ParagraphStyleRange>
-    </Footnote>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
+    <Content>29</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -232,11 +194,5 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/" Name="link" DestinationURL="https://www.wired.com/2015/06/minecraft-book-excerpt/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="https://www.wired.com/2015/06/minecraft-book-excerpt/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/</Destination>
-    </Properties>
-  </Hyperlink>
+  
 </Document>

@@ -35,8 +35,8 @@ industry conferences or industry-oriented websites…
 Bosses often encourage workers to talk to them directly about workplace issues,
 insisting their "door is always open" and that no one will be reprimanded for
 sharing concerns. A well-worn tactic everywhere from the game industry to
-companies like Wal-Mart or Amazon[^23], this "open door policy" sounds harmless
-on the surface.
+companies like Wal-Mart or Amazon[26]{custom-style="Super"}, this "open door
+policy" sounds harmless on the surface.
 
 In fact, **this is the number one way management maintains full control over
 information flow in the workplace **and ensure they are able to nip any seed of
@@ -96,8 +96,8 @@ conditions or gain full employee status. Recently, artists and lecturers
 because they were required to attend training sessions and were paid from the
 same source as noncontractual employees, they were not in fact self-employed.
 This meant they were entitled to the same benefits as so-called "permanent"
-employees.[^24] **Remember that if you're hired to work for someone who makes a
-profit from selling what you produce, you can unionize**.
+employees.[27]{custom-style="Super"} **Remember that if you're hired to work for
+someone who makes a profit from selling what you produce, you can unionize**.
 
 
 #### Threats of outsourcing and cuts
@@ -180,18 +180,9 @@ principle" for standing up for your rights.
 
 During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
 notably used — and roundly criticized — in the _Life Is Strange_ prequel _Before
-the Storm_.[^25]
+the Storm_.[28]{custom-style="Super"}
 
 In order to work towards the long-term goal of a unionized game industry, it
 will be important to create a culture where taking a scab contract is treated as
 the despicable, selfish act that it is — and one that harms the scabs themselves
 in the longer term.
-
-[^23]:
-     "Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video", Bryan Menegus, _Gizmodo_ (https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)[https://bit.ly/2R6XvMe]
-
-[^24]:
-     "National Gallery art educators win workers’ rights in ‘first public sector gig economy victory’", Emma Snaith, _Independent_(https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)[https://ind.pn/2ELiv6U]
-
-[^25]:
-     "Crappy Voice Acting Undercuts an Otherwise Strong 'Life Is Strange' Prequel", Patrick Klepek, _Waypoint_ (https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)[https://bit.ly/2UweYid]
