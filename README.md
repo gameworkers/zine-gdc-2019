@@ -12,10 +12,7 @@ TO DO:
 about usage of Markdown with InDesign.
 
 Suggested fixes:
-p. 3 tech separated by image
-p. 4 move footnotes to bottom of page
-p. 5 move UnionFAQs to top of page
-p. 7 move UnionFAQs up
+
 p. 8 move console image to "What's a Game Worker" section?
 p. 12 move #1 dead cup image to Crunch section?
 p. 13 add warioware screnshot (you greedy punk) to "Creative Control" section
