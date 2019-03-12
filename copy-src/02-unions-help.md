@@ -1,4 +1,6 @@
-## What Can Unions Do to Help? {custom-style="HeaderColourBg"}
+::: {custom-style="HeaderColourBg"}
+## What Can Unions Do to Help?
+:::
 
 A union is an organization of workers dedicated to **improving wages, hours, and
 working conditions** within their workplace or industry through collective
