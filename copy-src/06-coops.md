@@ -1,4 +1,6 @@
+::: {custom-style="HeaderColourBg"}
 ## Workers' Cooperatives: A New Way of Creating Commercial Games
+:::
 
 ### No Bosses Required!
 

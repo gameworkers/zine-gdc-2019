@@ -1,4 +1,6 @@
+::: {custom-style="HeaderColourBg"}
 ## Boss Fight Tips & Tricks
+:::
 
 ### Union-busting tactics to look out for
 
