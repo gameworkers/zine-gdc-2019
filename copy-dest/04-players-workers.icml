@@ -81,7 +81,7 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/HeaderColourBg &gt; Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>How gamer rage is harnessed to discipline workers</Content>
+    <Content>How Gamer Rage is Harnessed to Discipline Workers</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
