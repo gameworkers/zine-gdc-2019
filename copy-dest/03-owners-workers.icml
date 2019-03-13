@@ -191,19 +191,13 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This is why we also typically see share value increase after every round of layoffs, as happened recently with Activision Blizzard: when mass layoffs get announced, management is sending a message to shareholders that they are willing to do what it takes to ensure ever-increasing profits** no matter what</Content>
+    <Content>This is why we also typically see share value increase after every round of layoffs, as happened recently with Activision Blizzard: when mass layoffs get announced, management is sending a message to shareholders that they are willing to do what it takes to ensure ever-increasing profits </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>, and this makes company shares more attractive on the market.</Content>
+    <Content>no matter what</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Shareholders are thrilled</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>! **They get richer, and the rest of us get poorer. That’s why the decision is made in the first place, not out of any real necessity, despite how they try to spin it to the workers.</Content>
+    <Content>, and this makes company shares more attractive on the market. Shareholders are thrilled! They get richer, and the rest of us get poorer. That’s why the decision is made in the first place, not out of any real necessity, despite how they try to spin it to the workers.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

@@ -17,6 +17,7 @@
     [https://bit.ly/2CiYanM](https://twitter.com/techworkersco/status/1103502027726995459)
 
 6. "Microsoft Workers 4 Good", _Twitter account_
+
     [https://bit.ly/2J5O3IZ](https://twitter.com/MsWorkers4)
 
 7. "Union Employees: Are You Protected From Layoffs?", Lisa Guerin, _Lawyers.com_
@@ -53,6 +54,7 @@
 
 16. "How Unions Help All Workers", Matthew Walters & Lawrence Mishel, _Economic
      Policy Institute_
+
      [https://bit.ly/1r0Wq9U](http://www.epi.org/publication/briefingpapers_bp143/)
 
 17. "How does Collective Bargaining Affect the Gender Pay Gap?", Marta M. Elvira,
@@ -66,8 +68,9 @@
 19. _Tweet by \@SimplyRagny_
    [https://bit.ly/2Uy1kuY](https://twitter.com/SimplyRagny/status/1058198479707820032)
 
-20. "EA: Visceral's canned Star Wars project "too linear" for modern tastes",
+20. "EA: Visceral's canned Star Wars project 'too linear' for modern tastes",
     Chris Kerr, _Gamasutra_
+
     [https://ubm.io/2u3Ujq8](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
 
 
@@ -76,7 +79,7 @@
      [https://bit.ly/2F6pyYc](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
 
 22. "ArenaNet ‘folded like a cheap card table,’ says fired Guild Wars 2 writer",
-     Colin Campbell, Polygon
+     Colin Campbell, _Polygon_
      [https://bit.ly/2ufOuqr](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired)
 
 23. "Nintendo Employee 'Terminated' After Smear Campaign Over Censorship, Company
@@ -93,18 +96,19 @@
 
 26. "Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video",
      Bryan Menegus, _Gizmodo_
-     (https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)[https://bit.ly/2R6XvMe]
+     [https://bit.ly/2R6XvMe](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)
 
 27. "National Gallery art educators win workers’ rights in ‘first public sector
      gig economy victory’", Emma Snaith,
-     _Independent_(https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)[https://ind.pn/2ELiv6U]
+     _Independent_ [https://ind.pn/2ELiv6U](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)
 
 28. "Crappy Voice Acting Undercuts an Otherwise Strong 'Life Is Strange'
      Prequel", Patrick Klepek, _Waypoint_
-     (https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)[https://bit.ly/2UweYid]
+     [https://bit.ly/2UweYid](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)
 
 29. "The Unlikely Story of Microsoft's Surprise Minecraft Buyout", Daniel
      Goldberg & Linus Larsson, _Wired_
+
      [https://bit.ly/2NYKvac](https://www.wired.com/2015/06/minecraft-book-excerpt/)
 
 30. "La Guilde Receives a $750,000 Grant", _Radio Canada_

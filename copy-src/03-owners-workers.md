@@ -69,9 +69,9 @@ owners at the expense of the rest of us.
 This is why we also typically see share value increase after every round of
 layoffs, as happened recently with Activision Blizzard: when mass layoffs get
 announced, management is sending a message to shareholders that they are willing
-to do what it takes to ensure ever-increasing profits** no matter what**, and
-this makes company shares more attractive on the market.** **Shareholders are
-thrilled**! **They get richer, and the rest of us get poorer. That's why the
+to do what it takes to ensure ever-increasing profits **no matter what**, and
+this makes company shares more attractive on the market. Shareholders are
+thrilled! They get richer, and the rest of us get poorer. That's why the
 decision is made in the first place, not out of any real necessity, despite how
 they try to spin it to the workers.
 
