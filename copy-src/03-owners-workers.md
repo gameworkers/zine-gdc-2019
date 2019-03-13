@@ -1,4 +1,6 @@
+::: {custom-style="HeaderColourBg"}
 ## Versus Mode: Owners vs. Workers
+:::
 
 The recent round of layoffs at Activision-Blizzard and elsewhere have made it
 all too clear that **game industry bosses are prioritizing short-term profit
