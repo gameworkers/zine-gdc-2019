@@ -1,5 +1,5 @@
 ::: {custom-style="HeaderColourBg"}
-## How gamer rage is harnessed to discipline workers
+## How Gamer Rage is Harnessed to Discipline Workers
 :::
 
 ::: {custom-style="Bigquote"}
