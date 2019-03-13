@@ -1,4 +1,6 @@
+::: {custom-style="HeaderColourBg"}
 ## How gamer rage is harnessed to discipline workers
+:::
 
 ::: {custom-style="Bigquote"}
 > Sam [Dan's brother and Rockstar president] and I talk about this a lot, and
