@@ -1,69 +1,26 @@
-::: {custom-style="UnionFAQs"}
-[Unions aren't just for huge workplaces]{custom-style="FAQ-Bold"}. While unions
-might sound like a logical fit for large companies (say, ones where a
-multibillionaire boss you've never met can fire you while talking about how you
-haven't realized your "full potential"), [even smaller workplaces can benefit
-enormously from being organized]{custom-style="FAQ-Bold"}. In fact, in our
-experiences small studios can sometimes be [even more
-abusive]{custom-style="FAQ-Bold"}, and more prone (wittingly or unwittingly) to
-violating your rights and boundaries as a worker. Small studio owners will often
-claim "we're all in this together," but they're the ones controlling your salary
-and the ones who stand to benefit from the company's successes — not to mention
-the ones who can fire you when things go wrong (or if they decide they don't
-like you). Again, organizing with your coworkers can help give you leverage
-against these kinds of abuses.
+---
+title: Devenir Indie ?
+type: unionfaqs
+---
+**Les syndicats ne sont pas seulement pour les milieux de travail les plus larges**. Bien que les syndicats semblent être une solution logique pour les grandes compagnies (disons, celles où un·e patron·e multimilliardaire que vous n’avez jamais rencontré peut vous virer tout en racontant que vous n’avez pas achevé votre “plein potentiel”), **même les plus petites compagnies peuvent énormément bénéficier d’un syndicat**. En fait, de notre expérience, les petits studios sont parfois **encore plus abusifs**, et plus prédisposés (consciemment ou non) à ne pas respecter vos droits et limites en tant que travailleur·se. Les patron·e·s de petits studios vont souvent clamer que “nous sommes tous ensemble dans cette aventure”, mais ce sont tout de même eux·elles qui contrôlent notre salaire et bénéficieront le plus du succès de la compagnie — sans oublier qu’ils·elles ont le pouvoir de vous renvoyer quand les choses tournent mal (ou s’ils·elles décident qu’ils·elles ne vous aiment pas). Une fois de plus, s’organiser avec vos collègues peut vous donner un levier pour faire pression contre ce genre d’abus.
 
-Another way of looking at it is that organizing can simply help better reflect
-[who's actually doing the work]{custom-style="FAQ-Italic"} at your job. Even if
-small business owners may wear many hats or work alongside you, they usually
-have disproportionate decision-making power or the ability to veto whatever they
-choose, because [they're the boss]{custom-style="FAQ-Italic"}. If game
-development really is a team effort, [why shouldn't we be guaranteed a hand in
-steering the ship]{custom-style="FAQ-Bold"}?
+Une autre façon de regarder le problème est que vous organiser peut avant tout vous aider à réfléchir à la question de *qui fait véritablement le travail* à votre job. Même si les patron·e·s de petites entreprises ont parfois de nombreux rôles ou travaillent à vos côtés, ils·elles ont généralement un pouvoir de prise de décision disproportionné, ou la capacité de veto ce qu’ils·elles désirent, parce que *ce sont les boss*. Si le développement de jeux vidéo est réellement un travail d’équipe, *pourquoi n’aurions-nous pas notre part dans la direction de l’entreprise *?
 
-Unionizing now also means you'll be prepared in case of a change of management,
-whatever the reason for it. [It's the owners who decide when to sell the
-studio]{custom-style="FAQ-Bold"}, and they're the ones who get to cash in on all
-the work that was put into it when it gets bought out. When that happens,
-usually all you get as a worker is a change of bosses. Notoriously, Notch sold
-Mojang to Microsoft for $2.5 billion and became enormously wealthy for it, while
-his employees received nothing. (Microsoft would later offer a comparatively
-tiny $300,000 — that's a whole $0.0003 billion, folks — incentive to workers,
-but only if they agreed to remain Microsoft employees for another six months.)
+Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement de la direction, quelle qu’en soit la raison. **Ce sont les patron·e·s qui décident quand vendre le studio**, et ce sont eux·elles qui peuvent récolter les fruits de tout le travail accompli quand le studio se fait racheter. Quand cela se produit, habituellement tout ce que vous obtenez, en tant que travailleur·se, est un changement de patron·e. Comme on le sait, Notch a vendu Mojang à Microsoft pour 2.5 billions de dollars et est devenu énormément riche grâce à cela, tandis que ses employé·e·s n’ont rien reçu. (Microsoft a plus tard offert la somme relativement maigre de 300 000 dollars — la somme éclatante de 0.0003 billions de dollars — à chaque travailleur·se, mais seulement à condition qu’ils acceptent de rester employé·e·s de Microsoft pour 6 mois de plus.)
 
-> News of the sale changed things at Mojang. Some felt betrayed by Markus's
-> decision. Morale plummeted. "People felt like the world was coming to an
-> end."[29]{custom-style="Super"}
+> Les nouvelles de la vente de la compagnie ont changé les choses à Mojang. Certain·e·s se sentaient trahi·e·s par la décision de Markus. Le moral a plongé. “Les gens avaient l’impression que leur monde s’effondrait” ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
 
-There are many more untold stories in the indie scene of folks who join a small
-startup and accept to be paid less than they're worth because they really
-believe in the project — only to receive nothing after the game makes it big and
-the owners sell out for millions.
+<div class="md-img right">
+<img
+  src="/images/faqs/wario.png"
+  alt="Screenshot from Warioware: Mona! I need your help. What's it pay? Uh, hold on... Crzzsh. Crzzsh! I can't hear you. You're breaking up!?"
+/>
+</div>
 
-If your small studio boss claims to be sympathetic to unions: great! As a
-worker, you're well-positioned to help them put their money where their mouth
-is. But be warned that their sympathy might evaporate if you make it clear that
-you want to unionize your own "scrappy" little indie studio rather than some
-other company a hundred times bigger than you. Ultimately, owners stand to lose
-power and money if their studio unionizes, which — go figure — makes it a hard
-sell for a lot of them when it comes down to brass tacks.  [It's in these
-moments that it becomes clear just how shallow the "we're all friends here"
-mantra really is]{custom-style="FAQ-Bold"}. By bargaining collectively, you are
-forcing your employer to reckon with the realities of working together: the
-boundaries you want to ensure are in place, the rights you want to assert, the
-conditions you want to improve. These are all topics that tend to be difficult
-to broach on your own when there's an unacknowledged power dynamic.
+Il existe beaucoup d’autres histoires non-dites dans la scène indé à propos de personnes ayant rejoint une petite startup et accepté d’être payé moins que ce qu’ils·elles méritaient parce qu’ils·elles croyaient vraiment en le projet — tout ça pour n’avoir rien reçu après que le jeu ait rencontré un succès énorme et que les patron·e·s aient vendu la compagnie pour plusieurs millions.
 
-::: {custom-style="Bigquote"}
-> "By fabricating the illusion of employer as friend, the employed is denied the
-> opportunity to protest, argue, fight, be adversarial and demand more of their
-> working conditions."
-:::
+Si le·la patron·e de votre petit studio annonce être sympathique à la cause syndicale : excellent ! En tant que travailleur·se, vous êtes bien positionné·e pour les aider à traduire leurs paroles en actes. Mais soyez prévenus que leur sympathie risque de s’évaporer dès lors que vous annoncerez vouloir syndiquer votre petit studio indé plutôt qu’une autre compagnie 100 fois plus grosse que vous. Au final, les patron·e·s vont perdre du pouvoir et de l’argent si leur studio se syndique , ce qui — étonnamment ! — rend la perspective peu attrayante à leurs yeux dès lors que l’on parle d’actions concrètes. **C’est dans ces moments qu’il devient très clair à quel point la mentalité du “on est tous amis ici” est superficielle**. En négociant collectivement, vous forcez votre employeur·se à se confronter aux réalités du travail collaboratif : les limites que vous voulez placer, les droits que vous voulez exercer, les conditions que vous voulez améliorer. Ces sujets ont tendance à être difficiles à aborder par vous-même quand il y a une dynamique de pouvoir inavouée.
 
-If your boss [really really]{custom-style="FAQ-Italic"} means it when they say
-they're sympathetic and want everyone to be equal, why not push for collective
-ownership? Transitioning to a cooperative model is a great way to ensure
-everyone at a company benefits from their successes and hard work. And if you're
-thinking of starting a new studio yourself, forming a worker cooperative is a
-great way to bake in those values right from the start.
-:::
+> "En fabricant l’illusion de l’employeur·se comme ami·e, l’employé·e se voit dénié·e de l’opportunité de protester, débattre, se battre, être antagoniste et demander davantage de ses conditions de travail."
+
+Si votre patron·e le pense *vraiment* lorsqu’il·elle dit être favorable et qu'il·elle veut que tout le monde soit égal, pourquoi ne pas promouvoir une propriété collective ? Transitionner vers un modèle collectif est une façon efficace de s’assurer que chacun·e dans une compagnie bénéficie du succès de son dur labeur. Et si vous envisagez de commencer un nouveau studio vous-même, former une coopérative de salarié·e·s est une bonne façon d’implanter ces valeurs dès le début.

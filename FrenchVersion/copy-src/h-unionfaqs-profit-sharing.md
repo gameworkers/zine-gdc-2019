@@ -1,31 +1,9 @@
-::: {custom-style="UnionFAQs"}
-Many studios offer contracts to their employees that include some sort of
-"profit-sharing" scheme. This sounds nice at first glance: why wouldn't you want
-a share of the profits if the game you're working on does extremely well? The
-issue is that [these profit-sharing deals are fundamentally a way of offloading
-company financial risk from the owners to the workers]{custom-style="FAQ-Bold"}.
+---
+title: Vers un partage du profit ?
+type: unionfaqs
+---
+Beaucoup de studios offrent à leurs employé·e·s des contrats incluant une forme de mécanisme de “partage de profit”. À première vue, cela semble avantageux : pourquoi ne voudrait-on pas partager les profits si le jeu sur lequel on travaille rencontre un fort succès ? Le problème est que **ces accords de partage de profit sont essentiellement une combine pour décharger une partie du risque financier pris par la compagnie sur les employé·e·s**.
 
-Unlike shareholders, workers who sign into profit-sharing agreements are [not
-actually given any ownership over the company]{custom-style="FAQ-Bold"}, nor are
-they granted any power or influence in its decisionmaking process. They're
-promised a variable amount of money based on how much profit the company makes,
-but without any real control over it. There are countless stories in our
-industry of workers who agree to a lower salary than they would demand otherwise
-in exchange for a percentage of the sales because they truly believe in a
-project, and work hard on it for years — only for it to get cancelled without
-warning by an upper-management decision, leaving them with nothing to show for
-their labour.
+Contrairement aux actionnaires, les travailleur·euse·s qui signent des accords de partage de profit **ne récupèrent aucune part de propriété de la compagnie**, et on ne leur garantit pas un quelconque pouvoir ou influence sur les prises de décision de la compagnie. On leur promet une quantité d’argent qui varie en fonction du profit de la compagnie, mais sans aucun réel contrôle dessus. Il y a une infinité d’histoires dans notre industrie de travailleur·euse·s qui acceptent un salaire plus bas que ce qu’ils nécessiteraient autrement, en échange d'un pourcentage des ventes, car ils croient réellement en un projet. Ces employé·e·s travaillent dur pendant des années, tout ça pour que le projet soit soudainement annulé sans avertissement suite à une décision de la direction, les laissant sans preuve du travail accompli.
 
-By giving workers a promise of future profits instead of a better salary, owners
-are effectively transferring some of their own financial risk onto the workers
-themselves, while maintaining absolute and total control over the decisions of
-the company. Employees can be paid less while a game is in development, and if
-for whatever reason it doesn't sell well (or management cancels it), then it's
-their problem. [If workers are going to invest hours of unremunerated labour
-into a project because they believe in it, they should be given actual ownership
-and real decision-making power over it]{custom-style="FAQ-Bold"}, as in a
-workers' cooperative. In any other situation, a higher guaranteed salary will
-almost always be a better deal for workers than a promised fraction of future
-profits.
-:::
-
+En promettant aux employé·e·s une part des futurs profits au lieu d’un meilleur salaire, les patron·ne·s transfèrent en fait une partie du risque financier qu’ils prennent sur les employé·e·s eux-mêmes, tout en maintenant un contrôle total et absolu sur les décisions de la compagnie. Les employé·e·s peuvent être moins payés pendant le développement du jeu, et, si pour une raison ou une autre le jeu se vend mal (ou si le management décide de l’annuler), cela devient leur problème. **Si les travailleur·euse·s vont investir quantités d’heures non-rémunérées dans un projet parce qu’ils croient en son succès, le minimum serait qu’ils en soient propriétaires et détiennent un véritable pouvoir de décision dans la conception**, comme dans une coopérative de salarié·e·s. Dans n’importe quelle autre situation, un salaire plus élevé sera presque toujours une meilleure option pour les travailleur·euse·s que la promesse d’une fraction des futurs profits.

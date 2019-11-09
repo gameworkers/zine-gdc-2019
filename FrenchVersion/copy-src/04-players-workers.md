@@ -1,107 +1,55 @@
-::: {custom-style="HeaderColourBg"}
-## How Gamer Rage is Harnessed to Discipline Workers
-:::
+---
+title: Quand la rage des gamers est exploitée pour nous punir
+---
 
-::: {custom-style="Bigquote"}
-> Sam [Dan's brother and Rockstar president] and I talk about this a lot, and
-> it's that games are still magical. [It's like they're made by
-> elves…]{custom-style="Bigquote-bold"} You turn on the screen and it's just
-> this world that exists on TV. [I think you gain something by not knowing how
-> they're made.]{custom-style="Bigquote-bold"}
+>Sam [le frère de Dan et le président de Rockstar] et moi parlons beaucoup du fait que les jeux sont encore magiques. **C’est comme s’ils étaient conçus par des elfes…** On allume son écran, et c’est comme voir tout un monde qui existe dans la télé. **Je pense qu’on gagne quelque chose à ne pas savoir comment ils sont fait**.
 
-— Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption
-2 [21]{custom-style="Super"}
-:::
 
-There is no real reason why workers and consumers should have different
-interests or be at odds with one another. It sounds absurd when you think about
-it: many workers take a great deal of pride and personal satisfaction from
-making games that players love to play, and without workers there would be no
-games for players to enjoy in the first place. Unfortunately, **many players
-don't know the conditions under which games are made** (in large part because
-bosses prevent workers from talking about it publicly!). They are also
-encouraged to see themselves as having a special relationship with a brand, a
-company, or a product, rather than with the real people making the games they
-play. This dynamic encourages consumers to blame workers when things go wrong,
-and benefits owners. Throwing workers under the bus directs negative attention
-away from the bosses, even when they're the ones responsible for making
-decisions that hurt consumers. It can also serve as an intimidation tactic that
-can be used to discipline workers.
+<div class="md-attribution">
+&#x2014;
+<a href="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor">
+Dan Houser, co-fondateur de Rockstar Games à propos du développement de Red Dead Redemption 2
+</a>
+</div>
 
-We're unfortunately all too familiar with the way a small but extremely vocal
-minority of consumers take entitlement to the next level in their relationship
-to developers. As more game workers speak up about working conditions in the
-industry, **we've also seen hate-driven harassment campaigns appearing in
-response**. Often this harassment specifically targets marginalized workers who
-are simply trying to participate in the creative direction of the games they
-build and speak to their own struggles, backgrounds, and experiences. Individual
-workers become singled out and targeted by an online mob of entitled consumers
-who don't want to see the game industry become more welcoming to new voices and
-who scapegoat them for everything they believe is wrong with games.
+<div class="md-img left off-8">
+<img
+  src="/images/ecco.png"
+  alt="Une attaque contre un est une attaque contre tous"
+/>
+</div>
 
-Sadly, they often succeed in goading bosses into punishing or even firing these
-workers: two well-known examples are last year's firing of Jessica Price and
-Peter Fries from ArenaNet[22]{custom-style="Super"} and the dismissal of Alison
-Rapp from Nintendo in 2016[23]{custom-style="Super"}. Look a little closer and
-you'll discover these aren't isolated cases: in private conversation, in whisper
-networks, **incidents like these are all too common**.
+Il n’existe aucune véritable raison qui justifie pourquoi les travailleur·euse·s et consommateur·rice·s devraient avoir des intérêts différents ou être opposés. Quand on y pense, c’est absurde: beaucoup de travailleur·euse·s tirent une grande fierté et satisfaction personnelle de leur travail sur des jeux que les joueur·euse·s apprécient, et sans travailleur·euse·s il n’y aurait même pas de jeux pour ces joueur·euse·s. Malheureusement, **beaucoup de joueur·euse·s ne connaissent pas les conditions sous lesquelles ces jeux sont faits** (en grande partie parce que les patron·ne·s dissuadent les travailleur·euse·s d’en parler en public!). Ces joueur·euse· sont aussi encouragé·e·s à se voir comme ayant une relation exclusive avec une marque, une compagnie ou un produit plutôt  qu’avec les vraies personnes derrières les jeux auxquels elles·ils jouent. Cette dynamique encourage les consommateur·rice·s à blâmer les travailleur·euse·s quand les choses tournent mal, et bénéficie les patron·ne·s. Jeter les travailleur·euse·s dans la fosse aux lions écarte notre attention des actions des boss, même quand ce sont les responsables des décisions qui font mal aux consommateur·rice·s. C’est aussi parfois une tactique utilisée pour intimider et discipliner les travailleur·euse·s.
 
-Giving in to demands from angry, reactionary gamers is a convenient excuse for
-bosses to get rid of "troublesome" workers — like, say, someone speaking out
-about sexism and racism in their workplace. **Many game industry bosses see
-their priorities as being more in line with the harassers than with the people
-who work for them.** (THQ Nordic recently reminded us of this by choosing to do
-a marketing Q&A on 8chan, a website known for harboring Nazis, enabling the
-spread of child porn, and playing a leading role in massive hate campaigns
-targeted against marginalized game workers.)
+Nous ne sommes que trop familiers avec la façon dont une mince mais très vocale minorité de consommateur·rice·s continue de se croire tout permis dans leurs relations avec les développeur·euse·s. Alors que de plus en plus de travailleur·euse·s dénoncent les conditions de travail dans l’industrie, **nous avons aussi vu des campagnes de harcèlement haineuses apparaître en réponse**. Souvent, ce harcèlement vise en particulier les travailleur·euse·s marginalisé·e·s qui essaient simplement de participer à la direction créative des jeux qu’ils construisent, et de parler de leurs propres luttes, antécédents, et expériences. Des travailleur·euse·s se font isoler et cibler par une foule  de consommateur·rice·s en colère et tout permis, qui déteste l’idée de voir cette industrie devenir plus accueillante envers de nouvelles voix, et se sert de ses cibles comme bouc-émissaires pour tout ce qu’ils pensent aller mal avec les jeux vidéo.
 
-In these situations, management will often pretend to have the best interests of
-workers in mind even as they systematically yield to the slightest strain and
-validate gamer entitlement. **This can lead to bosses implementing new ways of
-controlling, suppressing, and disciplining their workers, all under the guise of
-"protecting them" from such harassment.** (Protecting from what? Getting fired
-for standing up to harassment? Some protection racket that is!) After ArenaNet
-president Mike O'Brien fired developers Price and Fries at the demand of an
-online mob — for committing the egregious offence of pushing back against the
-misogyny women game designers face in the industry — many employers jumped on
-the occasion to introduce new social media policies restricting what their
-employees are allowed to express online outside of working hours. These policies
-effectively make workers responsible for being a 24/7 brand ambassador on top of
-their regular job — and for no additional compensation, to boot. (What a
-bargain!)
 
-In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
-Anti-Union Violence_"[24]{custom-style="Super"}, Lana Polansky writes:
+Malheureusement, ils parviennent souvent à provoquer les patrons à punir voire même licencier ces travailleur·euse·s : deux exemples connus sont ceux des [licenciements de Jessica Price et Peter Fries d’ArenaNet l’an dernier](https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired), et du [renvoi d’Alison Rapp de Nintendo en 2016](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368). Regardez de plus près et vous découvrirez que ce ne sont pas des cas isolés: dans les conversations privées, les réseaux de murmures, des **incidents similaires ne sont que trop fréquemment mentionnés**.
 
-> "**As long as gamers direct their grievances at individual workers**,
-> videogame companies understand that they can use that dynamic **to shield
-> themselves from community criticism **while** using it as leverage** in
-> internal conflicts with employees. This has, for a long time, represented a
-> win-win for companies, ensuring not just the PR victory with their fans, but
-> also a deeply suppressed and compliant workforce, and an opaque shroud over
-> the industry's internal workings. That shroud, however, seems to be starting
-> to clear."
+<div class="md-img right off-8">
+<img
+  src="/images/poison.svg"
+  alt="Poison bottle"
+/>
+</div>
 
-This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
-Warner Bros, Take-Two, and others launched a website[25]{custom-style="Super"}
-and video that explicitly targeted a gamer audience and demonized the SAG-AFTRA
-voice actors' union. At the time, union members were demanding, among other
-things, better safety standards for voice strain and risks associated with stunt
-coordination (for motion capture), an improved structure for bonus payments,
-better transparency, and employment mobility. **In a blatant effort to direct
-fan rage at the workers**, bosses argued that these demands would somehow lead
-to worse games for consumers.
+Pour les patron·ne·s, céder aux exigences de gamers réactionnaires énervé·e·s est un prétexte bien opportun pour se débarrasser des travailleur·euse·s “fauteur·euse·s de troubles” - comme, par exemple, quelqu’un qui dénonce le sexisme et le racisme sur leur lieu de travail. **Beaucoup de patrons dans l’industrie du jeu vidéo laissent leurs priorités s’aligner davantage avec les harceleur·euse·s qu’avec les gens avec qui ils travaillent.** (THQ Nordic l’a bien illustré récemment en choisissant d’héberger leur Q&A marketing sur 8chan, un site réputé pour abriter des Nazis, autoriser la diffusion de pornographie infantile, et jouant un rôle dominant dans les campagnes de haine massives ciblant les travailleur·euse·s du jeu vidéo marginalisé·e·s.)
 
-Executives ultimately answer to shareholders and investors, and thus to the
-profit motive. They'll give in to the cry of a vocal, angry minority of
-perceived fans _even if the consequence in the long-term is a worse game_. We
-can't rely on them to have our backs on this front: **we need to have each
-other's**. The best way to resist harassment — and the summary, mob-driven
-firings that so often seem to follow — is by organizing. And if gamers really
-want to see better games, **they should focus their attention on the bosses and
-the conditions employees are forced to work under**, not on individual
-vulnerable employees that are easily scapegoated. But for this to mean anything,
-**the conversation also needs to go beyond a simplistic call to "vote with your
-dollars"** and to buy more from the "good companies" and less from the bad ones.
-Player support for unionization will go much farther towards crafting a better
-industry.
+Dans ces situations, le management va souvent prétendre garder les meilleurs intérêts des travailleur·euse·s à l’esprit alors même qu’ils céderont systématiquement à la moindre tension et valideront le sentiment de joueurs se croyant tout permis. **Cela peut conduire à des patron·ne·s mettant en place de nouvelles façons de contrôler, discipliner et étouffer le mécontentement de leurs travailleur·euse·s, le tout sous couvert de “leur apporter une protection” face à un tel harcèlement.** (Les protéger de quoi? Se faire licencier pour s’être opposé au harcèlement? Quelle belle protection!)
+Après que le président de ArenaNet, Mike O'Brien, ait licencié Jessica Price et Peter Fries à la demande d'un groupe d'internautes -- pour avoir commis l'extrême offense de lutter contre la misogynie à laquelle doivent faire face les femmes dans l'industrie -- de nombreux employeur·euse·s se sont saisis de l'occasion pour introduire de nouvelles politiques internes limitant ce que leurs employé·e·s sont autorisés à exprimer sur les réseaux sociaux en dehors de leurs heures de travail. Ces nouvelles restrictions, en réalité, ajoutent aux employé·e·s la responsabilité de représenter leur compagnie 24/7 en plus de leur travail habituel -- et ce, pour aucune compensation additionnelle. (Quelle aubaine !)
+
+
+Dans son article d'Octobre sur ce sujet, "*Worse than Scabs: Gamer Rage as Anti-Union Violence*" ("Pire que les briseurs de grève: La rage des gamers comme une violence anti-syndicaliste") [Lana Polansky écrit](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/) :
+
+>"**Tant que les joueur·euse·s dirigent leurs plaintes vers travailleur·euse·s isolé·e·s**, les compagnies savent qu'elles peuvent utiliser cette dynamique **pour se protéger des critiques de leur communauté**, tout en les **utilisant comme levier** dans des conflits internes avec leurs employé·e·s. Ceci a, depuis longtemps, constitué une situation gagnant-gagnant pour les compagnies, leur permettant non seulement d'obtenir les victoires de PR auprès de leurs fans, mais aussi de maintenir une force de travail profondément réprimée et docile ainsi qu'un voile opaque brouillant les fonctionnements internes de l'industrie. Cependant, ce voile semble commencer à se dissiper."
+
+<div class="md-img left off-8">
+<img
+  src="/images/gamecube.svg"
+  alt="Gamecube"
+/>
+</div>
+
+Cette tactique a été déployée en 2016, quand les dirigeants d'Activision, EA, Disney, Warner Bros, Take-Two, et d'autres, [lancèrent un site internet](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks) et une vidéo ciblant explicitement une audience de gamers, qui diabolisait la SAG-AFTRA, le syndicat dont font partie les acteur·rice·s de doublage. À cette période, les membres du syndicat demandaient notamment, de meilleures mesures de sécurité pour combattre la fatigue vocale et les risques associés au tournage des cascades pour la motion capture, une amélioration du système pour les paiements des bonus, une plus grande transparence, et la mobilité de l'emploi. **Dans un effort flagrant de diriger la colère des fans vers les travailleur·euse·s**, les dirigeants avaient argumenté que ces demandes allaient, d'une façon ou d'une autre, détériorer la qualité des jeux pour les consommateur·rice·s.
+
+Les dirigeants répondent ultimement à leurs actionnaires et investisseur·euse·s, et donc à des motivations liées au profit. Ils se plieront aux lamentations d'une minorité vocale et enragée de soit disant fans, et ce *même si la conséquence à long terme est la production d'un mauvais jeu*. Nous ne pouvons pas compter sur eux pour nous épauler dans ce combat : **nous avons besoin de nous entraider entre travailleur·euse·s**. La meilleure façon de résister à ce harcèlement -- et à ces licenciements expédiés, motivés par les foules en colère, qui y font si souvent suite -- est la syndicalisation. Et si les gamers voulaient vraiment de meilleurs jeux, **ils devraient concentrer leur attention sur les dirigeants et sur les conditions de travail sous lesquelles les employé·e·s sont forcés de travailler**, pas sur des travailleur·euse·s isolé·e·s et vulnérables qui peuvent aisément être brandi·e·s en bouc émissaires. Mais pour que tout ça représente quoi que ce soit, **la conversation doit aller au delà d'un appel simpliste à "voter avec vos dollars"**, et à acheter plus de jeux provenant de "bonnes compagnies" et moins de jeux provenant des mauvaises. Le support des joueur·euse·s vis-à-vis de la syndicalisation serait un outil bien plus utile pour reconstruire une meilleure industrie.

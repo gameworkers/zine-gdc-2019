@@ -4,17 +4,17 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/FAQ-Bold" Name="FAQ-Bold" FontStyle="Bold">
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/FAQ-Italic" Name="FAQ-Italic" FontStyle="Italic">
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -34,17 +34,12 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Bigquote &gt; Blockquote &gt; Paragraph" Name="UnionFAQs &gt; Bigquote &gt; Blockquote &gt; Paragraph" LeftIndent="10">
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Blockquote &gt; Paragraph" Name="UnionFAQs &gt; Blockquote &gt; Paragraph" LeftIndent="10">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -64,135 +59,146 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>Unions aren’t just for huge workplaces</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Les syndicats ne sont pas seulement pour les milieux de travail les plus larges</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. While unions might sound like a logical fit for large companies (say, ones where a multibillionaire boss you’ve never met can fire you while talking about how you haven’t realized your </Content>
+    <Content>. Bien que les syndicats semblent être une solution logique pour les grandes compagnies (disons, celles où un·e patron·e multimilliardaire que vous n’avez jamais rencontré peut vous virer tout en racontant que vous n’avez pas achevé votre </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“full potential”</Content>
+    <Content>“plein potentiel”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>), </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>even smaller workplaces can benefit enormously from being organized</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>même les plus petites compagnies peuvent énormément bénéficier d’un syndicat</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. In fact, in our experiences small studios can sometimes be </Content>
+    <Content>. En fait, de notre expérience, les petits studios sont parfois </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>even more abusive</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, and more prone (wittingly or unwittingly) to violating your rights and boundaries as a worker. Small studio owners will often claim </Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>encore plus abusifs</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“we’re all in this together,”</Content>
+    <Content>, et plus prédisposés (consciemment ou non) à ne pas respecter vos droits et limites en tant que travailleur·se. Les patron·e·s de petits studios vont souvent clamer que </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> but they’re the ones controlling your salary and the ones who stand to benefit from the company’s successes — not to mention the ones who can fire you when things go wrong (or if they decide they don’t like you). Again, organizing with your coworkers can help give you leverage against these kinds of abuses.</Content>
+    <Content>“nous sommes tous ensemble dans cette aventure”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, mais ce sont tout de même eux·elles qui contrôlent notre salaire et bénéficieront le plus du succès de la compagnie — sans oublier qu’ils·elles ont le pouvoir de vous renvoyer quand les choses tournent mal (ou s’ils·elles décident qu’ils·elles ne vous aiment pas). Une fois de plus, s’organiser avec vos collègues peut vous donner un levier pour faire pression contre ce genre d’abus.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Another way of looking at it is that organizing can simply help better reflect </Content>
+    <Content>Une autre façon de regarder le problème est que vous organiser peut avant tout vous aider à réfléchir à la question de </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Italic">
-    <Content>who’s actually doing the work</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> at your job. Even if small business owners may wear many hats or work alongside you, they usually have disproportionate decision-making power or the ability to veto whatever they choose, because </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Italic">
-    <Content>they’re the boss</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>qui fait véritablement le travail</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. If game development really is a team effort, </Content>
+    <Content> à votre job. Même si les patron·e·s de petites entreprises ont parfois de nombreux rôles ou travaillent à vos côtés, ils·elles ont généralement un pouvoir de prise de décision disproportionné, ou la capacité de veto ce qu’ils·elles désirent, parce que </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>why shouldn’t we be guaranteed a hand in steering the ship</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>ce sont les boss</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Si le développement de jeux vidéo est réellement un travail d’équipe, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>pourquoi n’aurions-nous pas notre part dans la direction de l’entreprise </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Unionizing now also means you’ll be prepared in case of a change of management, whatever the reason for it. </Content>
+    <Content>Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement de la direction, quelle qu’en soit la raison. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>It’s the owners who decide when to sell the studio</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Ce sont les patron·e·s qui décident quand vendre le studio</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, and they’re the ones who get to cash in on all the work that was put into it when it gets bought out. When that happens, usually all you get as a worker is a change of bosses. Notoriously, Notch sold Mojang to Microsoft for $2.5 billion and became enormously wealthy for it, while his employees received nothing. (Microsoft would later offer a comparatively tiny $300,000 — that’s a whole $0.0003 billion, folks — incentive to workers, but only if they agreed to remain Microsoft employees for another six months.)</Content>
+    <Content>, et ce sont eux·elles qui peuvent récolter les fruits de tout le travail accompli quand le studio se fait racheter. Quand cela se produit, habituellement tout ce que vous obtenez, en tant que travailleur·se, est un changement de patron·e. Comme on le sait, Notch a vendu Mojang à Microsoft pour 2.5 billions de dollars et est devenu énormément riche grâce à cela, tandis que ses employé·e·s n’ont rien reçu. (Microsoft a plus tard offert la somme relativement maigre de 300 000 dollars — la somme éclatante de 0.0003 billions de dollars — à chaque travailleur·se, mais seulement à condition qu’ils acceptent de rester employé·e·s de Microsoft pour 6 mois de plus.)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>News of the sale changed things at Mojang. Some felt betrayed by Markus’s decision. Morale plummeted. </Content>
+    <Content>Les nouvelles de la vente de la compagnie ont changé les choses à Mojang. Certain·e·s se sentaient trahi·e·s par la décision de Markus. Le moral a plongé. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“People felt like the world was coming to an end.”</Content>
+    <Content>“Les gens avaient l’impression que leur monde s’effondrait”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
-    <Content>29</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Source</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>There are many more untold stories in the indie scene of folks who join a small startup and accept to be paid less than they’re worth because they really believe in the project — only to receive nothing after the game makes it big and the owners sell out for millions.</Content>
+    <Content>Il existe beaucoup d’autres histoires non-dites dans la scène indé à propos de personnes ayant rejoint une petite startup et accepté d’être payé moins que ce qu’ils·elles méritaient parce qu’ils·elles croyaient vraiment en le projet — tout ça pour n’avoir rien reçu après que le jeu ait rencontré un succès énorme et que les patron·e·s aient vendu la compagnie pour plusieurs millions.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If your small studio boss claims to be sympathetic to unions: great! As a worker, you’re well-positioned to help them put their money where their mouth is. But be warned that their sympathy might evaporate if you make it clear that you want to unionize your own </Content>
+    <Content>Si le·la patron·e de votre petit studio annonce être sympathique à la cause syndicale : excellent ! En tant que travailleur·se, vous êtes bien positionné·e pour les aider à traduire leurs paroles en actes. Mais soyez prévenus que leur sympathie risque de s’évaporer dès lors que vous annoncerez vouloir syndiquer votre petit studio indé plutôt qu’une autre compagnie 100 fois plus grosse que vous. Au final, les patron·e·s vont perdre du pouvoir et de l’argent si leur studio se syndique , ce qui — étonnamment ! — rend la perspective peu attrayante à leurs yeux dès lors que l’on parle d’actions concrètes. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“scrappy”</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>C’est dans ces moments qu’il devient très clair à quel point la mentalité du </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> little indie studio rather than some other company a hundred times bigger than you. Ultimately, owners stand to lose power and money if their studio unionizes, which — go figure — makes it a hard sell for a lot of them when it comes down to brass tacks. </Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>“on est tous amis ici”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>It’s in these moments that it becomes clear just how shallow the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>“we’re all friends here”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content> mantra really is</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content> est superficielle</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. By bargaining collectively, you are forcing your employer to reckon with the realities of working together: the boundaries you want to ensure are in place, the rights you want to assert, the conditions you want to improve. These are all topics that tend to be difficult to broach on your own when there’s an unacknowledged power dynamic.</Content>
+    <Content>. En négociant collectivement, vous forcez votre employeur·se à se confronter aux réalités du travail collaboratif : les limites que vous voulez placer, les droits que vous voulez exercer, les conditions que vous voulez améliorer. Ces sujets ont tendance à être difficiles à aborder par vous-même quand il y a une dynamique de pouvoir inavouée.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Bigquote &gt; Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“By fabricating the illusion of employer as friend, the employed is denied the opportunity to protest, argue, fight, be adversarial and demand more of their working conditions.”</Content>
+    <Content>“En fabricant l’illusion de l’employeur·se comme ami·e, l’employé·e se voit dénié·e de l’opportunité de protester, débattre, se battre, être antagoniste et demander davantage de ses conditions de travail.”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If your boss </Content>
+    <Content>Si votre patron·e le pense </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Italic">
-    <Content>really really</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>vraiment</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> means it when they say they’re sympathetic and want everyone to be equal, why not push for collective ownership? Transitioning to a cooperative model is a great way to ensure everyone at a company benefits from their successes and hard work. And if you’re thinking of starting a new studio yourself, forming a worker cooperative is a great way to bake in those values right from the start.</Content>
+    <Content> lorsqu’il·elle dit être favorable et qu’il·elle veut que tout le monde soit égal, pourquoi ne pas promouvoir une propriété collective ? Transitionner vers un modèle collectif est une façon efficace de s’assurer que chacun·e dans une compagnie bénéficie du succès de son dur labeur. Et si vous envisagez de commencer un nouveau studio vous-même, former une coopérative de salarié·e·s est une bonne façon d’implanter ces valeurs dès le début.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/" Name="link" DestinationURL="https://www.wired.com/2015/06/minecraft-book-excerpt/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.wired.com/2015/06/minecraft-book-excerpt/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.wired.com/2015/06/minecraft-book-excerpt/</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

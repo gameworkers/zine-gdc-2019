@@ -1,25 +1,13 @@
-::: {custom-style="UnionFAQs"}
-Even if you don't work in the game industry yourself, there are still lots of
-other ways you can support organizing efforts:
+---
+title: Allié·e·s, impliquez-vous.
+type: unionfaqs
+---
+Même si vous ne travaillez pas vous même dans l’industrie du jeu vidéo, il existe malgré tout de nombreuses façons pour vous de supporter les efforts de syndicalisation.
 
-1. **Help unionize your own industry, or get involved in your own union**! The
-   more workers that are organized, the more potential there is for
-   cross-industry solidarity and mutual aid. And the more unionization gains
-   momentum across industries, the more it becomes a logical path for
-   unorganized sectors.
-2. **Talk to players about why unions are important** and how they can address
-   problems that affect both workers and consumers. Remind them that the
-   conditions and pressures that result in compromised games (or abusive
-   mechanics like loot boxes) aren't the choice of the workers — we hate that
-   stuff too and we want to make the best games possible! — but the result of
-   bosses' decisions.
-3. **Signal boost workers in the industry** who speak out about working
-   conditions. If you're a streamer, a writer, or someone who makes videos, talk
-   about these issues in the work you produce. (There's lots of different
-   avenues to explore, too — we'd love to see a broader historical perspective
-   on how labour issues have been part of games since the beginning.)
-4. **Join Game Workers Unite and get involved** in on-the-ground organizing
-   efforts! We actively encourage players, academics, and anyone who wants to
-   improve conditions in the industry to engage in the community and help us
-   succeed.
-:::
+1. **Aidez à syndiquer votre propre industrie, ou engagez vous dans votre propre syndicat** ! Plus il y a de travailleurs syndiqués, plus il y a de potentiel pour une aide mutuelle et une solidarité entre nos différentes industries. Et plus le mouvement de syndicalisation gagne de l’inertie à travers les industries, plus il devient une continuation logique pour les secteurs non-syndiqués.
+
+2. **Parlez aux joueur·euse·s à propos de l’importance des syndicats** et comment ils peuvent aborder les problèmes qui touchent à la fois les travailleurs et les consommateurs. Rappelez leurs que les conditions et pressions qui aboutissent à des jeux compromis (ou des mécaniques abusives comme les loot boxes) ne sont pas le choix des travailleurs - on déteste ça aussi, et on veut faire les meilleurs jeux possibles! - mais le résultat des décisions des patrons.
+
+3. **Amplifiez les voix des travailleur·euse·s de l’industrie** qui dénoncent ces conditions de travail. Si vous êtes un·e streamer·euse, un·e journaliste ou quelqu’un qui fait des vidéos, parlez de ces problèmes dans vos travaux (Il y a beaucoup de pistes différentes à explorer - nous aimerions voir une perspective historique plus large sur comment ces questions relatives au travail ont toujours eu place dans le jeu vidéo, depuis ses débuts).
+
+4. **[Rejoignez Game Workers Unite](https://www.gameworkersunite.org/get-involved) et impliquez-vous** dans les efforts d’organisation sur le terrain! Nous encourageons activement les joueur·euse·s, universitaires et quiconque veut améliorer les conditions de travail dans l’industrie à s’engager dans la communauté et à nous aider à réussir.

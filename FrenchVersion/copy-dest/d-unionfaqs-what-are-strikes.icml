@@ -4,7 +4,7 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/FAQ-Bold" Name="FAQ-Bold" FontStyle="Bold">
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -24,7 +24,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -44,28 +44,31 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The topic of striking will necessarily come up whenever unions are being discussed. The thing is, nobody really wants a strike to happen. Workers generally just want to be able to do their job in good conditions, while being paid fairly and in dignity. Strikes can be harrowing affairs for everyone involved.</Content>
+    <Content>Le sujet de la grève sera nécessairement soulevé dès lors que l’on parle de syndicats. Cependant, de manière générale, personne ne veut vraiment qu’une grève se produise, et les travailleur·euse·s désirent simplement être en mesure de faire leur travail dans de bonnes conditions, avec dignité et un salaire convenable. Les grèves peuvent être un moment éprouvant pour toutes les personnes impliquées.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>But in a way, it’s the hypothetical possibility of calling a strike that forms the basis of our power when we unionize. It’s because our labour is the source of all profits that the idea of workers withdrawing that labour is so threatening to bosses. </Content>
+    <Content>Mais d’une certaine manière, c’est la possibilité de pouvoir déclencher une grève qui forme la base de notre pouvoir lorsque l’on décide de se syndiquer. C’est parce que notre travail est la source de tous les profits que l’idée que les travailleur·euse·s puissent cesser leur labeur est une si grande menace pour les patron·ne·s. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>It’s our biggest bargaining chip</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>C’est notre plus grand pouvoir de négociation</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ideally, strikes would never happen, and reason would always prevail in negotiations with bosses. When strikes do happen, it’s because those negotiations already failed, and an acceptable agreement couldn’t be reached between management and the union. Everybody wants to avoid that and find a better solution, but the important thing to remember is that without the potential to call a strike as a last-resort measure, workers would have no real leverage with bosses, and bosses would have no reason to take them seriously.</Content>
+    <Content>Idéalement, les grèves n’auraient jamais lieu, et la raison aurait le dessus lors des négociations avec les patron·ne·s. Quand les grèves ont lieu, c’est parce que ces négociations ont déjà échoué, et qu’un accord acceptable n’a pas pu être atteint entre la direction et le syndicat. Tout le monde veut éviter ça et trouver une meilleure solution, mais il faut se souvenir que sans le pouvoir d’appeler à la grève comme issue de dernier recours, les travailleur·euse·s n’auraient aucun réel moyen de pression sur les patron·ne·s, et les patron·ne·s n’auraient aucune raison de les prendre au sérieux.</Content>
   </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 
   </Story>

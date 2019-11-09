@@ -13,11 +13,6 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -34,17 +29,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Bigquote &gt; Blockquote &gt; Paragraph" Name="Bigquote &gt; Blockquote &gt; Paragraph" LeftIndent="10">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Bigquote &gt; Paragraph" Name="Bigquote &gt; Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/HeaderColourBg &gt; Header2" Name="HeaderColourBg &gt; Header2" LeftIndent="0" PointSize="30">
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -69,192 +54,180 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/HeaderColourBg &gt; Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Versus Mode: Owners vs. Workers</Content>
+    <Content>Les vagues récentes de renvois chez Activision-Blizzard et ailleurs ont mis en lumière le fait que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>les patrons de l’industrie du jeu vidéo priorisent le profit à court-terme par dessus le bien-être et la subsistance des travailleurs</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Des CEOs tels que Bobby Kotick se voient récompensés pour avoir traité leurs employés comme des ressources jetables, alors même que ce sont ces employés qui génèrent le revenu de la compagnie. Qu’importe le succès de la compagnie, les execs et actionnaires ne semblent jamais être satisfaits, et cherchent constamment de nouvelles façons d’éliminer les coûts et de booster les profits, souvent au détriment des employés. Pourquoi est-ce que ça continue de se produire ? Pour mieux comprendre, il faut voir au delà de la comm’ et observer la façon dont le patronat de ces compagnies est structuré, où vont les profits, et où le pouvoir de décision repose-t-il vraiment.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Toute entreprise est avant tout faite de ses employés</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> : ce sont ceux·celles qui produisent véritablement ce que la compagnie vend, et dont le labeur est la source des profits. Mais à qui reviennent ces profits ? Pas à eux, mais plutôt à ceux qui détiennent la compagnie : les actionnaires. De grandes entreprises cotées en bourse peuvent avoir jusqu’à plusieurs millions d’actionnaires, et tandis que certaines compagnies peuvent être détenues par un seul entrepreneur, même les petites startups ont généralement des investisseurs externes agissant comme actionnaires en plus des fondateurs originaux.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The recent round of layoffs at Activision-Blizzard and elsewhere have made it all too clear that </Content>
+    <Content>Aux yeux des actionnaires, tout ce que l’entreprise représente est une source de profits, soit par l’entreprise elle-même augmentant en valeur, où via des dividendes. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>game industry bosses are prioritizing short-term profit over the health and livelihoods of workers</Content>
+    <Content>Les actionnaires n’ont peut-être aucune réelle connexion avec la compagnie</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. CEOs like Bobby Kotick are rewarded for treating workers as disposable, even when those same workers help to generate record revenue for the company. No matter how well the company is doing, shareholders and executives never seem to be satisfied, and are constantly searching for new ways to cut costs and boost profits, often at the expense of workers. Why does this keep happening? To better understand it, we need to look past the PR and into how the ownership of these companies is structured, where the profits go, and where decision-making power actually lies.</Content>
+    <Content>, ni ne se soucient de ce qu’elle produit, et se soucient encore moins du bien-être de ses travailleurs. Ils ont de l’argent, et achètent des parts car ils veulent faire grandir cet argent en encore plus d’argent, sans pour autant y travailler (créer cette valeur additionnelle requiert bel et bien du travail, celui-ci étant effectué par des employés comme vous et moi, et pas par eux).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Jorgensen dit que la fermeture [de Visceral] était </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>entièrement une décision de business…</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Il faut couper les ponts quand on se rend compte qu’on ne peut plus vraiment faire beaucoup d’argent avec quelque chose, et c’est la décision que l’on a prise”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Any business is above all made up of its workers</Content>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>— </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>: they are the ones who are actually producing what the business sells, and whose labour is the source of its profits. But who do these profits go to? Not to them, but rather to those who happen to own the company: the shareholders. Large publicly-traded corporations can have millions of shareholders, and while some companies can be owned by a single business owner, even tiny startups typically have outside investors as shareholders beyond the original founders.</Content>
+    <Content> Interview de Gamasutra avec le CFO d’EA Blake Jorgensen à propos des raisons de la fermeture de Visceral Studios </Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>To shareholders, all that the business represents is a source of profit, either through the business itself increasing in value, or through money dividends. </Content>
+    <Content>La principale façon dont les actionnaires exercent leur contrôle sur les corporations est à travers l’élection du conseil d’administration. Les actionnaires utilisent la quantité d’actions au droit de vote en leur possession pour influencer les élections, forçant le conseil à se tenir directement responsable auprès d’eux. Les membres de la direction tels que le CEO sont désignés par le conseil d’administration, reliant ainsi directement le management, le conseil, et les actionnaires. Ultimement, le management obéit seulement au conseil d’administration, et le conseil d’administration obéit aux actionnaires, et à eux seuls. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Shareholders might not have any real connection to the company</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> or even care about what it does, let alone care about the welfare of its workers. They have money, and they buy shares because they want this money to grow into more money, without doing any work for it. (Creating this additional value does take work, but that work is done by workers like you and me, not by them.)</Content>
+    <Content>Ils n’ont aucune responsabilité envers les travailleurs.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bigquote &gt; Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jorgensen says the shuttering [of Visceral] was </Content>
+    <Content>La législation varie, mais les CEOs ont un </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“devoir fiduciaire”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> envers les actionnaires, ce qui signifie qu’ils sont </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>purely a business decision..</Content>
+    <Content>légalement requis</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> de maximiser les profits. Ils peuvent même être poursuivis en justice pour avoir mis les préoccupations éthiques au dessus de la mission de croissance pour les actionnaires ! Non pas qu’ils aient besoin d’une motivation supplémentaire : la loyauté de la direction envers les actionnaires est généralement garantie en leur offrant des parts comme compensation, ainsi que de larges bonus liés aux profits de la compagnie.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Les actionnaires ont toujours l’option de vendre leurs parts et d’en acheter dans une autre compagnie, donc si une entreprise n’est pas suffisamment efficace en terme de profits, la valeur de ses parts diminue. Par conséquent, les business ne sont pas seulement poussés par le profit, mais sont poussés à faire </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>le plus haut profit possible</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> sur le court terme par dessus tout. Et l’une des principales manières de faire monter les profits est de minimiser les dépenses telles que le salaire des employés, c’est pourquoi les licenciements massifs continuent de se produire. Les studios peuvent embaucher un paquet de développeurs au fur et à mesure que la quantité de travail augmente sur un large projet, les faire cruncher pendant un nombre d’heures déraisonnable pour pouvoir publier le plus vite possible, puis les renvoyer lorsque les ventes commencent pour s’assurer que les dépenses de salaires sont minimales, et les profits aussi hauts que possible. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Ce n’est pas un </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>“mauvais management”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>. C’est un système qui fonctionne comme prévu.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Les dirigeant·e·s prennent des décision qui bénéficient les patron·e·s aux dépens du reste d’entre-nous.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>C’est pourquoi on observe habituellement une augmentation de la valeur en bourse après chaque vague de licenciements, comme c’est arrivé récemment avec Activision-Blizzard: quand des licenciements massifs sont annoncés, la direction envoie aux actionnaires le message qu’ils sont prêts à faire ce qu’il faut pour assurer des profits toujours plus gros </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>quoi qu’il arrive</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et cela rend les parts d’une compagnie plus attrayantes sur le marché financier. Les actionnaires sont extatiques ! Ils s’enrichissent, et le reste d’entre-nous s’appauvrit. C’est pourquoi la décision est prise avant tout, et non pas par une quelconque nécessité, malgré la façon dont ils tentent de le présenter aux employés.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ce n’est pas une question de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“bons patrons”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> contre </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“mauvais patrons”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“You’ve got to cut the bridge when you realize you can’t really make a lot of money on something, so that’s the decision we made.”</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Les travailleurs et patrons ont des intérêts diamétralement opposés</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bigquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios’ closure</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
-    <Content>20</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The main way shareholders exercise control over corporations is through elections of the board of directors. Shareholders leverage the amount of voting shares they have to influence board elections, making the board directly accountable to them. Executive officers like the CEO are appointed by the board of directors, directly linking management, the board, and shareholders.</Content>
+    <Content>. La plupart des choses qui bénéficient les travailleurs — des salaires plus élevés, des temps de travail plus courts, de meilleurs bénéfices, un travail stable, un environnement de travail sain et sécuritaire — coupent également dans les profits de la compagnie. Pour faire court, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content> </Content>
+    <Content>chaque dollar qui va dans votre salaire est un dollar qui ne revient pas aux patrons</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Management ultimately only answers to the board of directors, and the board of directors answers to shareholders and shareholders only. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>They have no accountability to the workers.</Content>
+    <Content>. Afin de maximiser le profit, beaucoup de patrons vont tâcher d’extraire autant de labeur que possible de leur force de travail tout en gardant les salaires aussi bas que possible. De longues périodes d’heures supplémentaires non-rémunérées sont fréquentes dans l’industrie du jeu vidéo, en partie parce que (jusqu’à présent) les patrons ont réussi à s’en tirer avec, malgré des lois rendant les heures supplémentaires non payées illégales dans beaucoup de pays.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Legislation varies, but CEOs have </Content>
+    <Content>Souvent les patrons justifient ce traitement en prétextant que quiconque se plaint n’est juste pas suffisamment </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“fiduciary duty”</Content>
+    <Content>“passionné”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to the shareholders, which effectively means that they are </Content>
+    <Content>. Mais les appels dirigés à la passion ne sont qu’une autre stratégie pour en tirer plus de travailleurs qui désirent simplement être en mesure de faire des jeux durablement et améliorer leurs compétences sans faire un burnout. Contrairement aux travailleurs, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>legally required</Content>
+    <Content>les patrons ne se soucient pas de faire le meilleur jeu possible.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to maximize profits. They can even be sued for putting ethical concerns above the duty of increasing value for shareholders! Not that they need the extra motivation: upper management’s loyalty to shareholders is usually ensured by granting them shares as compensation, as well as large bonuses tied to company profits.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Shareholders always have the option to sell their shares and buy into a different company, so if a business doesn’t perform well enough in terms of profits in the short-term, the value of the shares decreases. The consequence is that businesses are not merely driven to make a profit, but to make the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>highest possible profit</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> in the short-term, over anything else. And one of the main ways of increasing profits is to minimize expenses such as salaries to workers, which is why the mass layoffs keep recurring. Studios can hire a bunch of game developers as work ramps up on a large project, make them crunch unreasonable hours to get it released as fast as possible, then lay off most of them after sales start coming in to ensure that salary expenses are minimized and profits kept as high as possible. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>This isn’t </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>“bad management.”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content> It’s the system working as designed.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Executives make decisions for the benefit of the owners at the expense of the rest of us.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This is why we also typically see share value increase after every round of layoffs, as happened recently with Activision Blizzard: when mass layoffs get announced, management is sending a message to shareholders that they are willing to do what it takes to ensure ever-increasing profits </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>no matter what</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, and this makes company shares more attractive on the market. Shareholders are thrilled! They get richer, and the rest of us get poorer. That’s why the decision is made in the first place, not out of any real necessity, despite how they try to spin it to the workers.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>It’s not a question of </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“good bosses”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> vs </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“bad bosses.”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Workers and owners have fundamentally different interests.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Most of the things that benefit workers — higher wages, shorter working hours, better benefits, job security, a safer work environment — also cut into company profits. In short, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>every dollar that goes to your wage is a dollar that doesn’t go to the owners</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. In order to maximize profit, many bosses will try and squeeze as much labour as possible out of their workforce while keeping wages as low as possible. Long periods of unpaid overtime are common in the game industry in part because bosses have (so far) been able to get away with it, despite laws that make unpaid overtime illegal in many countries.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Often bosses justify this treatment by arguing that anyone who complains just isn’t </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“passionate”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> enough. But selective appeals to passion are just another strategy to wring more out of workers who just want to be able to make games sustainably and hone their craft without burning out. Unlike workers, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>owners and bosses don’t actually care about making the best game possible</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Their first priority is to make money — and right now they’re the ones calling the shots, without any accountability to the people </Content>
+    <Content> Leur première priorité est de faire de l’argent — et actuellement ce sont eux qui mènent la barque, sans aucune prise de responsabilité envers ceux qui </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>actually making the game</Content>
+    <Content>font véritablement le jeu</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
@@ -262,32 +235,35 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>But it doesn’t have to be this way! Workers have the potential power to change this dynamic and to force the businesses they work for to take their best interests into consideration too. This is because in every industry, every business, it’s always their labour that is the source of all the owners’ profits. </Content>
+    <Content>Mais il n’a pas à en être ainsi ! Les travailleurs ont le pouvoir potentiel de changer cette dynamique et forcer les entreprises pour lesquelles ils travaillent à prendre leurs meilleurs intérêts en considération. C’est parce que dans chaque industrie, chaque entreprise, c’est toujours leur travail qui est à la source de tous les profits des patron·e·s. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>When it comes down to it, it’s owners who need the workers, not the other way around.</Content>
+    <Content>Dans le fond, ce sont les patrons qui ont besoin des travailleurs, et pas l’inverse.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Isolated from each other, workers are completely vulnerable to the whims of management, as they are devalued and reduced to having to beg for better conditions — but united and organized, workers can build the leverage to actually negotiate with management from a position of power. </Content>
+    <Content> Isolés les uns des autres, les travailleurs sont complètement vulnérables aux caprices de la direction, étant dévalués et réduits à avoir à supplier pour de meilleures conditions — mais unis et organisés, les travailleurs peuvent bel et bien négocier avec la direction depuis une position de pouvoir. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Unionizing is the only way to tip the balance in the other direction</Content>
+    <Content>La syndicalisation est le seul moyen de renverser ce déséquilibre</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and create a better game industry for all workers!</Content>
+    <Content> et créer une industrie du jeu vidéo meilleure pour tous les travailleurs !</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Beyond this, </Content>
+    <Content>Au delà de ça, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>we can also imagine an entirely different way of structuring the industry</Content>
+    <Content>on peut aussi imaginer une façon entièrement différente de structurer l’industrie</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> — one that would not fundamentally rely on the exploitation of workers for the benefit of shareholders. This is what workers’ cooperatives aim to do: they are businesses with no external shareholders that are entirely and collectively owned by all the workers who work there themselves, allowing them to earn the full benefit of their labour. (Check the section on worker co-ops later in the zine!)</Content>
+    <Content> — une qui ne dépendrait pas fondamentalement de l’exploitation des travailleurs pour le profit des actionnaires. C’est ce que les coopératives de salariés cherchent à établir: ce sont des entreprises sans actionnaires externes qui sont entièrement et collectivement détenues par les employés qui y travaillent, leur permettant ainsi de récupérer le plein bénéfice de leur travail. (Consultez la partie sur les coopératives de salarié·e·s plus loin dans ce zine !)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

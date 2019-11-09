@@ -1,190 +1,94 @@
-::: {custom-style="HeaderColourBg"}
-## Boss Fight Tips & Tricks
-:::
-
-### Union-busting tactics to look out for
-
-As union talk continues to spread throughout the game industry, bosses who feel
-threatened are turning to an arsenal of tactics to break up organizing and
-discourage and demoralize workers. **Luckily for us, their toolbox is rather
-limited**: throughout every industry and every era, we keep seeing the exact
-same dirty tricks being reused by bosses over and over again. This means that
-**by learning to recognize them and warning our fellow workers about them, we
-can be ready and prepared when they inevitably get pulled out** and render them
-ineffective. Here's a few classics:
+---
+title: Boss Fight, les soluces
+---
+### Les tactiques anti-syndicalistes à reconnaître
+Tandis que les discussions autour de la création d’un syndicat se répandent dans l’industrie du jeu vidéo, les boss qui se sentent menacés utilisent un arsenal de tactiques pour briser les efforts d’organisation, décourager et démotiver leurs employés. **Heureusement pour nous, leur arsenal est plutôt limité** : à chaque époque et dans chaque industrie, les mêmes coups bas sont observés encore et encore. Ce qui signifie **qu’en apprenant à les reconnaître et en prévenant nos collègues, on peut être préparés lorsque ces tactiques seront inévitablement déployées**, et les rendre totalement inefficaces. Voici quelques classiques :
 
 
-#### The "Captive Audience" Meeting
 
-If management ever catches wind that there's organizing (or even just vague
-union talk) happening at the workplace, their first response will usually be to
-call a "captive audience" meeting. All employees will be required to attend, and
-the meeting will be a one-way affair where management goes over standard
-union-busting talking points in **an effort to sow fear, suspicion, and
-distrust**. The goal is to reach any workers who are uneducated about unions
-before their organizing co-workers do, and feed them negative preconceptions on
-the topic. You're likely to see many of the other union-busting moves in this
-list being deployed at those meetings, and the best way to counter them is for
-you and your co-workers to be prepared and to know what to expect!
+#### La réunion à "auditoire captif"
 
-Note also that when it comes to the topic of unionizing, managers will often
-repeat these talking points on any platform they have access to, such as game
-industry conferences or industry-oriented websites…
+Si le management remarque une quelconque forme d'organisation des travailleurs (ou même une vague mention de syndicat) au bureau, leur première réponse sera habituellement d'organiser une réunion à "auditoire captif". Il sera requis pour tous les employés d’y assister, et le meeting sera une discussion à sens unique où le management évoquera tous les arguments anti-union **afin de répandre peur, suspicion et briser la confiance entre employés**. L’objectif est d’atteindre tous les employés qui n'ont pas encore d'opinion sur les syndicats, avant que leurs collègues ne les éduquent, et de les nourrir de préconceptions péjoratives sur le sujet. Vous avez de forte chances d’observer, durant ces meetings, bon nombres des techniques anti-syndicalisation décrites dans cette liste, et la meilleure façon pour vous et vos collègues de les contrer est que savoir à quoi s'attendre !
+
+On constate également que lorsque vient le sujet des syndicats, les managers vont souvent répéter ces arguments sur toutes les plateformes qui leur sont accessibles, qu’il s’agisse de conférences sur l’industrie du jeu vidéo, ou de sites orientés sur l’industrie...
 
 
-#### The "Open Door" Policy
-
-Bosses often encourage workers to talk to them directly about workplace issues,
-insisting their "door is always open" and that no one will be reprimanded for
-sharing concerns. A well-worn tactic everywhere from the game industry to
-companies like Wal-Mart or Amazon[26]{custom-style="Super"}, this "open door
-policy" sounds harmless on the surface.
-
-In fact, **this is the number one way management maintains full control over
-information flow in the workplace **and ensure they are able to nip any seed of
-organizing in the bud. They'll say they are here to help and are genuinely
-concerned about your well-being. But the catch is that **it's a way to ensure
-workers only ever interact with management alone** as isolated and disempowered
-individuals, instead of turning to their coworkers for support and solidarity.
-Bosses will make vague promises and excuses, reassuring you that your issues are
-taken seriously and will be addressed eventually, while also instructing you to
-keep things quiet and only ever discuss the issue in question directly with
-management. If they do catch you sharing concerns with other workers, it
-probably won't take long for that supportive demeanor to disappear, which is why
-**it's important to make sure any initial organizing you do happens away from
-the eyes and ears of management**.
+<div class="md-img">
+<img
+  src="/images/eb-text.png"
+  alt="Houser Bros held a Captive Audience Meeting! Audre fell asleep!
+  Les frères Houser ont fait une réunion à auditoire captif! Audre s'est endormie!"
+/>
+</div>
 
 
-#### "Unions might be great for other companies/industries, but it's different here!"
+#### La politique de la “porte ouverte”
 
- Whether it's because games are "too creative a medium," "too recent an
- industry," "too dependent on flexibility" (boss-speak for worker precarity) or
- because the company is "too indie," or "too large," not making enough money or
- "making too much" — you'll hear all sorts of reasons why your job is very
- special, unique, and different when it comes to unionizing. The funny thing, of
- course, is that every boss in every industry says the exact same thing to their
- workers! (WORKERTIP: It's never true.)
+Les patrons encouragent souvent leurs employés à venir leur parler directement des problèmes sur le lieu de travail, insistant que “leur porte est toujours ouverte” et que personne ne sera réprimandé pour avoir fait part de ses inquiétudes. Une tactique bien rodée, autant utilisée dans l’industrie du jeu vidéo que chez des compagnies telles que Wal-Mart et [Amazon](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201), cette politique de la “porte ouverte” semble inoffensive au premier abord.
+
+En vérité, c’est **la principale méthode que le management utilise pour maintenir son contrôle sur le flot d’information au bureau**, et s’assurer de pouvoir tuer dans l’oeuf la moindre tentative d’organisation. Ils diront être en mesure d’aider, et qu’ils sont sincèrement concernés par votre bien-être. Le piège est qu’il s’agit **d’un moyen de s'assurer que les employés n’interagissent avec le management qu’en tant qu'individus désavantagés et isolés**, au lieu de se tourner vers leurs collègues pour obtenir soutien et solidarité. Les patrons feront des promesses vagues et des excuses, répétant que vous et vos soucis seront pris au sérieux et adressés, tout en vous conseillant de rester discret et de ne discuter de ces problèmes que directement avec eux. S’ils vous surprennent à partager vos craintes avec vos collègues, cette attitude de support ne tardera sûrement pas à disparaître, ce qui souligne **l’importance de commencer toute forme d’organisation loin des yeux et oreilles des managers**.
 
 
-#### Framing the union as a "third party"
 
-Many bosses try and frame unions as some kind of external third party that will
-come in between you and your employer, ruining your happy family relationship,
-or maybe trying to get rich off your back. (Projection much?) You might even
-hear that they are dangerous radicals seeking to overthrow capitalism! (Oh no!)
-But in reality the union is not "they" — it's you. **It's you and your
-co-workers who form this potential union and decide every action it takes**, not
-some outside strangers — and what your bosses fundamentally fear is **the
-empowerment that you will gain through organizing**.
+#### “Les syndicats marchent peut-être très bien pour d’autres compagnies/industries, mais c’est différent ici !”
+
+Que ce soit parce que “les jeux sont un médium trop créatif”, que “l’industrie est trop jeune”, “trop dépendante de votre flexibilité” (jargon de boss pour parler de la précarité des travailleurs), ou parce que la compagnie est “trop indie” ou “trop grande”, “ne fait pas assez de bénéfices” ou “en fait trop” — vous entendrez toutes sortes de raisons données pour justifier à quel point votre travail est spécial, unique, et différent lorsque la question de se syndiquer est soulevée. Bien sûr, il est amusant de constater que les patrons dans tous les types d’industries servent les mêmes arguments à leurs employés ! (Astuce : c’est toujours un mensonge.)
 
 
-#### "You can't have a union, because you're not really employees!"
+#### Décrire le syndicat comme un “parti tiers”
 
-More and more employers try to paper over the true nature of the relationship
-they have with their workers by referring to them as "partners" or "associates"
-instead of employees, for example, or by pretending that we're all just one big
-group of friends; **it's just that some friends own the company, and others
-don't!** Another common tactic is to give "manager" titles to just about
-everyone in the company, but with none of the decision-making power or
-additional pay that usually accompanies such a role.
-
-Perhaps most importantly, **many workers in the game industry who should be
-recognized as full employees are instead hired as freelance contractors as a way
-for owners to get around the legal obligations they owe to employees**. This is
-an especially common problem in sectors like QA. However, there is a growing
-number of unions that specialize in helping such workers fight for better
-conditions or gain full employee status. Recently, artists and lecturers
-(primarily women) at Britain's National Gallery won a case which confirmed that,
-because they were required to attend training sessions and were paid from the
-same source as noncontractual employees, they were not in fact self-employed.
-This meant they were entitled to the same benefits as so-called "permanent"
-employees.[27]{custom-style="Super"} **Remember that if you're hired to work for
-someone who makes a profit from selling what you produce, you can unionize**.
+Beaucoup de patrons tentent de dépeindre les syndicats comme une sorte d’organisation tierce qui viendra se mettre entre vous et la direction, ruinant au passage votre relation de famille heureuse, ou bien tentant de s’enrichir sur votre dos. Vous entendrez peut-être même dire qu’il s’agit de dangereux extrémistes cherchant à renverser le capitalisme ! (Oh non !) Mais en réalité, le syndicat n’est pas un tiers, c’est vous. **C’est vous et vos collègues qui formez ce syndicat et décidez ensemble de chaque action à prendre**, pas une personne extérieure à la compagnie - et ce que votre patron redoute fondamentalement est **l’émancipation que vous allez gagner en vous syndiquant**.
 
 
-#### Threats of outsourcing and cuts
+#### “Vous ne pouvez pas avoir de syndicat, parce que vous n’êtes pas réellement des employés !”
 
-A common line — and one frequently internalized by workers — is that if workers
-unionize, bosses will make cuts to jobs or outsource them to where labour is
-cheaper and less organized. Whether management is assuring you that they're
-really sorry but they have no choice and it's "just the way it is" or they're
-openly threatening direct retaliation for unionizing, **the important thing to
-keep in mind is that the goal of these threats is to create fear and compliance
-through intimidation. They usually have no basis in anything concrete**.
+De plus en plus d’employeurs tentent de rendre floue la nature de leur relation avec les employés, par exemple en les désignant comme étant “partenaires” ou “associés”, ou bien en prétendant que l’on n'est au fond qu’un grand groupe d’amis; **c’est juste que certains amis possèdent la compagnie, et d’autres non !** Une autre tactique répandue est de distribuer des titres de “manager” à presque tout le monde dans la compagnie, mais aucun doté du pouvoir de décision ou de la paie additionnelle qui accompagnent habituellement ce rôle.
 
-Bosses lay off workers all the time for no good reason, and unionizing is the
-only way you have to protect yourself from that. Remember that it's always our
-labour that creates value for the business owners, and that they can't get rid
-of all of us or they'd be getting rid of the very source of all their profits.
-Besides, **relocating is an extremely expensive endeavour for any business to
-make, and not something that can be decided on a whim simply to punish workers
-for unionizing**. This is especially true if the union movement is one that
-crosses borders in such a way that there's nowhere for the owners to go —
-emphasizing why it's so important for our organizing efforts to be international
-in nature and in solidarity with fellow workers all around the world!
+Peut-être plus important encore, **bon nombre de travailleurs de l’industrie du jeu vidéo qui devraient être reconnus en temps qu’employés à part entière sont en fait embauchés en tant que contractuels freelance, afin de contourner les obligations légales envers les employés**. C’est un problème particulièrement commun dans des secteurs comme le QA. Cependant, on trouve de plus en plus de syndicats qui se spécialisent dans l’apport d’aide à de tels travailleurs, se battant pour leur gagner un statut d’employé à part entière et obtenir de meilleurs conditions de travail. Récemment, des artistes et conférencières (principalement des femmes) à la Britain’s National Gallery [ont gagné une affaire](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html) qui a confirmé que, puisqu’ils·elles étaient obligées de participer à des sessions d’entraînement et étaient payées par les mêmes sources que les employés non-contractuels, elles n’étaient bel et bien pas “à leur compte”. Cela signifie qu’elles avaient droit aux mêmes bénéfices que les employés soi-disant “permanents”. **Souvenez-vous : si on vous embaûche pour travailler pour quelqu’un qui profite de la vente de ce que vous produisez, vous pouvez vous syndiquer.**
 
 
-#### The "Guilt Trip"
 
-Some owners, especially those who think of themselves as "good bosses" and
-maintain a lot of contact with their employees, might react to unionizing
-efforts by taking it extremely personally. **Those bosses will try to make you
-feel like you are committing some sort of horrible betrayal by contemplating the
-possibility of organizing**, and try to shame you for being ungrateful or make
-you feel like you somehow owe them for "giving" you a job.
+#### Menaces de sous-traitance et suppression d’emplois
 
-Remember that the core issue is the inequality of power between you and them,
-and that they are reacting that way because they are so used to holding that
-power over you and acting without any accountability to employees, that **any
-step towards a more equal relationship feels to them like some kind of terrible
-offence**. Some bosses have been known to respond to union organizing efforts
-with tears! These sentiments may even be genuine, but in any case, dealing with
-them should be the responsibility of your boss's therapist, not their employees.
+Une réplique très courante - souvent internalisée par les employés - est que s'ils se syndiquent, des postes seront supprimés ou sous-traités là où le travail est moins coûteux. Même si votre patron vous assure qu'il est "vraiment désolé", qu'il n'a pas le choix choix, que c'est "comme ça que ça fonctionne", ou qu'il vous menace ouvertement de représailles directes en cas de syndicalisation, **il est important de garder à l’esprit que ces menaces visent à créer la peur et l’obéissance à travers l’intimidation. Ils n’ont généralement aucune base concrète sur laquelle appuyer ces propos**.
+
+Les boss licencient régulièrement des travailleurs sans aucune bonne raison, et se syndiquer est la seule façon que vous avez de vous en protéger. Souvenez-vous que c’est toujours notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, **relocaliser est une initiative extrêmement coûteuse pour n’importe quel type d’entreprise, et n’est pas une décision qui peut être prise à la légère simplement pour punir des travailleurs qui se syndiquent**. C’est particulièrement vrai si le mouvement de syndicalisation va au delà des frontières, de sorte qu’il n’existe nulle part où aller pour les employeurs - ce qui souligne l’importance de donner une ampleur internationale à nos efforts de syndicalisation, en solidarité avec nos camarades travailleurs tout autour du globe !
 
 
-#### The "Company Union"
+#### Le “guilt trip”
 
-Some bosses claim to support unions, and will even offer to help you set one up.
-If your boss tries to pull this move, you might think at first you're very lucky
-to work for such a progressive employer. They might even bring in people to do
-it for you and take care of all the complicated stuff… until you realize that
-your new "union" was created without any organizing among the workers
-themselves, that it includes company management in its decision-making, that it
-reproduces the same power dynamics that were always present in your workplace,
-and that it was implemented in a top-down fashion to ensure its loyalty to the
-owners over the workers. This sort of cooptation can really succeed at
-appropriating and neutralizing pro-union sentiment, dramatically setting back
-any genuine organizing efforts — **don't let it happen to you!**
+<div class="md-img right off-1">
+<img
+  src="/images/baby_bowser.png"
+  alt="Baby Bowser"
+/>
+</div>
 
-A similar role is played in our broader industry by some currently-existing
-industry organizations, who publicly claim to represent game developers but **in
-practice are led and funded exclusively by business owners and management** and
-have consistently sided with their interests over those of workers whenever they
-conflict. The IGDA is one of these organizations, of course (see our review of
-the IGDA in the previous issue!), but there are other examples too. A similar
-role is played in Québec by "La Guilde", and in France by the "Syndicat National
-du Jeu Vidéo" (SNJV, not to be confused with the STJV, which is the actual
-French game workers' union).
+Certains patrons, en particulier ceux qui se considèrent comme des “bons patrons” et maintiennent le contact avec leurs employés, risquent de réagir aux initiatives de syndicalisation en le prenant très personnellement. **Ces patrons tâcheront de vous donner l’impression d’être en train de commettre une horrible trahison en considérant la possibilité de se syndiquer**, et tenteront de vous humilier pour votre “ingratitude”, ou vous donner le sentiment que vous leur devez de la reconnaissance pour vous avoir “donné” un job.
+
+Souvenez-vous que le problème central est le déséquilibre de pouvoir entre vous et eux, et qu’ils réagissent ainsi parce qu’ils sont tant habitués à détenir ce pouvoir sur vous et à agir sans aucune transparence envers leurs employés, que **le moindre effort vers une relation plus juste est à leurs yeux une sorte d’insulte terrible**. Certains patrons d’entreprises ont même réagi aux initiatives de syndicalisation par les larmes ! Ces sentiments peuvent même être sincères, mais dans tous les cas, c’est au thérapiste de votre patron de s’en préoccuper, pas à ses employés.
 
 
-#### Scab Labour
 
-One of the dirtiest tricks a boss can employ, **"scabs" are people who, as
-workers themselves and thus potential members of a union, receive special
-preferential treatment over others in exchange for turning against their fellow
-workers**. Scabs are often brought in temporarily from the outside in an
-emergency as a way to replace workers who are trying to unionize. Bosses will
-sometimes even make a point of offering scabs all the demands that the
-organizing workers originally put forward, while continuing to refuse them to
-the latter — just as a way of demoralizing you by making the point that your
-demands can in fact easily be met, but that it's really about punishing you "on
-principle" for standing up for your rights.
+#### Le “syndicat d’entreprise”
 
-During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
-notably used — and roundly criticized — in the _Life Is Strange_ prequel _Before
-the Storm_.[28]{custom-style="Super"}
+Certains patrons se déclarent supportifs des syndicats, et vous offriront même d’aider à en mettre un en place. Si votre patron tente cette approche, vous pourriez initialement penser que vous êtes très chanceux de travailler au compte d’un employeur aussi progressiste. Ils pourraient même faire venir des gens qui s’en occuperaient pour vous et se chargeraient de tous les détails compliqués… Jusqu’à ce que vous réalisiez que votre nouveau “syndicat” a été mis en place sans aucune forme d’organisation entre les travailleurs eux-mêmes, qu’il inclut le management de la compagnie dans sa prise de décision, qu’il reproduit les mêmes dynamiques de pouvoir déjà présentes sur le lieu de travail, et qu’il a été construit avec la même structure descendante qui garantit sa loyauté aux patrons plutôt qu’aux employés. Cette sorte de coopération peut vraiment parvenir à complètement s’approprier et neutraliser l’énergie “pro-syndicat” qui habitait les employés, et retarder dramatiquement tout effort sincère de syndicalisation - **ne laissez pas cela se produire pour vous!**
 
-In order to work towards the long-term goal of a unionized game industry, it
-will be important to create a culture where taking a scab contract is treated as
-the despicable, selfish act that it is — and one that harms the scabs themselves
-in the longer term.
+Un rôle similaire est joué dans notre industrie par des organisations d’industrie qui annoncent publiquement qu’elles représentent les intérêts des développeurs de jeux vidéo, mais qui **en pratique sont dirigées et fondées exclusivement par des patrons et managers d’entreprise**, et ont systématiquement choisi de s’associer à leurs intérêts plutôt qu’à ceux des employés en cas de conflit. L’IGDA est l’une de ces organisations mais il existe aussi d’autres exemples. Un rôle semblable est occupé au Québec par “La Guilde”, et en France par le “Syndicat National du Jeu Vidéo” (SNJV, à ne pas confondre avec le STJV, Syndicat des Travailleurs et Travailleuses du Jeu Vidéo, qui est le véritable syndicat français des travailleur·se·s du jeu vidéo)
+
+
+
+#### Briseurs de grèves
+
+<div class="md-img right off-6">
+<img
+  src="/images/plague-rat.png"
+  alt="Plague Rat of Doom"
+/>
+</div>
+
+L’un des stratagèmes les plus vicieux qu’une patrone puisse employer, **les “briseurs de grèves” sont des gens qui, en tant que travailleurs eux-mêmes et donc potentiels membres d’un syndicat, reçoivent un traitement de faveur en récompense pour tourner le dos à leurs collègues**. Les briseurs de grèves sont souvent déployés temporairement depuis l’extérieur, de façon à remplacer en urgence les employés qui essaient de se syndiquer. Les patrons iront parfois même jusqu’à offrir aux briseurs de grèves toutes les demandes que les travailleurs qui se syndiquent avaient initialement proposées, tout en continuant de les refuser aux autres - juste afin de vous démoraliser, en démontrant que bien que ces demandes puissent facilement être mises en place, il s’agit surtout de vous punir “pour le principe” pour avoir défendu vos droits.
+ 
+Pendant la grève des voice actors de la SAG-AFTRA en 2017, l’emploi de voice actors briseurs de grèves fut notamment utilisé -[et grandement critiqué](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)- dans *Before the Storm*, la préquelle de *Life is Strange*.
+
+Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.

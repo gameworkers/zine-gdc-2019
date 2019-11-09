@@ -1,21 +1,16 @@
-::: {custom-style="UnionFAQs"}
-The topic of striking will necessarily come up whenever unions are being
-discussed. The thing is, nobody really wants a strike to happen. Workers
-generally just want to be able to do their job in good conditions, while being
-paid fairly and in dignity. Strikes can be harrowing affairs for everyone
-involved.
+---
+title: Que sont les grèves ?
+type: unionfaqs
+---
+Le sujet de la grève sera nécessairement soulevé dès lors que l’on parle de syndicats. Cependant, de manière générale, personne ne veut vraiment qu’une grève se produise, et les travailleur·euse·s désirent simplement être en mesure de faire leur travail dans de bonnes conditions, avec dignité et un salaire convenable. Les grèves peuvent être un moment éprouvant pour toutes les personnes impliquées.
 
-But in a way, it's the hypothetical possibility of calling a strike that forms
-the basis of our power when we unionize. It's because our labour is the source
-of all profits that the idea of workers withdrawing that labour is so
-threatening to bosses. [It's our biggest bargaining
-chip]{custom-style="FAQ-Bold"}.
+Mais d’une certaine manière, c’est la possibilité de pouvoir déclencher une grève qui forme la base de notre pouvoir lorsque l’on décide de se syndiquer. C’est parce que notre travail est la source de tous les profits que l’idée que les travailleur·euse·s puissent cesser leur labeur est une si grande menace pour les patron·ne·s. **C’est notre plus grand pouvoir de négociation**.
 
-Ideally, strikes would never happen, and reason would always prevail in
-negotiations with bosses. When strikes do happen, it's because those
-negotiations already failed, and an acceptable agreement couldn't be reached
-between management and the union. Everybody wants to avoid that and find a
-better solution, but the important thing to remember is that without the
-potential to call a strike as a last-resort measure, workers would have no real
-leverage with bosses, and bosses would have no reason to take them seriously.
-:::
+Idéalement, les grèves n’auraient jamais lieu, et la raison aurait le dessus lors des négociations avec les patron·ne·s. Quand les grèves ont lieu, c’est parce que ces négociations ont déjà échoué, et qu’un accord acceptable n’a pas pu être atteint entre la direction et le syndicat. Tout le monde veut éviter ça et trouver une meilleure solution, mais il faut se souvenir que sans le pouvoir d’appeler à la grève comme issue de dernier recours, les travailleur·euse·s n’auraient aucun réel moyen de pression sur les patron·ne·s, et les patron·ne·s n’auraient aucune raison de les prendre au sérieux.
+
+<div class="md-img">
+<img
+  src="/images/faqs/nitw_picket.png"
+  alt="Screenshot de Night in the Woods: Tu descends faire le piquet de grève avec nous si on sort?"
+/>
+</div>

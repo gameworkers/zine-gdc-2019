@@ -1,34 +1,26 @@
-::: {custom-style="UnionFAQs"}
-It's easy to forget that labour issues have been central to the business of
-making games from the very beginning. Easter eggs, now a widely-known phenomenon
-in games, initially emerged from issues around crediting and disputes between
-workers and management at game companies.
+---
+title: Un passif d'agitation
+type: unionfaqs
+---
+Il est facile d’oublier que les questions touchant le travail sont centrales au sujet de la création de jeu depuis ses origines. Les Easter Eggs, un phénomène maintenant très connu, sont initialement apparus suite à des conflits entre travailleur·euse·s et management dans des compagnies de jeu vidéo, et des questions de crédits non-attribués.
 
-Warren Robinett was developing Adventure at Atari in the late 70s. At that time,
-it was typical for studios to suppress any attribution for the games they
-released to prevent competitors from poaching their talent (and to make it
-harder for workers to establish a provable portfolio of work to get hired
-elsewhere or develop a reputation of auteurship). In protest, Robinett
-introduced an additional room to the game, carefully hiding it behind a
-convoluted series of tasks so that it wouldn't be discovered until after
-release, that would display the words "Created by Warren Robinett."
+Warren Robinett développait Adventure chez Atari dans les années 70. A l'époque, il était habituel pour les studios d'éviter toute forme d’attribution du travail dans les jeux qu’ils publiaient afin d'empêcher les concurrents de "voler" leurs talents (et pour les travailleur·euse·s, il était donc plus compliqué de prouver la véracité de leur portfolio, donc plus difficile de se faire recruter ailleurs ou de développer une réputation de créateur·rice). En protestation, Robinett décida d’ajouter une salle secrète dans le jeu, précautionneusement camouflée derrière une série d’objectifs alambiqués pour empêcher qu’elle soit trouvée avant la sortie du jeu, dans laquelle les mots “Created by Warren Robinett” étaient affichés.
 
-When the Easter egg was discovered by Atari, Robinett had already left the
-company, but that didn't stop them from devoting development resources to
-uncovering the offending code. However, Brad Stewart, the Atari employee who
-tracked down the code in question, said that if he were to fix it, he'd just
-change the message in the game to say "Fixed by Brad Stewart" instead.
-Eventually, Atari management decided that Easter eggs should be permitted, and
-even encouraged developers to add them as a way to increase playtime and give
-players more value — but they generally limited them to developers' initials
-rather than full names.[18]{custom-style="Super"}
+<div class="md-img">
+<img
+  src="/images/faqs/adventure.png"
+  alt="Screenshot d'Adventure"
+/>
+</div>
 
-Developers have never really stopped hiding messages in games as protest or in
-hidden resistance. In the Italian translation of Final Fantasy VIII, When the
-"Scan" spell is cast on a placeholder debug enemy, a message is shown written by
-the translator themself: "This translation is killing me. It's almost 2 in the
-morning. I'm tired!!!! I'm tired!!!!"[19]{custom-style="Super"}
-:::
+Quand cet Easter Egg a été découvert par Atari, Robinett avait déjà quitté la compagnie, mais cela ne les a pas empêchés de déployer des ressources et du temps de développement pour chercher le code associé à l'easter egg.
+Cependant, Brad Stewart, l'employé d’Atari chargé de traquer le code en question, a choisi d'annoncer que si on le chargeait de “réparer” la salle secrète, il remplacerait simplement le message par “Fixed by Brad Stewart”. La direction d’Atari décida finalement que les Easter Eggs étaient autorisés, et encouragea même les développeur·euse·s à en ajouter afin d’augmenter le temps de jeu et donner plus de surprises aux joueur·euse·s - [tout en limitant en général les signatures des développeur·euse·s à leurs initiales plutôt qu'à leurs noms complets.](https://books.google.ca/books?id=aZv6AQAAQBAJ&pg=PA713&lpg=PA713#v=onepage&q&f=false).
 
+Les développeur·euse·s n’ont jamais vraiment arrêté de cacher des messages dans leurs jeux en forme de protestation, ou en résistance cachée. Dans la traduction italienne du jeu Final Fantasy VIII, [quand le sort “Scan” est lancé sur un ennemi de débug](https://twitter.com/SimplyRagny/status/1058198479707820032), un message apparaît, écrit par le traducteur lui-même: “Cette traduction est en train de me tuer. Il est presque 2h du matin. Je suis fatigué !!! Fatigué !!!”
 
-
+<div class="md-img">
+<img
+  src="/images/faqs/ff8.png"
+  alt="Screenshot de Final Fantasy 8"
+/>
+</div>

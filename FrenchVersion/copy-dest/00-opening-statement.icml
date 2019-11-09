@@ -61,7 +61,7 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Les conditions de travail et les licenciements de masse dans l’industrie du jeu vidéo ont fait beaucoup de bruit depuis plusieurs années. Mais malgré les protestations, bien peu de choses ont changé — à dire vrai, les choses semblent empirer. En 2018, nous avons décidé de prendre les choses en main et avons créé </Content>
+    <Content>Les conditions de travail et les licenciements de masse dans l’industrie du jeu vidéo font beaucoup de bruit depuis plusieurs années. Mais malgré les protestations, bien peu de choses ont changé — à dire vrai, tout semble empirer. En 2018, nous avons décidé de prendre les choses en main et avons créé </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
@@ -69,7 +69,7 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (GWU) afin de se battre collectivement pour de meilleures conditions.</Content>
+    <Content> (GWU) afin de se battre collectivement pour de meilleures conditions de travail.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -81,13 +81,13 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Vous avez du mal à payer vos factures? Vous ne bénéficiez pas d’une assurance santé, ou de congés parentaux ou congés maladie?</Content>
+    <Content>Vous avez du mal à payer vos factures? Vous ne bénéficiez pas d’une assurance santé, ou de congés parentaux ou maladie?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Subissez-vous du harcèlement au travail? Suspectez vous d’être payé moins que vos collègues à cause de votre genre ou vos origines?</Content>
+    <Content>Subissez-vous du harcèlement au travail? Suspectez vous d’être payé·e moins que vos collègues à cause de votre genre ou vos origines?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -117,7 +117,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>GWU est composé exclusivement d’employé·e·s — aucun boss! — et a des chapitres tout autour du monde. Nous construisons un mouvement de solidarité pro-syndicat et aidons les employé·e·s du jeu vidéo à s’organiser pour obtenir de meilleurs conditions de travail.</Content>
+    <Content>GWU est composé exclusivement d’employés — aucun boss! — et a des chapitres tout autour du monde. Nous construisons un mouvement de solidarité pro-syndicat et aidons les employés du jeu vidéo à s’organiser pour obtenir de meilleurs conditions de travail.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

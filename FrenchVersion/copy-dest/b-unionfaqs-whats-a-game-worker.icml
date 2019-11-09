@@ -4,7 +4,12 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/FAQ-Bold" Name="FAQ-Bold" FontStyle="Bold">
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -24,7 +29,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -44,72 +49,80 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>You may notice us using terms like </Content>
+    <Content>Vous avez peut-être remarqué notre usage, au sein de ce zine, de termes tels qu’”employé·e” ou </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“employee”</Content>
+    <Content>“travailleur·euse”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and </Content>
+    <Content> lorsque nous ne parlons pas d’un métier spécifique (comme </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“worker”</Content>
+    <Content>“programmeur·euse”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> in this zine when we’re not speaking about a specific trade (like </Content>
+    <Content> ou </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“programmer”</Content>
+    <Content>“artiste”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> or </Content>
+    <Content>). Pourquoi ne pas simplement dire </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“artist”</Content>
+    <Content>“développeur·euse de jeu”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). Why not just </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“game dev”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>? Isn’t that simpler?</Content>
+    <Content> ? N’est-ce pas plus simple ?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>When we talk about game workers, we’re referring to </Content>
+    <Content>Quand on parle de travailleur·euse·s du jeu vidéo, on se réfère à </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>anyone involved with the production of a game</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Programmers, artists, designers, musicians? Yep. Voice and mocap actors, audio engineers? Definitely. Community managers? Of course. But we’re also talking about workers whom players may not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the coltan used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, these workers are all </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>essential to the production of games</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>n’importe quelle personne qui soit impliquée dans la production d’un jeu</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. They’re game workers too.</Content>
+    <Content>. Programmeur·euse·s, artistes, designers et musiciens? Yep. Acteur·rice·s de doublage et de mocap, ingénieurs audio ? Bien sûr. Community managers ? Évidemment. Mais nous parlons aussi des travailleur·euse·s que les joueurs ne vont pas forcément immédiatement associer à la production. Qu’en est-il des ouvrier·e·s dans les usines qui manufacturent les consoles sur lesquelles nous jouons? Et des travailleur·euse·s qui minent le </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>coltan</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> utilisé dans nos consoles? Et des gens qui travaillent à la cafétéria dans le campus des grandes compagnies ? Même si c’est moins évident, ces travailleur·euse·s sont tous </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>essentiels à l’aboutissement de la production de jeu</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Ils sont aussi des travailleur·euse·s du jeu vidéo.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If you’re in the industry but currently unemployed, </Content>
+    <Content>Si vous êtes dans l’industrie mais présentement sans emploi, </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/FAQ-Bold">
-    <Content>you’re also a game worker</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>vous êtes aussi un travailleur·euse du jeu vidéo</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. The same goes for students and interns. In an industry where so much labour is erased or goes unrecognized, it’s important that we stick together and resist bosses’ efforts to divide and conquer.</Content>
+    <Content>. Il en est de même pour les étudiant·e·s et stagiaires. Dans une industrie où tant de labeur est effacé ou ne trouve jamais de reconnaissance, il est important de rester solidaires et de résister aux tentatives des patron·ne·s visant à diviser pour mieux régner.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" Name="link" DestinationURL="https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

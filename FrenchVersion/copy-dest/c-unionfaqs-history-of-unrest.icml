@@ -4,7 +4,7 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Super" Name="Super">
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -24,7 +24,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/UnionFAQs &gt; Paragraph" Name="UnionFAQs &gt; Paragraph" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -44,54 +44,98 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>It’s easy to forget that labour issues have been central to the business of making games from the very beginning. Easter eggs, now a widely-known phenomenon in games, initially emerged from issues around crediting and disputes between workers and management at game companies.</Content>
+    <Content>Il est facile d’oublier que les questions touchant le travail sont centrales au sujet de la création de jeu depuis ses origines. Les Easter Eggs, un phénomène maintenant très connu, sont initialement apparus suite à des conflits entre travailleur·euse·s et management dans des compagnies de jeu vidéo, et des questions de crédits non-attribués.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Warren Robinett was developing Adventure at Atari in the late 70s. At that time, it was typical for studios to suppress any attribution for the games they released to prevent competitors from poaching their talent (and to make it harder for workers to establish a provable portfolio of work to get hired elsewhere or develop a reputation of auteurship). In protest, Robinett introduced an additional room to the game, carefully hiding it behind a convoluted series of tasks so that it wouldn’t be discovered until after release, that would display the words </Content>
+    <Content>Warren Robinett développait Adventure chez Atari dans les années 70. A l’époque, il était habituel pour les studios d’éviter toute forme d’attribution du travail dans les jeux qu’ils publiaient afin d’empêcher les concurrents de </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“Created by Warren Robinett.”</Content>
+    <Content>“voler”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> leurs talents (et pour les travailleur·euse·s, il était donc plus compliqué de prouver la véracité de leur portfolio, donc plus difficile de se faire recruter ailleurs ou de développer une réputation de créateur·rice). En protestation, Robinett décida d’ajouter une salle secrète dans le jeu, précautionneusement camouflée derrière une série d’objectifs alambiqués pour empêcher qu’elle soit trouvée avant la sortie du jeu, dans laquelle les mots </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Created by Warren Robinett”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> étaient affichés.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>When the Easter egg was discovered by Atari, Robinett had already left the company, but that didn’t stop them from devoting development resources to uncovering the offending code. However, Brad Stewart, the Atari employee who tracked down the code in question, said that if he were to fix it, he’d just change the message in the game to say </Content>
+    <Content>Quand cet Easter Egg a été découvert par Atari, Robinett avait déjà quitté la compagnie, mais cela ne les a pas empêchés de déployer des ressources et du temps de développement pour chercher le code associé à l’easter egg. Cependant, Brad Stewart, l’employé d’Atari chargé de traquer le code en question, a choisi d’annoncer que si on le chargeait de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“réparer”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> la salle secrète, il remplacerait simplement le message par </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Fixed by Brad Stewart”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> instead. Eventually, Atari management decided that Easter eggs should be permitted, and even encouraged developers to add them as a way to increase playtime and give players more value — but they generally limited them to developers’ initials rather than full names.</Content>
+    <Content>. La direction d’Atari décida finalement que les Easter Eggs étaient autorisés, et encouragea même les développeur·euse·s à en ajouter afin d’augmenter le temps de jeu et donner plus de surprises aux joueur·euse·s - </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
-    <Content>18</Content>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>tout en limitant en général les signatures des développeur·euse·s à leurs initiales plutôt qu’à leurs noms complets.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnionFAQs &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Developers have never really stopped hiding messages in games as protest or in hidden resistance. In the Italian translation of Final Fantasy VIII, When the </Content>
+    <Content>Les développeur·euse·s n’ont jamais vraiment arrêté de cacher des messages dans leurs jeux en forme de protestation, ou en résistance cachée. Dans la traduction italienne du jeu Final Fantasy VIII, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>quand le sort </Content>
+    </CharacterStyleRange>
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>“Scan”</Content>
+    </CharacterStyleRange>
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content> est lancé sur un ennemi de débug</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, un message apparaît, écrit par le traducteur lui-même: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“Scan”</Content>
+    <Content>“Cette traduction est en train de me tuer. Il est presque 2h du matin. Je suis fatigué !!! Fatigué !!!”</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> spell is cast on a placeholder debug enemy, a message is shown written by the translator themself: </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“This translation is killing me. It’s almost 2 in the morning. I’m tired!!!! I’m tired!!!!”</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Super">
-    <Content>19</Content>
-  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032" Name="link" DestinationURL="https://twitter.com/SimplyRagny/status/1058198479707820032" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://twitter.com/SimplyRagny/status/1058198479707820032" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/SimplyRagny/status/1058198479707820032</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" Name="link" DestinationURL="https://books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//books.google.ca/books?id=aZv6AQAAQBAJ&amp;pg=PA713&amp;lpg=PA713#v=onepage&amp;q&amp;f=false</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

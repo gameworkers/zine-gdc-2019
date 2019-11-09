@@ -1,21 +1,7 @@
-::: {custom-style="UnionFAQs"}
-[What defines a union isn't the legal structure around
-it]{custom-style="FAQ-Bold"}. A union is a group of workers organizing together,
-regardless of whether or not they're a registered legal entity. If that's not
-always obvious today, it's because many governments impose daunting-sounding
-legal requirements for forming a union; for example, in Australia a trade union
-needs at least 1000 members to be officially recognized. These requirements are
-the result of decades of lobbying by business owners. It's meant to weaken the
-power of labour and undermine our ability to build collective power.
+---
+title: Below the (Grass)root
+type: unionfaqs
+---
+**Ce qui définit un syndicat n’est pas la structure légale qui l’entoure**. Un syndicat est un groupe de travailleur·euse·s qui s’organisent ensemble, qu’importe qu’ils constituent une entité légale enregistrée ou non. Si ce n’est pas toujours évident de nos jours, c’est parce que beaucoup de gouvernements imposent des obligations légales intimidantes pour former un syndicat; par exemple, un syndicat en Australie nécessite au moins 1000 membres pour être officiellement reconnu. Ces obligations sont le résultat de décennies de lobbying par les chefs d’entreprises. Leur but est d’affaiblir le pouvoir des travailleurs et saper leur capacité à construire un pouvoir collectif.
 
-Fortunately, we don't need to follow these rules to start organizing! And you
-definitely don't need your whole industry or your whole workplace on board to
-start changing things for the better. You can start by talking to your coworkers
-— off the clock, in private — about things you wish were better. Existing labour
-organizations can help you figure out how to rally together and get organized
-from the ground up. And if you're working in a big multinational, international
-groups like the Industrial Workers of the World (IWW) might be your best help at
-building workplace solidarity across offices and borders: one of the ways unions
-have been hobbled by law is by limiting their legal existence to a single
-country.
-:::
+Heureusement, nous n’avons pas besoin de suivre ces règles pour commencer à nous organiser ! Et vous n’avez pas besoin que l’entièreté de votre industrie ou lieu de travail soit prête à s’engager pour commencer à changer les choses pour le mieux. Vous pouvez commencer par parler à vos collègues - en dehors des heures de travail, en privé - à propos des choses que vous souhaiteriez voir s’améliorer. Des organisations de travailleur·euse·s existantes peuvent vous aider à trouver le moyen de vous rallier ensemble et de vous organiser en partant de rien. Et si vous travaillez dans une grande multinationale, les groupes internationaux tels que l’IWW (Industrial Workers of the World) seront peut-être votre meilleure aide pour établir une solidarité au travail, à travers les bureaux et frontières : une des façons dont les syndicats ont été entravés par la loi est en limitant leur existence légale à un seul pays.

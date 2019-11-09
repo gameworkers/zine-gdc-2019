@@ -1,91 +1,69 @@
-### **_Dear Reader…_**
+---
+title: Du bureau des éditeurs
+---
+### ***Cher·e·s lecteur·rice·s…***
 
-Welcome back to another thrilling issue of the **Game Workers Unite magazine**.
-By the time this mag, hot off the presses, reaches your shaking, excited hands,
-GWU will be celebrating its **first anniversary**. We thought we'd take a moment
-to reflect on the tidings of the past year, both good and ill.
+Bienvenue dans une nouvelle édition fascinante du **magazine Game Workers Unite**. 
+Au moment où ce magazine, encore tout chaud, arrivera dans vos mains tremblantes 
+d’enthousiasme, GWU célèbrera son **premier anniversaire**. Nous pensions donc 
+prendre un moment pour observer les nouvelles récentes, bonnes et mauvaises.
 
-**Let's start with the ill**. Telltale, Capcom Vancouver, Visceral, Big Fish,
-Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet
-Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft,
-GOG, Techland, NetEase, Valve, and Activision Blizzard — and forgive us if we've
-forgotten anyone, it's been a little hard to keep count — all suffered mass
-layoffs or were shuttered outright.
 
-You might not recognize all these names, but if you've been in the industry for
-a while there's a good chance you know someone who's been affected. Between
-September and October 2018 alone, **at least 800 game workers** lost their jobs.
-February 2019's toll stands at **at least 1000 lost jobs**. With the swift drop
-of an axe, the Firemonkeys layoffs singlehandedly shrank the Australian games
-industry workforce by 5% — just months after they extended an invitation to
-former Capcom and Telltale employees on Twitter noting they were
-hiring[1]{custom-style="Super"}. All in all, **thousands of industry jobs have
-been lost over the past year**.
+**Commençons par les mauvaises**. Telltale, Capcom Vancouver, Visceral, Big Fish,
+Disney Canada, Six Foot, Trion Worlds, Carbine, Notiga, Boss Key, Runic,
+Bartlet Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet et NCSoft,
+GOG, Techland, NetEase, Valve et Activision Blizzard – et pardonnez-nous si 
+nous en oublions, il est dur de garder le compte – ont tous souffert de 
+licenciements massifs ou été complètement fermés.
 
-Why are all these layoffs happening, you ask? Why, record-breaking revenues, of
-course! In a press release to investors the day layoffs started at Activision,
-CEO Bobby Kotick wrote: "While our financial results for 2018 were the **best in
-our history**, we didn't realize our full potential."[2]{custom-style="Super"}
-(_Full potential_? Seriously? He sounds like a parent disowning their child for
-getting perfect grades and an inbox full of scholarship offers. We'd also be
-remiss to fail to note that Kotick himself is one of the highest-paid CEOs — not
-just in the games industry, not just in tech, not just in America, but
-everywhere, of all time.) Elsewhere, Telltale's fall from massive critical and
-commercial success, widely attributed to routine mismanagement and nearsighted
-pursuit of profit on the part of its shareholders, is by now
-well-documented[3]{custom-style="Super"}.
 
-It's been a rough, scary year for those of us working in the industry, and signs
-don't point to things getting better anytime soon. **But we're starting to fight
-back**.
+Vous ne reconnaissez peut-être pas tous ces noms, mais si vous êtes dans l’industrie
+depuis un moment, il y a de fortes chances pour que vous connaissiez quelqu’un
+qui a été affecté. Rien qu’entre Septembre et Octobre 2018, au moins **800
+travailleur·se·s du jeu vidéo** ont perdu leur emploi.
+En Février 2019, **au moins 1000 postes** ont été supprimés. Les licenciements chez
+Firemonkeys ont à eux seuls réduit la taille de la main d’oeuvre de l’industrie
+du jeu vidéo Australienne de 5% – seulement quelques mois après qu’ils aient
+invité d’anciens employés de Capcom et Telltale à candidater chez eux, [disant
+qu’ils étaient en plein recrutement](https://twitter.com/thefiremonkeys/status/1043333183268257792). 
+Au final, **des milliers de postes dans l’industrie du jeu vidéo ont été 
+perdus rien qu’au cours de l’année précédente**.
 
-In that same year of tumult, **over 25 local chapters of Game Workers Unite**
-were founded around the world. Earlier this year, **GWU UK formed an official
-trade union** in partnership with the Independent Workers Union of Great Britain
-(IWGB), joining the Syndicat des Travailleuse·eur·s du Jeu Vidéo (STJV) in
-France and the Game Makers of Finland as one of the first official unions
-representing game workers. GWU members have made zines, pamphlets, and other
-literature, and we've organized or taken part in dozens of panels,
-presentations, workshops, and public events. We've spoken to press, podcasters,
-and YouTubers, and helped shine a light on working conditions in the industry
-and the urgent need for unionization.
 
-But more than all that, **we've been engaging in on-the-ground organizing**.
-We've been forming workplace committees and building collective power to win
-concrete demands. There's a lot of underground work happening that you won't
-hear about because of the risks for the workers involved, but we've already
-helped win gratifying **legal victories against some of the industry's most
-powerful bosses **and **reclaim stolen wages.** This is arguably the most
-critical work we've been doing. Organizing is a long haul, and doing it in the
-open would only put workers' jobs and well-being on the line. But **a sea change
-is happening**, even if you can't feel the waves from the shore.
+À quoi tous ces licenciements sont-ils dûs ? À de nouveaux records de
+profits, bien sûr ! Le jour même où les licenciements débutaient chez Activision,
+le CEO Bobby Kotick [écrivait dans un communiqué](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288) adressé aux investisseurs
+“Bien que nos résultats financiers pour 2018 soient les **meilleurs de l’histoire
+de la compagnie**, nous n’avons pas atteint notre plein potentiel.”
+(*Plein potentiel* ? Sérieusement ? On croirait entendre un parent reniant son enfant
+alors même qu'il aurait obtenu d’excellentes notes et plein d’offres de bourses d’études. N’oublions
+pas de mentionner que Kotick lui-même est l’un des CEOs les mieux payés – pas juste
+dans l’industrie du jeu vidéo, ni juste dans le secteur technologique, ni juste
+aux États-Unis, mais dans le monde, et de tous les temps.) Par ailleurs, l'effondrement
+de Telltale après son succès commercial et critique, largement attribué à des
+problèmes de management et d'une poursuite aveugle du profit de la part des actionnaires,
+est dorénavant [bien documenté](https://www.youtube.com/watch?v=2VR7Hl6SuXE).
 
-Crucially, **we're not alone**. The international labour movement is picking up
-steam: in India, **between 150 and 200 million workers** joined a general strike
-against the Modi government's anti-labour policies. (For context, a strike of
-comparable size in Europe would include the **entire combined labour force of
-the UK, Germany, France, Italy, Spain, and Portugal**.) The 2018 US prison
-strike, where inmates demanded an end to prison slavery, dehumanizing
-conditions, and racial discrimination, saw participation in at least 17 states
-and solidarity actions across North America and around the globe.
+L’année passée a été rude et effrayante pour nous qui travaillons dans l’industrie,
+et rien ne semble indiquer que les choses vont s’améliorer de sitôt.
+**Mais nous commençons à riposter**.
 
-Even in the tech sector (which historically has not been fertile ground for
-labour organizing) significant movements and actions are taking place. At
-Google, employees banded together to protest military AI contracts and organized
-a walkout against sexual harassment and a culture hostile to marginalized
-people[4]{custom-style="Super"}. At Microsoft, workers are organizing against
-the use of their products for border policing and the surveillance of
-journalists and activists[5]{custom-style="Super"} and against the
-militarization of consumer technology like the Hololens[6]{custom-style="Super"}
-(which also concerns us, as many of these technologies are also developed for or
-used in games). Groups like Tech Workers Coalition are gaining traction as they
-support these struggles, and others, across their industry.
 
-Meanwhile, an international wave of strikes in education, healthcare,
-hospitality, transportation, and many other industries showcased the scale and
-scope of workers' dissatisfaction with the status quo.
+Dans la même année de tumulte, **plus de 25 chapitres locaux de Game Workers Unite** ont été fondés autour du globe. Plus tôt cette année, **[GWU UK](https://www.gwu-uk.org/) a établi un syndicat officiel** en partenariat avec l’IWGB (Independent Workers Union of Great Britain), rejoignant le STJV (Syndicat des travailleur·se·s du Jeu Vidéo) en France et les Game Makers de Finlande en tant que premiers syndicats officiels représentant les travailleur·se·s du jeu vidéo. Les membres du GWU ont conçu des [zines, pamphlets et autres documents](https://www.gameworkersunite.org/gwu-literature), et nous avons organisé ou pris part à des douzaines de tables rondes, présentations, ateliers et évènements publics. Nous avons parlé à la presse, aux podcasters et youtubers, et aidé à lever le voile sur les conditions de travail dans l’industrie, et le besoin urgent de se syndiquer.
 
-Together, we have the capacity to build a better, fairer, and more sustainable
-future for workers all around the globe. If you're a worker in games, abuses
-like **mass layoffs**, **crunch**, and **harassment** might seem like
-unavoidable realities of the industry. **But they don't have to be**. Join us.
+Mais au delà de tout ça, nous nous sommes **engagés dans une organisation sur le terrain**. Nous avons formé des comités au lieu de travail et bâti un pouvoir collectif pour gagner des demandes concrètes. Il y a beaucoup de travail caché dont vous n’entendrez pas parler pour éviter de compromettre les travailleurs impliqués, mais nous avons déjà aidé à remporter **des victoires légales très gratifiantes contre certains des patrons les plus puissants de l’industrie**, et réussi à **récupérer des salaires volés**. Il s’agit vraisemblablement du travail le plus crucial que nous ayons accompli. S’organiser est un long parcours, et le faire plus à découvert ne ferait que mettre en danger les postes et le bien être de certain·e·s travailleur·se·s. Mais **une vague de changement radical arrive**, même si vous ne la voyez pas encore.
+
+Et surtout, **nous ne sommes pas seuls**. Le mouvement syndical international accélère : en Inde, **entre 150 et 200 millions de travailleurs** ont rejoint une grève générale contre les politiques anti-travail du gouvernement Modi. (Pour le contexte, une grève de taille comparable en Europe inclurait **la force de travail combinée du Royaume-Uni, de l’Allemagne, de la France, de l’Italie, de l’Espagne et du Portugal**). Aux États-Unis, la grève des prisonniers de 2018 où les détenus ont réclamé la fin de l’esclavage carcéral, des conditions inhumaines et de la discrimination raciale, a compté des participants dans plus de 17 états, ainsi que de nombreuses actions de solidarité à travers l’Amérique du Nord et autour du globe.
+
+<div class="md-img right off-5">
+<img
+  src="/images/candle.svg"
+  alt="Candle"
+/>
+</div>
+
+Même dans le secteur de la technologie (qui, historiquement, n’a jamais été un terrain fertile pour l’organisation syndicale) des actions et mouvements significatifs sont en train de prendre place. Chez Google, les employés se sont alliés pour protester contre les contrats d’intelligence artificielle à portée militaire et ont [organisé un walkout](https://twitter.com/GoogleWalkout) contre le harcèlement sexuel et une culture de compagnie hostile aux personnes marginalisées. Chez Microsoft, les travailleurs’organisent contre l’usage de leurs produits dans la régulation des frontières et [la surveillance des journalistes et activistes](https://twitter.com/techworkersco/status/1103502027726995459), et contre [la militarisation de technologies de consommation telles que l’Hololens](https://twitter.com/MsWorkers4) (ce qui nous concerne également, étant donné que beaucoup de ces technologies sont également développées pour le jeu vidéo). Des groupes comme la Tech Workers Coalition gagnent en traction en supportant ces luttes et bien d’autres à travers leur industrie.
+
+Pendant ce temps, une vague internationale de grèves dans l’éducation, la santé, les transports et bien d’autres industries démontre l’échelle et la portée du mécontentement des travailleur·se·s envers le statu quo.
+
+Ensemble, nous sommes capables de bâtir un futur meilleur, plus juste et durable pour les travailleurs tout autour du monde. Si vous êtes un·e travailleur·se dans le jeu vidéo, les abus tels que les **licenciements de masse**, le **crunch** et le **harcèlement** peuvent sembler être des réalités inévitables de l’industrie. **Mais elles n’ont pas à l’être**. Rejoignez-nous.
