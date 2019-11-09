@@ -8,6 +8,16 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Link" Name="Bold Link" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -51,64 +61,84 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Labour conditions and mass layoffs in the game industry have made the news for years. But despite outcries, precious little has changed in that time — in fact, things seem to be getting worse. A year ago, we took matters into our own hands and started </Content>
+    <Content>Les conditions de travail et les licenciements de masse dans l’industrie du jeu vidéo ont fait beaucoup de bruit depuis plusieurs années. Mais malgré les protestations, bien peu de choses ont changé — à dire vrai, les choses semblent empirer. En 2018, nous avons décidé de prendre les choses en main et avons créé </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Game Workers Unite</Content>
-  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
+      <Content>Game Workers Unite</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (GWU) to collectively fight for better conditions.</Content>
+    <Content> (GWU) afin de se battre collectivement pour de meilleures conditions.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Are you tired of crunch?</Content>
+    <Content>Vous êtes fatigué·e?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Are you struggling to pay bills? Do you lack basic benefits like health care insurance or paid sick and parental leave?</Content>
+    <Content>Vous avez du mal à payer vos factures? Vous ne bénéficiez pas d’une assurance santé, ou de congés parentaux ou congés maladie?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Are you made to endure harassment at work?</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Do you suspect you’re paid less than your coworkers because of your race or gender?</Content>
+    <Content>Subissez-vous du harcèlement au travail? Suspectez vous d’être payé moins que vos collègues à cause de votre genre ou vos origines?</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As game workers, we recognize that </Content>
+    <Content>En tant que travailleur·euse·s du jeu vidéo, nous sommes conscients que </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>these widespread issues will persist as long as we have to depend on management to address them</Content>
+    <Content>ces problèmes fréquents continueront d’exister tant que nous seront dépendants du management pour les addresser</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. It is only through workers of the game industry organizing </Content>
+    <Content>. C’est seulement en organisant les employé·e·s du jeu vidéo </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>on our own terms</Content>
+    <Content>sous nos propres conditions</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and </Content>
+    <Content> et </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>in order to defend our collective interest as workers</Content>
+    <Content>afin de défendre nos intérêts collectifs en tant que travailleur·euse·s</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> that any progress will be possible.</Content>
+    <Content> qu’un réel progrès sera possible.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>GWU est composé exclusivement d’employé·e·s — aucun boss! — et a des chapitres tout autour du monde. Nous construisons un mouvement de solidarité pro-syndicat et aidons les employé·e·s du jeu vidéo à s’organiser pour obtenir de meilleurs conditions de travail.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>L’industrie du jeu vidéo effectue des profits record, cependant bien peu de cet argent finit par arriver dans les mains des personnes </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>qui créent véritablement les jeux</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Ensemble, nous avons le pouvoir de changer cette réalité.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gameworkersunite.org" Name="link" DestinationURL="https://gameworkersunite.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://gameworkersunite.org" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//gameworkersunite.org</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>
