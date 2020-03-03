@@ -1,0 +1,87 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Bold
+FamilyName:Gotham HTF
+StyleName:Bold
+FullName:Gotham HTF Bold
+MenuName:Gotham HTF
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34428
+FileModTime:1571707290
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Book
+FamilyName:Gotham HTF
+StyleName:Book
+FullName:Gotham HTF Book
+MenuName:Gotham HTF Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:33452
+FileModTime:1571707304
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Medium
+FamilyName:Gotham HTF
+StyleName:Medium
+FullName:Gotham HTF Medium
+MenuName:Gotham HTF Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34164
+FileModTime:1571707320
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Tertre-ExtraBoldItalic
+FamilyName:Tertre
+StyleName:Extra Bold Italic
+FullName:Tertre Extra Bold Italic
+MenuName:Tertre Med
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\tertre-xbol-ita.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:57224
+FileModTime:1571707538
+WeightClass:800
+WidthClass:5
+AngleClass:1
+%EndFont
+
