@@ -3,6 +3,46 @@
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArchivoBlack-Regular
+FamilyName:Archivo Black
+StyleName:Regular
+FullName:Archivo Black Regular
+MenuName:Archivo Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\ArchivoBlack-Regular.ttf
+DataFormat:sfntData
+FileLength:89156
+FileModTime:1580794682
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Black
+FamilyName:Gotham HTF
+StyleName:Black
+FullName:Gotham HTF Black
+MenuName:Gotham HTF Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\GothamHTF-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34984
+FileModTime:1573531474
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:Type1
 FontName:GothamHTF-Bold
 FamilyName:Gotham HTF
@@ -11,7 +51,7 @@ FullName:Gotham HTF Bold
 MenuName:Gotham HTF
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Bold.otf
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\GothamHTF-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -32,7 +72,7 @@ FullName:Gotham HTF Book
 MenuName:Gotham HTF Book
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Book.otf
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\GothamHTF-Book.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -53,12 +93,88 @@ FullName:Gotham HTF Medium
 MenuName:Gotham HTF Medium
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\GothamHTF-Medium.otf
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\GothamHTF-Medium.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:34164
 FileModTime:1571707320
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:104120
+FileModTime:1580794682
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+FullName:Open Sans Light
+MenuName:Open Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\OpenSans-Light.ttf
+DataFormat:sfntData
+FileLength:101696
+FileModTime:1580794682
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Regular
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans Regular
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:96932
+FileModTime:1580794682
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Teko-Medium
+FamilyName:Teko
+StyleName:Medium
+FullName:Teko Medium
+MenuName:Teko Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\Teko-Medium.ttf
+DataFormat:sfntData
+FileLength:287712
+FileModTime:1580794682
 WeightClass:500
 WidthClass:5
 AngleClass:0
@@ -74,7 +190,7 @@ FullName:Tertre Extra Bold Italic
 MenuName:Tertre Med
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:D:\Zine GWU\GWUZine_Remaster\Document fonts\tertre-xbol-ita.otf
+OutlineFileName:C:\Users\robot\Documents\GitHub\zine-gdc-2019\ZineRemaster_2020\Document fonts\tertre-xbol-ita.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
